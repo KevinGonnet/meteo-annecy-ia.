@@ -11,7 +11,7 @@ genai.configure(api_key=os.environ["GEMINI_API_KEY"])
 
 # LA MASTERCLASS : On force l'API Gemini à parler nativement en JSON (Zéro risque de plantage)
 generation_config = {"response_mime_type": "application/json"}
-model = genai.GenerativeModel('gemini-1.5-flash', generation_config=generation_config)
+model = genai.GenerativeModel('gemini-2.5-pro', generation_config=generation_config)
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
 DB_FILE = "data.json"
