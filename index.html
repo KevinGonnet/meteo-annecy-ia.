@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suivi Canicule - Annecy & Centre-Est</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-100 text-slate-800 font-sans p-4 md:p-8">
+
+    <div class="max-w-2xl mx-auto space-y-6">
+        
+        <header class="text-center mb-10">
+            <h1 class="text-3xl font-bold text-orange-600 mb-2">Suivi Canicule : Centre-Est</h1>
+            <p class="text-sm text-slate-500" id="date-maj">Chargement...</p>
+        </header>
+
+        <!-- Bloc 1 : En ce moment -->
+        <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
+            <h2 class="text-xl font-bold text-slate-800 mb-4 flex items-center">📍 En ce moment</h2>
+            <div id="bloc-obs" class="space-y-3">Chargement des données...</div>
+        </section>
+
+        <!-- Bloc 2 : Semaine à venir -->
+        <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
+            <h2 class="text-xl font-bold text-slate-800 mb-4 flex items-center">📅 La semaine à venir</h2>
+            <div id="bloc-j5" class="space-y-3">Chargement des données...</div>
+        </section>
+
+        <!-- Bloc 3 : Long terme -->
+        <section class="bg-white p-6 rounded-2xl shadow-sm border border-slate-200">
+            <h2 class="text-xl font-bold text-slate-800 mb-4 flex items-center">🔭 La lumière au bout du tunnel</h2>
+            <div id="bloc-lt" class="space-y-3">Chargement des données...</div>
+        </section>
+
+    </div>
+
+    <script>
+        // Va lire le fichier data.json généré par le bot
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('date-maj').innerText = `Dernière analyse de l'IA : ${data.mise_a_jour}`;
+                
+                // Remplissage En ce moment
+                document.getElementById('bloc-obs').innerHTML = `
+                    <p class="text-lg font-medium">${data.observations.titre}</p>
+                    <p class="text-slate-600">${data.observations.temperature_actuelle_et_ressenti}</p>
+                    <div class="mt-3 inline-block bg-red-100 text-red-800 px-3 py-1 rounded-full text-sm font-semibold">
+                        Nuit tropicale : ${data.observations.nuit_tropicale}
+                    </div>
+                `;
+
+                // Remplissage J+5 avec la mémoire (Changement)
+                let htmlJ5 = `<p class="text-slate-700">${data.previsions_j5.resume}</p>`;
+                if(data.previsions_j5.changement_depuis_hier && data.previsions_j5.changement_depuis_hier.length > 10) {
+                    htmlJ5 += `<div class="mt-4 p-3 bg-blue-50 border-l-4 border-blue-400 text-sm text-blue-800">
+                        <strong>🔄 Changement de scénario :</strong> ${data.previsions_j5.changement_depuis_hier}
+                    </div>`;
+                }
+                htmlJ5 += `<div class="mt-4 grid grid-cols-2 gap-4">
+                    <div class="bg-slate-50 p-3 rounded-lg"><span class="block text-xs text-slate-500 uppercase">Fin de canicule</span><span class="font-bold">${data.previsions_j5.date_fin_canicule_estimee}</span></div>
+                    <div class="bg-slate-50 p-3 rounded-lg"><span class="block text-xs text-slate-500 uppercase">Fiabilité</span><span class="font-bold">${data.previsions_j5.fiabilite_pourcentage}%</span></div>
+                </div>`;
+                document.getElementById('bloc-j5').innerHTML = htmlJ5;
+
+                // Remplissage Long terme
+                document.getElementById('bloc-lt').innerHTML = `
+                    <p class="text-slate-700">${data.tendances_longues.tendance_generale}</p>
+                    <p class="mt-2 text-emerald-600 font-medium">${data.tendances_longues.espoir_changement}</p>
+                `;
+            })
+            .catch(error => console.error("Erreur de chargement:", error));
+    </script>
+</body>
+</html>
+
