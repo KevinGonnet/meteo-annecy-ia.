@@ -1,0 +1,38 @@
+name: Météo IA Updater
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # S'exécute à 6h00 heure française (4h00 UTC)
+  workflow_dispatch: # Permet de lancer le script manuellement en cliquant sur un bouton
+
+permissions:
+  contents: write # Autorise le script à sauvegarder data.json dans le repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Installer les dépendances
+        run: pip install requests beautifulsoup4 google-generativeai
+
+      - name: Lancer le Cerveau IA
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
+
+      - name: Commit et push du nouveau data.json
+        run: |
+          git config --global user.name 'MeteoBot IA'
+          git config --global user.email 'bot@meteo.com'
+          git add data.json
+          git commit -m "Mise à jour météo automatique" || exit 0
+          git push
+          
