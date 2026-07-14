@@ -1,19 +1,14 @@
 {
-    "mise_a_jour": "2026-07-13 06:03",
-    "observations": {
-        "titre": "Canicule d'intensité exceptionnelle sur le Centre-Est et les vallées alpines",
-        "temperature_actuelle_et_ressenti": "Les maximales ont atteint des niveaux critiques avec 38,5°C à Lyon-Bron, 38,7°C à Bourgoin et localement plus de 40°C. Le ressenti est extrêmement éprouvant et étouffant, caractérisé par un effet de 'coup de chalumeau' desséchant qui fait perdre leurs feuilles aux arbres et tarit les cours d'eau.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Nuits tropicales généralisées et étouffantes sur l'ensemble du Centre-Est. Les températures minimales sont restées exceptionnellement élevées, ne descendant pas sous la barre des 20°C à 24°C (notamment 24,2°C à Grenoble et Artas, et jusqu'à 25,2°C à Four), empêchant tout rafraîchissement des habitations."
-    },
+    "mise_a_jour": "2026-07-14 06:12",
+    "observations": null,
     "previsions_j5": {
-        "resume": "Les experts s'accordent sur l'installation durable de la canicule. Il existe une grande incertitude et aucun consensus sur sa date de fin, celle-ci n'étant pas visible à court ou moyen terme, malgré de faibles signaux orageux très incertains en fin de semaine.",
-        "changement_depuis_hier": "La baisse temporaire des températures qui était envisagée pour les 8 et 9 juillet a complètement disparu des modélisations, confirmant un épisode plus long que prévu, même si l'intensité de la masse d'air est légèrement revue à la baisse par rapport aux runs de la veille.",
-        "date_fin_canicule_estimee": "Indéterminée (aucun signal de fin franc)",
-        "fiabilite_pourcentage": 20
+        "resume": "La canicule s'installe durablement avec des températures maximales prévues entre 35°C et 40°C. Bien qu'une instabilité orageuse soit envisagée pour le week-end du 11-12 juillet, les experts s'accordent à dire qu'aucun signal de fin franche n'est visible et que la chaleur persistera au-delà.",
+        "changement_depuis_hier": "La baisse des températures initialement modélisée autour du 8 et 9 juillet a totalement disparu des prévisions, confirmant un blocage chaud durable.",
+        "date_fin_canicule_estimee": "Indéterminée (pas de fin en vue avant la mi-juillet)",
+        "fiabilite_pourcentage": 85
     },
     "tendances_longues": {
-        "tendance_generale": "Incertitude marquée au-delà de 7 jours (après le 17 juillet). Bien qu'une baisse temporaire des températures soit modélisée entre le 17 et le 20 juillet, notamment sur la moitié nord, la tendance à long terme montre une résistance de la chaleur. Le scénario d'une goutte froide bloquée au large du Portugal fait craindre un retour rapide de conditions caniculaires par flux de sud, particulièrement sur la moitié sud.",
-        "espoir_changement": "L'espoir d'un changement durable de masse d'air ou d'une fin définitive du blocage est très fragile. Le rafraîchissement attendu semble s'atténuer au fil des réactualisations (simple répit temporaire). La goutte froide peine à progresser vers l'est pour déstabiliser durablement l'anticyclone, laissant le réservoir d'air torride espagnol et maghrébin en embuscade avec un risque important de reprise de la canicule."
+        "tendance_generale": "Incertitude très marquée au-delà du 17 juillet. Après un répit temporaire et limité des températures attendu entre le 17 et le 20 juillet (principalement sur la moitié Nord), les principaux modèles numériques (notamment GFS, ICON, UKMO) envisagent une résistance ou un retour rapide des fortes chaleurs. La persistance d'une goutte froide bloquée au large du Portugal fait craindre une nouvelle pompe à chaleur subtropicale.",
+        "espoir_changement": "L'espoir d'un changement durable de masse d'air est fragile et revu à la baisse. Bien qu'un rafraîchissement temporaire reste le scénario majoritaire (80%), la transition est jugée laborieuse. Le signal de fin de blocage anticyclonique s'effrite avec une baisse des températures qui pourrait s'avérer insuffisante pour retrouver les normales de saison, et un risque non négligeable (environ 20%) de reprise caniculaire d'ici le 20-21 juillet."
     }
 }
