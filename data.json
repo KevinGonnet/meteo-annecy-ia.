@@ -1,14 +1,14 @@
 {
-    "mise_a_jour": "2026-07-14 06:12",
+    "mise_a_jour": "2026-07-15 06:17",
     "observations": null,
     "previsions_j5": {
-        "resume": "La canicule s'installe durablement avec des températures maximales prévues entre 35°C et 40°C. Bien qu'une instabilité orageuse soit envisagée pour le week-end du 11-12 juillet, les experts s'accordent à dire qu'aucun signal de fin franche n'est visible et que la chaleur persistera au-delà.",
-        "changement_depuis_hier": "La baisse des températures initialement modélisée autour du 8 et 9 juillet a totalement disparu des prévisions, confirmant un blocage chaud durable.",
-        "date_fin_canicule_estimee": "Indéterminée (pas de fin en vue avant la mi-juillet)",
-        "fiabilite_pourcentage": 85
+        "resume": "Il existe une forte incertitude et aucun consensus sur la fin de la canicule. Alors qu'une baisse des températures était initialement espérée autour du 17 juillet grâce à un talweg, les dernières mises à jour des modèles (notamment GFS) sont pessimistes : elles repoussent la fin de la canicule à la fin du mois (parfois jusqu'au 26 juillet) avec des scénarios de rafraîchissement très affaiblis et de fortes divergences.",
+        "changement_depuis_hier": "Les signaux de rafraîchissement s'estompent. Les modélisations qui prévoyaient une baisse des températures après le 16-17 juillet ont été revues à la hausse, prolongeant la masse d'air chaud et limitant l'espoir d'une baisse significative.",
+        "date_fin_canicule_estimee": "Très incertaine (initialement prévue vers le 17 juillet, désormais repoussée potentiellement après le 26 juillet)",
+        "fiabilite_pourcentage": 30
     },
     "tendances_longues": {
-        "tendance_generale": "Incertitude très marquée au-delà du 17 juillet. Après un répit temporaire et limité des températures attendu entre le 17 et le 20 juillet (principalement sur la moitié Nord), les principaux modèles numériques (notamment GFS, ICON, UKMO) envisagent une résistance ou un retour rapide des fortes chaleurs. La persistance d'une goutte froide bloquée au large du Portugal fait craindre une nouvelle pompe à chaleur subtropicale.",
-        "espoir_changement": "L'espoir d'un changement durable de masse d'air est fragile et revu à la baisse. Bien qu'un rafraîchissement temporaire reste le scénario majoritaire (80%), la transition est jugée laborieuse. Le signal de fin de blocage anticyclonique s'effrite avec une baisse des températures qui pourrait s'avérer insuffisante pour retrouver les normales de saison, et un risque non négligeable (environ 20%) de reprise caniculaire d'ici le 20-21 juillet."
+        "tendance_generale": "La tendance reste dominée par une grande incertitude avec des températures globalement élevées. Les modèles hésitent entre un scénario extrême (porté par GFS) maintenant une puissante pompe à chaleur via une goutte froide sur l'Atlantique, et des modélisations plus tempérées (comme CEP) suggérant une baisse temporaire. La chaleur et les blocages chauds restent la menace principale.",
+        "espoir_changement": "Faible et temporaire. Le rafraîchissement espéré s'annonce très court, modeste et repoussé. Les modèles montrent une forte résistance de la masse d'air chaud, avec la menace persistante d'une nouvelle hausse des températures ou d'une reprise de la canicule, limitant l'espoir d'un véritable changement de masse d'air durable."
     }
 }
