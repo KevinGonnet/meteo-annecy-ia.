@@ -1,14 +1,14 @@
 {
-    "mise_a_jour": "2026-07-15 06:17",
+    "mise_a_jour": "2026-07-16 06:20",
     "observations": null,
     "previsions_j5": {
-        "resume": "Il existe une forte incertitude et aucun consensus sur la fin de la canicule. Alors qu'une baisse des températures était initialement espérée autour du 17 juillet grâce à un talweg, les dernières mises à jour des modèles (notamment GFS) sont pessimistes : elles repoussent la fin de la canicule à la fin du mois (parfois jusqu'au 26 juillet) avec des scénarios de rafraîchissement très affaiblis et de fortes divergences.",
-        "changement_depuis_hier": "Les signaux de rafraîchissement s'estompent. Les modélisations qui prévoyaient une baisse des températures après le 16-17 juillet ont été revues à la hausse, prolongeant la masse d'air chaud et limitant l'espoir d'une baisse significative.",
-        "date_fin_canicule_estimee": "Très incertaine (initialement prévue vers le 17 juillet, désormais repoussée potentiellement après le 26 juillet)",
-        "fiabilite_pourcentage": 30
+        "resume": "Une transition orageuse potentiellement violente est attendue pour mettre fin à la canicule, mais les prévisions météo révèlent une forte incertitude locale. Si une baisse globale des températures se dessine vers une période 'thermiquement plus raisonnable', le risque de 'flop' orageux dans certains secteurs (comme le sud de l'Isère ou le Lyonnais) fait craindre le maintien d'une forte chaleur là où les orages ne passeront pas.",
+        "changement_depuis_hier": "Le niveau d'alerte a augmenté avec le déclenchement d'une vigilance orange aux orages par Météo-France et des modélisations de rafales parfois extrêmes, bien que les modèles (Arome, ICON) divergent toujours fortement sur la localisation exacte des pluies.",
+        "date_fin_canicule_estimee": "Mercredi 15 juillet après-midi (à partir de 13h-15h avec le déclenchement des orages)",
+        "fiabilite_pourcentage": 70
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance reste dominée par une grande incertitude avec des températures globalement élevées. Les modèles hésitent entre un scénario extrême (porté par GFS) maintenant une puissante pompe à chaleur via une goutte froide sur l'Atlantique, et des modélisations plus tempérées (comme CEP) suggérant une baisse temporaire. La chaleur et les blocages chauds restent la menace principale.",
-        "espoir_changement": "Faible et temporaire. Le rafraîchissement espéré s'annonce très court, modeste et repoussé. Les modèles montrent une forte résistance de la masse d'air chaud, avec la menace persistante d'une nouvelle hausse des températures ou d'une reprise de la canicule, limitant l'espoir d'un véritable changement de masse d'air durable."
+        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une grande incertitude et la persistance de conditions chaudes. Le modèle GFS anticipe un scénario extrême avec une goutte froide sur l'Atlantique agissant comme une pompe à chaleur, maintenant des températures très élevées. Bien que d'autres modèles (comme le CEP) proposent un refoulement de la chaleur vers l'extrême sud grâce à des pressions scandinaves, l'atmosphère globale reste sous l'influence de masses d'air chaud.",
+        "espoir_changement": "L'espoir d'un véritable changement de masse d'air ou d'une fin de blocage anticyclonique est très mince et fragile. Le rafraîchissement envisagé autour du 17-18 juillet est qualifié de trop court et trop modeste, et les modélisations évoquent déjà le risque d'une transition directe vers une nouvelle vague de chaleur (la quatrième de l'été), matérialisant la persistance du blocage chaud."
     }
 }
