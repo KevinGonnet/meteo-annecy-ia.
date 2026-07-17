@@ -1,14 +1,19 @@
 {
-    "mise_a_jour": "2026-07-16 06:20",
-    "observations": null,
+    "mise_a_jour": "2026-07-17 06:18",
+    "observations": {
+        "titre": "Fin de la canicule sur le Centre-Est et les Savoie : les orages ont balayé la chaleur",
+        "temperature_actuelle_et_ressenti": "La baisse des températures est spectaculaire après le passage de la ligne orageuse. Les thermomètres affichent désormais des valeurs fraîches et très respirables, oscillant entre 16°C et 19°C au lever du jour. Le ressenti lourd a totalement été balayé par les fortes pluies et le vent, permettant enfin d'aérer efficacement les habitations.",
+        "indice_epuisement_sur_10": 3,
+        "nuit_tropicale": "Non. Grâce au déclenchement des hostilités orageuses dès la soirée, les températures sont rapidement passées sous la barre des 20°C. Les minimales (Tn) se sont stabilisées entre 16°C et 18°C, évitant ainsi une nuit tropicale étouffante sur le secteur."
+    },
     "previsions_j5": {
-        "resume": "Une transition orageuse potentiellement violente est attendue pour mettre fin à la canicule, mais les prévisions météo révèlent une forte incertitude locale. Si une baisse globale des températures se dessine vers une période 'thermiquement plus raisonnable', le risque de 'flop' orageux dans certains secteurs (comme le sud de l'Isère ou le Lyonnais) fait craindre le maintien d'une forte chaleur là où les orages ne passeront pas.",
-        "changement_depuis_hier": "Le niveau d'alerte a augmenté avec le déclenchement d'une vigilance orange aux orages par Météo-France et des modélisations de rafales parfois extrêmes, bien que les modèles (Arome, ICON) divergent toujours fortement sur la localisation exacte des pluies.",
-        "date_fin_canicule_estimee": "Mercredi 15 juillet après-midi (à partir de 13h-15h avec le déclenchement des orages)",
-        "fiabilite_pourcentage": 70
+        "resume": "Il y a un consensus général sur la fin de la canicule à court terme grâce à une transition orageuse majeure débutant le mercredi 15 juillet, qui laissera place à une période thermiquement plus raisonnable. Cependant, une forte incertitude persiste parmi les experts et les modèles concernant la localisation exacte, l'intensité des orages et le risque de 'flop' pluvieux dans certains secteurs (comme le sud de l'Isère), ce qui pourrait retarder localement le rafraîchissement.",
+        "changement_depuis_hier": "La veille a été marquée par des températures extrêmement élevées (jusqu'à 38°C à Lyon). Par rapport aux prévisions d'hier, la transition orageuse se précise avec le déclenchement d'une vigilance orange sur la quasi-totalité de Rhône-Alpes pour l'après-midi du mercredi 15 juillet, confirmant une baisse des températures à partir de la mi-journée.",
+        "date_fin_canicule_estimee": "Jeudi 16 juillet",
+        "fiabilite_pourcentage": 75
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une grande incertitude et la persistance de conditions chaudes. Le modèle GFS anticipe un scénario extrême avec une goutte froide sur l'Atlantique agissant comme une pompe à chaleur, maintenant des températures très élevées. Bien que d'autres modèles (comme le CEP) proposent un refoulement de la chaleur vers l'extrême sud grâce à des pressions scandinaves, l'atmosphère globale reste sous l'influence de masses d'air chaud.",
-        "espoir_changement": "L'espoir d'un véritable changement de masse d'air ou d'une fin de blocage anticyclonique est très mince et fragile. Le rafraîchissement envisagé autour du 17-18 juillet est qualifié de trop court et trop modeste, et les modélisations évoquent déjà le risque d'une transition directe vers une nouvelle vague de chaleur (la quatrième de l'été), matérialisant la persistance du blocage chaud."
+        "tendance_generale": "Persistance d'un blocage chaud avec de fortes incertitudes. Les modèles hésitent entre un rafraîchissement temporaire et le maintien d'une chaleur extrême, alimentée par une goutte froide sur l'Atlantique jouant le rôle de pompe à chaleur.",
+        "espoir_changement": "Très limité. Le signal de rafraîchissement s'atténue, s'annonçant trop court et modeste. Le risque d'une nouvelle vague de chaleur (possible 4ème vague) l'emporte sur une réelle transition vers une masse d'air plus fraîche de manière durable."
     }
 }
