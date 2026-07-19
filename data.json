@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-07-18 06:07",
+    "mise_a_jour": "2026-07-19 06:31",
     "observations": {
-        "titre": "Point météo Centre-Est : Chaleur historique et lourdeur étouffante après les orages",
-        "temperature_actuelle_et_ressenti": "Les températures maximales s'échelonnent généralement de 30°C à 35°C en plaine et dans les vallées (notamment 33,8°C à Coublevie et près de 35°C à Grenoble). Avec l'humidité résiduelle des orages, le ressenti est particulièrement lourd et étouffant, approchant localement les 40.",
+        "titre": "Bulletin météo Centre-Est : Chaleur accablante et lassitude face à une canicule durable",
+        "temperature_actuelle_et_ressenti": "Les températures maximales s'envolent à nouveau entre 32°C et 35°C dans les plaines et cuvettes du Centre-Est (jusqu'à 35,1°C relevés à Grenoble-SMH, 33,5°C à Sassenage, et 32,3°C à Challes-les-eaux). Le ressenti est extrêmement lourd, étouffant et humide en journée, amplifié par une inertie thermique étouffante à l'intérieur des habitations.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Bien que les températures minimales soient descendues sous les 20°C en dehors des centres-villes (entre 16°C et 18°C) à la faveur d'orages localement violents, la sensation de lourdeur nocturne reste très éprouvante pour les organismes après une série historique de plus de 35 jours consécutifs à plus de 30°C."
+        "nuit_tropicale": "Les nuits dites 'tropicales' persistent avec des minimales qui ne descendent pas sous la barre des 20°C, notamment à Lyon avec une Tn de 20,6°C (et encore 25,5°C observés à minuit au Parc de la Tête d'Or) ou encore à Coublevie avec une Tn de 20°C."
     },
     "previsions_j5": {
-        "resume": "La fin de la canicule est marquée par une transition orageuse violente mais incertaine. Si la baisse des températures vers des valeurs plus raisonnables est globalement acquise grâce à l'arrivée d'un front perturbé, il existe de fortes divergences entre les modèles (Arome, ICON) concernant la localisation exacte des orages, le risque de sécheresse persistante (effet de 'flop' pluvieux) et la violence des rafales de vent.",
-        "changement_depuis_hier": "Les prévisions se sont intensifiées avec le déclenchement d'une vigilance orange pour orages. Cependant, les modèles numériques fluctuent d'un run à l'autre (Arome diminue la durée de l'épisode, ICON décale les pluies vers le sud), et des pluies matinales inattendues viennent rebattre les cartes.",
-        "date_fin_canicule_estimee": "Mercredi après-midi (à partir de 13h avec le déclenchement des orages et de la vigilance orange)",
-        "fiabilite_pourcentage": 70
+        "resume": "La fin de la canicule est marquée par une transition orageuse violente mais hautement incertaine. Bien qu'une vigilance orange soit déclenchée pour mercredi après-midi, les experts soulignent de fortes divergences entre les modèles (notamment Arome et ICON) quant à la localisation des orages. Il existe un risque important de 'flop' pluvieux (du vent mais pas de pluie), ce qui retarderait la baisse des températures dans les zones non touchées, même si une période thermiquement plus raisonnable est attendue d'ici la fin de semaine.",
+        "changement_depuis_hier": "L'incertitude s'est accrue concernant la trajectoire et l'efficacité des orages. Certains modèles réduisent la durée et l'intensité des pluies, augmentant le risque d'un simple coup de vent sec sans baisse durable du thermomètre à l'échelle locale.",
+        "date_fin_canicule_estimee": "Mercredi 15 juillet après-midi (début de la transition)",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une grande chaleur avec un risque de blocage chaud persistant. Bien que le modèle européen (CEP) envisage une baisse temporaire des températures par le nord, le modèle américain (GFS) persiste à modéliser un scénario extrême de pompe à chaleur subtropicale induit par une goutte froide bloquée sur l'Atlantique.",
-        "espoir_changement": "L'espoir de changement réel de masse d'air ou de fin de blocage est très faible et incertain. Les tentatives de rafraîchissement s'annoncent éphémères et limitées, car la transition orageuse ou l'isolement de gouttes froides sur l'Atlantique risque de relancer des advections d'air brûlant plutôt que d'apporter un rafraîchissement durable."
+        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une forte incertitude, mais s'oriente globalement vers le maintien d'un temps chaud, voire très chaud. GFS persiste à modéliser un scénario extrême de 'pompe à chaleur' provoqué par une goutte froide sur l'Atlantique, maintenant un blocage chaud. Même si ce scénario est jugé isolé par rapport à d'autres modèles comme le CEP (qui voit un flux de nord rafraîchir temporairement la moitié nord), la tendance globale reste caractérisée par une chaleur persistante, particulièrement sur la moitié sud.",
+        "espoir_changement": "L'espoir d'un changement durable de masse d'air est très faible et s'amenuise. Le rafraîchissement envisagé autour du 17-18 juillet s'annonce trop modeste, temporaire et principalement limité aux régions septentrionales. La persistance de modélisations de gouttes froides sur l'Atlantique/Portugal fait craindre aux membres du forum le déclenchement d'une nouvelle vague de chaleur (la quatrième) plutôt qu'une véritable transition vers un flux perturbé et frais."
     }
 }
