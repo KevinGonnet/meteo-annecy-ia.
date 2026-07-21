@@ -1,19 +1,16 @@
 {
-    "mise_a_jour": "2026-07-20 06:48",
+    "mise_a_jour": "2026-07-21 06:29",
     "observations": {
-        "titre": "Bulletin de situation : Chaleur persistante et épuisante sur le Centre-Est",
-        "temperature_actuelle_et_ressenti": "Les maximales oscillent généralement entre 31°C et 35°C en plaine (jusqu'à 35.1°C relevés à Grenoble), tandis que les secteurs de moyenne montagne respirent un peu mieux sous la barre des 30°C. Le ressenti demeure globalement très lourd et sec avec une inertie thermique étouffante qui maintient la chaleur à l'intérieur des habitations.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "La baisse des températures nocturnes reste très laborieuse. Les nuits tropicales se maintiennent avec des Tn de 20°C à Coublevie et des valeurs exceptionnellement élevées au cœur de la cuvette lyonnaise, où l'on relevait encore 23.2°C à 4h du matin au Parc de la Tête d'Or."
+        "titre": "Bilan météo Centre-Est : Léger répit thermique grâce à la bise, mais chaleur persistante dans les cuvettes et grandes agglomérations",
+        "temperature_actuelle_et_ressenti": "Une baisse salutaire s'amorce avec des maximales qui repassent enfin sous les 30°C sur les plaines de l'ouest (27°C à 29°C de Tarare à la Bresse) sous l'effet d'une bise de nord bien appréciée. Le ressenti reste toutefois très chaud et lourd dans les vallées alpines, notamment autour de Grenoble qui enregistre encore 31°C à 32.9°C, maintenant des sols extrêmement secs.",
+        "indice_epuisement_sur_10": 6,
+        "nuit_tropicale": "Le phénomène persiste dans l'hyper-centre de Lyon où le thermomètre affichait encore 23.2°C à 4h du matin en raison de l'inertie urbaine, et reste tangentiel à Grenoble (minimales de 19.5°C à 19.8°C). Les zones de campagne et de moyenne montagne respirent nettement mieux avec des minimales salvatrices oscillant entre 11°C et 14°C."
     },
     "previsions_j5": {
-        "resume": "Il existe une incertitude notable concernant la fin précise de la canicule à l'échelle locale. Si un consensus se dégage sur une baisse globale des températures vers une période thermiquement plus raisonnable après le passage d'orages violents prévus ce mercredi, la localisation exacte et l'efficacité de ces orages restent incertaines. Un risque de 'flop' orageux localisé fait craindre que certains secteurs ne subissent des chaleurs prolongées s'ils sont évités par les perturbations.",
-        "changement_depuis_hier": "La situation s'est précisée avec le déclenchement d'une vigilance orange aux orages. Les modèles de prévision (Arome, ICON) se sont affinés, confirmant un risque de phénomènes violents (vent fort, grêle) dès mercredi après-midi, bien que la trajectoire exacte des précipitations reste très discutée.",
-        "date_fin_canicule_estimee": "Mercredi 15 juillet (en cours d'après-midi ou soirée selon les zones)",
-        "fiabilite_pourcentage": 70
+        "resume": "Il y a un consensus global des experts sur la fin de la canicule grâce à l'arrivée d'une transition orageuse qui amènera une période thermiquement plus raisonnable. Cependant, une forte incertitude persiste concernant la localisation précise, l'intensité et le timing des orages, certains craignant un 'flop' pluvieux et d'autres des rafales de vent tempétueuses.",
+        "changement_depuis_hier": "La surchauffe s'arrête avec le déclenchement d'une vigilance orange pour orages violents. Les modèles (Arome, ICON) ont ajusté leurs prévisions en montrant une baisse des températures dès le milieu de journée, même si les scénarios de précipitations restent très instables d'un run à l'autre.",
+        "date_fin_canicule_estimee": "Mercredi 15 juillet",
+        "fiabilite_pourcentage": 85
     },
-    "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours est caractérisée par une très forte incertitude et un conflit marqué entre les modèles numériques. GFS maintient un scénario extrême de blocage chaud avec une nouvelle goutte froide sur l'Atlantique agissant comme une pompe à chaleur, tandis que le CEP envisage une poussée d'air plus frais par le nord. Les fortes chaleurs, voire une nouvelle canicule, restent une menace majeure.",
-        "espoir_changement": "Le signal de fin de blocage anticyclonique ou de changement durable de masse d'air reste très fragile et contesté. Si un rafraîchissement temporaire et modeste est évoqué à court terme, les projections à plus long terme montrent une forte résistance de l'air chaud, douchant les espoirs d'un véritable répit durable."
-    }
+    "tendances_longues": null
 }
