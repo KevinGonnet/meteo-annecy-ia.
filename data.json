@@ -1,16 +1,19 @@
 {
-    "mise_a_jour": "2026-07-21 06:29",
+    "mise_a_jour": "2026-07-22 06:30",
     "observations": {
-        "titre": "Bilan météo Centre-Est : Léger répit thermique grâce à la bise, mais chaleur persistante dans les cuvettes et grandes agglomérations",
-        "temperature_actuelle_et_ressenti": "Une baisse salutaire s'amorce avec des maximales qui repassent enfin sous les 30°C sur les plaines de l'ouest (27°C à 29°C de Tarare à la Bresse) sous l'effet d'une bise de nord bien appréciée. Le ressenti reste toutefois très chaud et lourd dans les vallées alpines, notamment autour de Grenoble qui enregistre encore 31°C à 32.9°C, maintenant des sols extrêmement secs.",
-        "indice_epuisement_sur_10": 6,
-        "nuit_tropicale": "Le phénomène persiste dans l'hyper-centre de Lyon où le thermomètre affichait encore 23.2°C à 4h du matin en raison de l'inertie urbaine, et reste tangentiel à Grenoble (minimales de 19.5°C à 19.8°C). Les zones de campagne et de moyenne montagne respirent nettement mieux avec des minimales salvatrices oscillant entre 11°C et 14°C."
+        "titre": "Bilan météo Centre-Est : Respire-t-on enfin autour d'Annecy et de Grenoble ?",
+        "temperature_actuelle_et_ressenti": "Le bassin d'Annecy retrouve des couleurs après les récents orages avec une matinée agréable (14.7°C à Cran-Gevrier, 20.4°C en milieu de matinée) et un ressenti plus respirable grâce à une légère bise. Cependant, cette baisse reste relative : si Lyon stoppe sa série de fortes chaleurs sous les 30°C, Grenoble et le Sud de la région (Diois) subissent encore des maximales de 31°C à 35°C avec un ressenti lourd et fatigant.",
+        "indice_epuisement_sur_10": 7,
+        "nuit_tropicale": "Pas de nuit tropicale stricte observée autour d'Annecy (Tn de 14.7°C à 16.3°C), mais les minimales restent très éprouvantes dans la cuvette grenobloise avec près de 19°C à 20°C en hyper-centre, empêchant les habitations et les organismes de récupérer."
     },
     "previsions_j5": {
-        "resume": "Il y a un consensus global des experts sur la fin de la canicule grâce à l'arrivée d'une transition orageuse qui amènera une période thermiquement plus raisonnable. Cependant, une forte incertitude persiste concernant la localisation précise, l'intensité et le timing des orages, certains craignant un 'flop' pluvieux et d'autres des rafales de vent tempétueuses.",
-        "changement_depuis_hier": "La surchauffe s'arrête avec le déclenchement d'une vigilance orange pour orages violents. Les modèles (Arome, ICON) ont ajusté leurs prévisions en montrant une baisse des températures dès le milieu de journée, même si les scénarios de précipitations restent très instables d'un run à l'autre.",
-        "date_fin_canicule_estimee": "Mercredi 15 juillet",
-        "fiabilite_pourcentage": 85
+        "resume": "La fin de la canicule est prévue à partir du mercredi 15 juillet via une transition orageuse violente. Si la baisse des températures pour retrouver des valeurs plus raisonnables est acquise, une grande incertitude persiste sur la localisation exacte des orages, l'ampleur des précipitations (crainte de 'flop pluvieux') et la violence des rafales de vent.",
+        "changement_depuis_hier": "Les mailles fines (Arome, ICON) ont réajusté leurs trajectoires, décalant parfois les zones perturbées vers le sud et réduisant localement les cumuls de pluie prévus, tout en confirmant la baisse globale des températures après le passage du front.",
+        "date_fin_canicule_estimee": "15 juillet",
+        "fiabilite_pourcentage": 70
     },
-    "tendances_longues": null
+    "tendances_longues": {
+        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une grande incertitude et la menace d'une persistance des fortes chaleurs. Le modèle GFS modélise l'isolement d'une goutte froide sur le Portugal agissant comme une pompe à chaleur maintenant des températures extrêmes, tandis que le modèle européen (CEP) tente de faire progresser de l'air plus frais par le nord, limitant la canicule au sud.",
+        "espoir_changement": "L'espoir d'un véritable changement de masse d'air s'amenuise. Le rafraîchissement entrevu semble de plus en plus modeste et éphémère. Les modélisations récentes tendent à durcir la situation, repoussant le répit avec le risque d'enchaîner sur une nouvelle vague de chaleur en raison du blocage des basses pressions au nord."
+    }
 }
