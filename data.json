@@ -1,19 +1,16 @@
 {
-    "mise_a_jour": "2026-07-22 06:30",
+    "mise_a_jour": "2026-07-23 06:31",
     "observations": {
-        "titre": "Bilan météo Centre-Est : Respire-t-on enfin autour d'Annecy et de Grenoble ?",
-        "temperature_actuelle_et_ressenti": "Le bassin d'Annecy retrouve des couleurs après les récents orages avec une matinée agréable (14.7°C à Cran-Gevrier, 20.4°C en milieu de matinée) et un ressenti plus respirable grâce à une légère bise. Cependant, cette baisse reste relative : si Lyon stoppe sa série de fortes chaleurs sous les 30°C, Grenoble et le Sud de la région (Diois) subissent encore des maximales de 31°C à 35°C avec un ressenti lourd et fatigant.",
-        "indice_epuisement_sur_10": 7,
-        "nuit_tropicale": "Pas de nuit tropicale stricte observée autour d'Annecy (Tn de 14.7°C à 16.3°C), mais les minimales restent très éprouvantes dans la cuvette grenobloise avec près de 19°C à 20°C en hyper-centre, empêchant les habitations et les organismes de récupérer."
+        "titre": "Bulletin météo Centre-Est : Léger répit nocturne mais la forte chaleur résiste en journée",
+        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent à nouveau entre 29°C et 31°C dans la région (29,5°C relevés à Cran-Gevrier près d'Annecy, 31,3°C à Sassenage). Le ressenti à l'extérieur est temporairement atténué par une bise salvatrice et un air sec, bien que l'inertie thermique maintienne les intérieurs des appartements chauffés à blanc autour de 25°C.",
+        "indice_epuisement_sur_10": 6,
+        "nuit_tropicale": "Non, le seuil de nuit tropicale (Tn >= 20°C) n'est actuellement plus atteint. Les minimales ont amorcé une baisse bienvenue, oscillant entre 10°C et 15°C sur la région (notamment 12,2°C à Meythet et 14,7°C en banlieue d'Annecy), offrant un répit nocturne crucial malgré la sécheresse et vent."
     },
     "previsions_j5": {
-        "resume": "La fin de la canicule est prévue à partir du mercredi 15 juillet via une transition orageuse violente. Si la baisse des températures pour retrouver des valeurs plus raisonnables est acquise, une grande incertitude persiste sur la localisation exacte des orages, l'ampleur des précipitations (crainte de 'flop pluvieux') et la violence des rafales de vent.",
-        "changement_depuis_hier": "Les mailles fines (Arome, ICON) ont réajusté leurs trajectoires, décalant parfois les zones perturbées vers le sud et réduisant localement les cumuls de pluie prévus, tout en confirmant la baisse globale des températures après le passage du front.",
-        "date_fin_canicule_estimee": "15 juillet",
-        "fiabilite_pourcentage": 70
+        "resume": "Il y a un consensus général des experts sur une baisse des températures et un apport de fraîcheur significatif pour ce week-end (notamment dimanche et lundi), ce qui devrait mettre fin à la canicule/forte chaleur. Cependant, une forte incertitude persiste concernant les détails de la transition orageuse, les modèles météo étant qualifiés de très versatiles et changeants d'un run à l'autre.",
+        "changement_depuis_hier": "Les modèles de prévision sont devenus très instables et peinent à s'accorder sur la localisation précise et l'intensité des orages, bien que la tendance à la baisse des températures pour le week-end se solidifie.",
+        "date_fin_canicule_estimee": "Ce week-end (samedi / dimanche)",
+        "fiabilite_pourcentage": 75
     },
-    "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une grande incertitude et la menace d'une persistance des fortes chaleurs. Le modèle GFS modélise l'isolement d'une goutte froide sur le Portugal agissant comme une pompe à chaleur maintenant des températures extrêmes, tandis que le modèle européen (CEP) tente de faire progresser de l'air plus frais par le nord, limitant la canicule au sud.",
-        "espoir_changement": "L'espoir d'un véritable changement de masse d'air s'amenuise. Le rafraîchissement entrevu semble de plus en plus modeste et éphémère. Les modélisations récentes tendent à durcir la situation, repoussant le répit avec le risque d'enchaîner sur une nouvelle vague de chaleur en raison du blocage des basses pressions au nord."
-    }
+    "tendances_longues": null
 }
