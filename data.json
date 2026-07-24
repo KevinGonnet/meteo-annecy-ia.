@@ -1,16 +1,19 @@
 {
-    "mise_a_jour": "2026-07-23 06:31",
+    "mise_a_jour": "2026-07-24 06:27",
     "observations": {
-        "titre": "Bulletin météo Centre-Est : Léger répit nocturne mais la forte chaleur résiste en journée",
-        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent à nouveau entre 29°C et 31°C dans la région (29,5°C relevés à Cran-Gevrier près d'Annecy, 31,3°C à Sassenage). Le ressenti à l'extérieur est temporairement atténué par une bise salvatrice et un air sec, bien que l'inertie thermique maintienne les intérieurs des appartements chauffés à blanc autour de 25°C.",
-        "indice_epuisement_sur_10": 6,
-        "nuit_tropicale": "Non, le seuil de nuit tropicale (Tn >= 20°C) n'est actuellement plus atteint. Les minimales ont amorcé une baisse bienvenue, oscillant entre 10°C et 15°C sur la région (notamment 12,2°C à Meythet et 14,7°C en banlieue d'Annecy), offrant un répit nocturne crucial malgré la sécheresse et vent."
+        "titre": "Bilan météo Centre-Est : Chaleur de retour autour d'Annecy et de l'Isère sous une bise asséchante",
+        "temperature_actuelle_et_ressenti": "Les températures maximales repassent localement la barre des 30°C, atteignant 30,6°C à Annecy-Cran et jusqu'à 31,3°C dans la cuvette grenobloise. Le ressenti est toutefois rendu supportable à l'ombre grâce à un air très sec (20% d'humidité relative) et une bise modérée, même si l'exposition au soleil reste éprouvante.",
+        "indice_epuisement_sur_10": 4,
+        "nuit_tropicale": "Aucune nuit tropicale n'est observée. Les minimales nocturnes restent particulièrement fraîches et salvatrices, oscillant généralement entre 11°C et 15°C (14,7°C à Annecy-Cran), ce qui permet de bien ventiler les habitations."
     },
     "previsions_j5": {
-        "resume": "Il y a un consensus général des experts sur une baisse des températures et un apport de fraîcheur significatif pour ce week-end (notamment dimanche et lundi), ce qui devrait mettre fin à la canicule/forte chaleur. Cependant, une forte incertitude persiste concernant les détails de la transition orageuse, les modèles météo étant qualifiés de très versatiles et changeants d'un run à l'autre.",
-        "changement_depuis_hier": "Les modèles de prévision sont devenus très instables et peinent à s'accorder sur la localisation précise et l'intensité des orages, bien que la tendance à la baisse des températures pour le week-end se solidifie.",
+        "resume": "Un consensus se dégage parmi les prévisionnistes pour une baisse des températures ce week-end grâce à un apport de fraîcheur solide à tous les étages, marquant la fin des fortes chaleurs. Cependant, une légère incertitude persiste sur le fait que les températures descendent ou non sous la barre des 30°C dans certains secteurs de plaine.",
+        "changement_depuis_hier": "La tendance à la baisse des températures pour le week-end se confirme et se solidifie dans les dernières modélisations, bien que les modèles numériques restent globalement très versatiles d'un run à l'autre.",
         "date_fin_canicule_estimee": "Ce week-end (samedi / dimanche)",
         "fiabilite_pourcentage": 75
     },
-    "tendances_longues": null
+    "tendances_longues": {
+        "tendance_generale": "La tendance à plus de 7 jours demeure très incertaine mais s'oriente vers la persistance de conditions très chaudes. Le modèle GFS modélise de façon insistante le maintien ou la reprise de fortes chaleurs via une goutte froide positionnée sur l'Atlantique/Portugal agissant comme une pompe à chaleur. Les autres modèles (comme le CEP) envisagent un rafraîchissement, mais celui-ci s'annonce de plus en plus limité et temporaire.",
+        "espoir_changement": "L'espoir d'un changement de masse d'air durable ou d'un déblocage anticyclonique est très faible. Le rafraîchissement initialement espéré autour du 17-18 juillet semble revu à la baisse (trop court et modeste), et le risque de voir la chaleur extrême se prolonger ou d'entamer une nouvelle vague de chaleur reste élevé en raison du comportement incertain des gouttes froides."
+    }
 }
