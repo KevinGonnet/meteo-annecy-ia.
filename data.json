@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-07-24 06:27",
+    "mise_a_jour": "2026-07-25 06:19",
     "observations": {
-        "titre": "Bilan météo Centre-Est : Chaleur de retour autour d'Annecy et de l'Isère sous une bise asséchante",
-        "temperature_actuelle_et_ressenti": "Les températures maximales repassent localement la barre des 30°C, atteignant 30,6°C à Annecy-Cran et jusqu'à 31,3°C dans la cuvette grenobloise. Le ressenti est toutefois rendu supportable à l'ombre grâce à un air très sec (20% d'humidité relative) et une bise modérée, même si l'exposition au soleil reste éprouvante.",
-        "indice_epuisement_sur_10": 4,
-        "nuit_tropicale": "Aucune nuit tropicale n'est observée. Les minimales nocturnes restent particulièrement fraîches et salvatrices, oscillant généralement entre 11°C et 15°C (14,7°C à Annecy-Cran), ce qui permet de bien ventiler les habitations."
+        "titre": "Pic de chaleur et assèchement dans le Centre-Est : le point météo",
+        "temperature_actuelle_et_ressenti": "Les maximales de la veille ont atteint 30°C à près de 34°C en plaine (notamment 33,9°C à Sassenage). Le ressenti actuel devient lourd sous un ciel qui s'ennuage, exacerbé par une évapotranspiration intense qui dessèche fortement les sols et les cultures.",
+        "indice_epuisement_sur_10": 7,
+        "nuit_tropicale": "En forte hausse. Après plusieurs nuits fraîches, le seuil de nuit tropicale est désormais localement frôlé ou atteint avec des températures minimales ce matin de 21,8°C à Bourgoin-Montbernier et Grenoble-CEA, et entre 18°C et 19°C à Villefontaine et Sassenage."
     },
     "previsions_j5": {
-        "resume": "Un consensus se dégage parmi les prévisionnistes pour une baisse des températures ce week-end grâce à un apport de fraîcheur solide à tous les étages, marquant la fin des fortes chaleurs. Cependant, une légère incertitude persiste sur le fait que les températures descendent ou non sous la barre des 30°C dans certains secteurs de plaine.",
-        "changement_depuis_hier": "La tendance à la baisse des températures pour le week-end se confirme et se solidifie dans les dernières modélisations, bien que les modèles numériques restent globalement très versatiles d'un run à l'autre.",
-        "date_fin_canicule_estimee": "Ce week-end (samedi / dimanche)",
+        "resume": "Il existe une forte incertitude et une grande volatilité des modèles numériques à court terme concernant la localisation et l'intensité exacte des orages. En revanche, un consensus se dégage pour la fin de semaine avec une dégradation solide attendue ce week-end, apportant une baisse notable des températures sous la barre des 30°C en plaine d'ici dimanche ou lundi, marquant ainsi la fin de la période de forte chaleur continue.",
+        "changement_depuis_hier": "Les prévisions restent extrêmement versatiles d'un run à l'autre pour les phénomènes orageux immédiats, mais la tendance à un rafraîchissement pour le week-end se confirme et se stabilise.",
+        "date_fin_canicule_estimee": "Ce week-end (baisse significative à partir de samedi, concrétisée dimanche)",
         "fiabilite_pourcentage": 75
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours demeure très incertaine mais s'oriente vers la persistance de conditions très chaudes. Le modèle GFS modélise de façon insistante le maintien ou la reprise de fortes chaleurs via une goutte froide positionnée sur l'Atlantique/Portugal agissant comme une pompe à chaleur. Les autres modèles (comme le CEP) envisagent un rafraîchissement, mais celui-ci s'annonce de plus en plus limité et temporaire.",
-        "espoir_changement": "L'espoir d'un changement de masse d'air durable ou d'un déblocage anticyclonique est très faible. Le rafraîchissement initialement espéré autour du 17-18 juillet semble revu à la baisse (trop court et modeste), et le risque de voir la chaleur extrême se prolonger ou d'entamer une nouvelle vague de chaleur reste élevé en raison du comportement incertain des gouttes froides."
+        "tendance_generale": "Persistance de conditions très chaudes avec un risque élevé de nouvelle vague de chaleur à plus de 7 jours (autour du 18-19 juillet). La modélisation d'une goutte froide sur l'Atlantique ou le Portugal menace de faire office de pompe à chaleur durable, maintenant des températures très élevées au moins sur la moitié sud du pays.",
+        "espoir_changement": "Très faible. Le signal de fin de blocage anticyclonique ou de réel changement de masse d'air s'estompe. Le rafraîchissement temporaire espéré s'annonce finalement très modeste, court et repoussé, tandis que les modèles (notamment GFS qui persiste dans des scénarios extrêmes) suggèrent plutôt la poursuite de la surchauffe et l'absence de répit durable."
     }
 }
