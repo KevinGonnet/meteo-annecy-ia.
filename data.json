@@ -1,19 +1,11 @@
 {
-    "mise_a_jour": "2026-07-26 06:38",
-    "observations": {
-        "titre": "Point météo Centre-Est : Chaleur éprouvante et contrastes orageux marqués",
-        "temperature_actuelle_et_ressenti": "Les maximales ont encore atteint 31°C à 33.2°C dans le bassin grenoblois et le Nord-Isère sous un vent du Sud asséchant. Sur le bassin d'Annecy, l'ambiance reste lourde avec une maximale de 27.0°C (Cran-Gevrier) et 54% d'humidité relative. Le passage des orages a toutefois permis une baisse temporaire et locale du ressenti, avec des températures chutant sous les 20°C sous les averses.",
-        "indice_epuisement_sur_10": 7,
-        "nuit_tropicale": "Évitée de justesse. L'activité pluvio-orageuse tardive a permis de faire fléchir le mercure en fin de nuit, évitant ainsi une nuit tropicale généralisée. Les températures minimales se sont stabilisées entre 17.6°C à Annecy et 18.0°C à Sassenage, même si la baisse s'est avérée très tardive."
-    },
+    "mise_a_jour": "2026-07-27 07:34",
+    "observations": null,
     "previsions_j5": {
-        "resume": "Il y a un consensus général des experts sur une baisse significative des températures pour le week-end à venir (samedi et dimanche) grâce à une dégradation solide apportant de la fraîcheur. Cependant, une incertitude subsiste sur l'interruption définitive de la série de jours à plus de 30°C, certains craignant que ce répit ne soit que temporaire avant une nouvelle hausse.",
-        "changement_depuis_hier": "Les modélisations se stabilisent vers un rafraîchissement marqué pour le week-end, même si les modèles météo restent très versatiles et dispersés d'un run à l'autre sur les détails des perturbations.",
-        "date_fin_canicule_estimee": "Ce week-end (à partir de samedi/dimanche)",
+        "resume": "Les prévisions font état d'une baisse des températures attendue pour le week-end grâce à une perturbation solide apportant de la fraîcheur à tous les étages. Les températures maximales devraient repasser sous la barre des 30°C dimanche et lundi. Cependant, une incertitude subsiste sur la durée de ce répit, certains experts craignant que la série des jours à plus de 30°C ne reprenne rapidement après le week-end.",
+        "changement_depuis_hier": "La tendance à une baisse thermique pour le week-end se confirme et semble solide, bien que les modèles météo aient montré beaucoup de versatilité et de dispersion les jours précédents.",
+        "date_fin_canicule_estimee": "Week-end du 20-21 juillet",
         "fiabilite_pourcentage": 75
     },
-    "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance globalement très chaude à l'échelle nationale. Les modèles numériques de prévision hésitent, mais le scénario majoritaire à long terme (au-delà du week-end du 18 juillet) montre la persistance ou le retour rapide de fortes chaleurs. Une goutte froide pourrait s'isoler sur l'Atlantique ou le Portugal, agissant comme une pompe à chaleur et bloquant l'arrivée d'air plus frais.",
-        "espoir_changement": "Les espoirs de changement durable ou de rafraîchissement significatif s'amenuisent. Le refroidissement initialement espéré s'annonce très temporaire et limité au tiers nord du pays (scénario CEP). GFS persiste à modéliser un blocage chaud persistant, voire l'enchaînement avec une quatrième vague de chaleur, réduisant à néant les perspectives de véritable transition vers une masse d'air fraîche."
-    }
+    "tendances_longues": null
 }
