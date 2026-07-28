@@ -1,11 +1,19 @@
 {
-    "mise_a_jour": "2026-07-27 07:34",
-    "observations": null,
-    "previsions_j5": {
-        "resume": "Les prévisions font état d'une baisse des températures attendue pour le week-end grâce à une perturbation solide apportant de la fraîcheur à tous les étages. Les températures maximales devraient repasser sous la barre des 30°C dimanche et lundi. Cependant, une incertitude subsiste sur la durée de ce répit, certains experts craignant que la série des jours à plus de 30°C ne reprenne rapidement après le week-end.",
-        "changement_depuis_hier": "La tendance à une baisse thermique pour le week-end se confirme et semble solide, bien que les modèles météo aient montré beaucoup de versatilité et de dispersion les jours précédents.",
-        "date_fin_canicule_estimee": "Week-end du 20-21 juillet",
-        "fiabilite_pourcentage": 75
+    "mise_a_jour": "2026-07-28 06:28",
+    "observations": {
+        "titre": "Bulletin Centre-Est & Annecy : répit temporaire avant un coup de chalumeau imminent",
+        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent actuellement entre 26.6°C et 28.1°C autour d'Annecy (Cran-Gevrier) et atteignent localement 29.5°C à 30.0°C dans le reste du Centre-Est sous l'effet de la bise. Le ressenti reste lourd et étouffant avec un taux d'humidité proche de 68% et l'approche d'une masse d'air caniculaire poussant l'isotherme 0°C à 5000m, annonçant des maximales futures de 34°C à 36°C.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Les minimales restent très douces et peinent à descendre sous la barre des 20°C. On relève des Tn de 17.1°C à Annecy et jusqu'à 19.8°C à l'aube dans les secteurs voisins. Les prévisions confirment l'installation imminente de véritables nuits tropicales généralisées (températures constamment supérieures à 20°C) en lien avec l'alerte canicule maximale émise sur la région frontalière."
     },
-    "tendances_longues": null
+    "previsions_j5": {
+        "resume": "Le retour d'une forte canicule se confirme pour la fin de semaine avec des températures attendues au-dessus de 40°C (notamment vers Lyon et Grenoble). Il existe cependant une forte incertitude et un manque de consensus sur la durée de cet épisode : certains experts prévoient une baisse rapide après 4 à 5 jours (début août), tandis que d'autres redoutent un blocage chaud beaucoup plus durable.",
+        "changement_depuis_hier": "Les modélisations ont légèrement revu à la baisse l'intensité globale et l'extension géographique de la canicule (la moitié Nord-Ouest étant désormais épargnée), bien que le Centre-Est reste exposé à une chaleur extrême.",
+        "date_fin_canicule_estimee": "Début août 2026 (très incertain)",
+        "fiabilite_pourcentage": 45
+    },
+    "tendances_longues": {
+        "tendance_generale": "La tendance à plus de 7 jours reste caractérisée par une forte incertitude mais s'oriente globalement vers le maintien de conditions chaudes, voire extrêmement chaudes. Les modèles météo (notamment GFS) divergent mais évoquent le risque d'une nouvelle pompe à chaleur liée à une goutte froide positionnée sur l'Atlantique/Portugal, maintenant des températures très élevées.",
+        "espoir_changement": "Le signal de changement de masse d'air durable ou de fin de blocage est extrêmement faible. Bien qu'un rafraîchissement temporaire ait été espéré, les dernières modélisations le montrent trop court et modeste. La menace d'une poursuite de la chaleur ou d'une nouvelle vague caniculaire à la mi-juillet l'emporte sur les espoirs de fraîcheur durable."
+    }
 }
