@@ -1,19 +1,14 @@
 {
-    "mise_a_jour": "2026-08-03 07:29",
+    "mise_a_jour": "2026-08-04 06:29",
     "observations": {
-        "titre": "Bilan de situation : Chaleur suffocante et lourdeur orageuse sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les thermomètres affichent des maximales de 31°C à 33°C sur le bassin d'Annecy et jusqu'à 36.5°C près de Grenoble. Avec une forte humidité ambiante, le ressenti frôle ou dépasse les 39°C par endroits, créant un effet de 'cocotte-minute' particulièrement désagréable.",
+        "titre": "Canicule et humidité étouffante sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent généralement entre 32°C et plus de 36°C (jusqu'à 36.5°C à Sassenage). L'humidité ambiante crée un effet 'cocotte-minute' particulièrement éprouvant avec des indices de ressenti (Humidex) frôlant les 40 (notamment 39.5 mesuré dans l'Ain). Le bassin d'Annecy connaît des maximales légèrement moins brûlantes mais l'atmosphère y reste très lourde et laiteuse.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Les nuits tropicales se généralisent avec des minimales restant au-dessus de 20°C sur le Lyonnais (21.7°C à 22.5°C) et le Grenoblois (jusqu'à 22.8°C), tandis que le bassin d'Annecy frôle ce seuil avec 20.1°C relevés sur les premières pentes du mont Veyrier."
+        "nuit_tropicale": "Le seuil de la nuit tropicale a été franchi ou frôlé sur de nombreux secteurs du Centre-Est, avec des températures minimales étouffantes de 20.2°C à Sassenage, 21.7°C à Lyon-Bron, et jusqu'à 22.8°C à Grenoble. Le bassin d'Annecy y échappe de justesse avec des Tn comprises entre 17.2°C en plaine et 20.1°C sur les premières pentes du Veyrier."
     },
-    "previsions_j5": {
-        "resume": "Une quatrième canicule est confirmée pour la fin de semaine avec des températures maximales pouvant dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Cependant, il existe une incertitude quant à sa durée exacte : si certains experts évoquent un effondrement des températures après 4 à 5 jours de forte chaleur, d'autres craignent que le dôme de chaleur ne persiste plus longuement sur la région.",
-        "changement_depuis_hier": "Les prévisions ont revu l'intensité et l'étendue géographique de la canicule légèrement à la baisse (notamment sur le Nord-Ouest), mais confirment un pic de chaleur intense pour le Centre-Est au début du mois d'août.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
-        "fiabilite_pourcentage": 60
-    },
+    "previsions_j5": null,
     "tendances_longues": {
-        "tendance_generale": "Persistance de conditions globalement très chaudes et d'une forte incertitude à plus de 7 jours. Les modèles hésitent entre un rafraîchissement temporaire et le maintien d'une chaleur extrême, voire d'une nouvelle vague de chaleur, sous l'effet d'une goutte froide sur l'Atlantique qui agirait comme une pompe à chaleur.",
-        "espoir_changement": "Très limité et incertain. Les espoirs d'une baisse durable des températures s'estompent. Bien que certains modèles envisagent une baisse par le nord, les scénarios de blocage chaud persistent (notamment sur GFS), repoussant ou abrégeant le rafraîchissement espéré autour des 17-19 juillet."
+        "tendance_generale": "La tendance à plus de 7 jours reste dominée par de fortes chaleurs et une grande incertitude. Les modèles divergent fortement : GFS modélise une persistance de la chaleur extrême avec une goutte froide sur le Portugal agissant comme une pompe à chaleur, tandis que d'autres modèles (comme le CEP) envisagent un afflux d'air plus frais par le nord, maintenant la canicule uniquement au sud.",
+        "espoir_changement": "L'espoir d'un changement de masse d'air durable est faible et très incertain. Le rafraîchissement envisagé pour la mi-juillet s'annonce temporaire et principalement limité à la moitié nord, tandis que le réservoir d'air très chaud sur la péninsule ibérique et le Maghreb menace constamment de remonter, rendant le signal de fin de blocage très fragile."
     }
 }
