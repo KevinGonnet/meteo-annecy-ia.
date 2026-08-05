@@ -1,14 +1,6 @@
 {
-    "mise_a_jour": "2026-08-04 06:29",
-    "observations": {
-        "titre": "Canicule et humidité étouffante sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent généralement entre 32°C et plus de 36°C (jusqu'à 36.5°C à Sassenage). L'humidité ambiante crée un effet 'cocotte-minute' particulièrement éprouvant avec des indices de ressenti (Humidex) frôlant les 40 (notamment 39.5 mesuré dans l'Ain). Le bassin d'Annecy connaît des maximales légèrement moins brûlantes mais l'atmosphère y reste très lourde et laiteuse.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil de la nuit tropicale a été franchi ou frôlé sur de nombreux secteurs du Centre-Est, avec des températures minimales étouffantes de 20.2°C à Sassenage, 21.7°C à Lyon-Bron, et jusqu'à 22.8°C à Grenoble. Le bassin d'Annecy y échappe de justesse avec des Tn comprises entre 17.2°C en plaine et 20.1°C sur les premières pentes du Veyrier."
-    },
+    "mise_a_jour": "2026-08-05 06:29",
+    "observations": null,
     "previsions_j5": null,
-    "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par de fortes chaleurs et une grande incertitude. Les modèles divergent fortement : GFS modélise une persistance de la chaleur extrême avec une goutte froide sur le Portugal agissant comme une pompe à chaleur, tandis que d'autres modèles (comme le CEP) envisagent un afflux d'air plus frais par le nord, maintenant la canicule uniquement au sud.",
-        "espoir_changement": "L'espoir d'un changement de masse d'air durable est faible et très incertain. Le rafraîchissement envisagé pour la mi-juillet s'annonce temporaire et principalement limité à la moitié nord, tandis que le réservoir d'air très chaud sur la péninsule ibérique et le Maghreb menace constamment de remonter, rendant le signal de fin de blocage très fragile."
-    }
+    "tendances_longues": null
 }
