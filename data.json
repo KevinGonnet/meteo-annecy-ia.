@@ -1,6 +1,14 @@
 {
-    "mise_a_jour": "2026-08-06 06:32",
+    "mise_a_jour": "2026-08-07 05:41",
     "observations": null,
-    "previsions_j5": null,
-    "tendances_longues": null
+    "previsions_j5": {
+        "resume": "Une nouvelle canicule très intense (la 4ème de la saison) est confirmée avec des températures devant dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Toutefois, il subsiste une incertitude sur sa durée et sa fin : certains membres évoquent une baisse des températures après 4 à 5 jours (vers début août), tandis que d'autres redoutent un épisode plus durable en raison d'une masse d'air chaud solidement installée.",
+        "changement_depuis_hier": "Les prévisions de pluie/orages du week-end ont échoué, accentuant la sécheresse des sols. Concernant la canicule, l'intensité globale a été légèrement revue à la baisse pour le Nord-Ouest, mais le seuil des 40°C reste pleinement d'actualité et jugé acquis pour le Centre-Est.",
+        "date_fin_canicule_estimee": "Début août 2026 (autour du 4 ou 5 août, sous réserve de confirmation)",
+        "fiabilite_pourcentage": 65
+    },
+    "tendances_longues": {
+        "tendance_generale": "La tendance macro à plus de 7 jours reste dominée par une grande incertitude et la persistance d'une masse d'air chaud. Le modèle GFS modélise avec insistance un scénario extrême où une goutte froide positionnée sur le Portugal agirait comme une pompe à chaleur, prolongeant ou relançant une canicule à partir du 18-19 juillet. En revanche, d'autres modèles comme le CEP envisagent un refoulement de la chaleur vers l'extrême sud grâce à une poussée d'air plus frais par le nord.",
+        "espoir_changement": "L'espoir d'un véritable changement de masse d'air ou d'une fin durable du blocage est très fragile. Bien que le scénario extrême de GFS soit jugé isolé par rapport à son ensemble, les rafraîchissements envisagés s'annoncent temporaires et trop modestes. Le risque de voir les fortes chaleurs persister ou repartir de plus belle via le sud reste particulièrement élevé."
+    }
 }
