@@ -1,16 +1,19 @@
 {
-    "mise_a_jour": "2026-08-08 04:58",
+    "mise_a_jour": "2026-08-09 05:06",
     "observations": {
-        "titre": "Point météo : Chaleur tropicale et humidité étouffante sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont oscillé entre 32,8°C pour le bassin d'Annecy et 36,5°C près de Grenoble. Avec l'humidité persistante et les averses avortées, l'atmosphère est qualifiée de 'cocotte-minute' par nos observateurs, générant un ressenti lourd et étouffant qui frôle localement les 40 (notamment un ressenti de 39,5 enregistré dans l'Ain).",
+        "titre": "Point de situation : Chaleur lourde et ambiance étouffante sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32.8°C à Annecy et jusqu'à 36.5°C en Isère. En raison de l'humidité laissée par les rares averses orageuses, l'atmosphère est saturée d'humidité (effet 'cocotte-minute'), générant un ressenti lourd et inconfortable (humidex proche de 40 par endroits).",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil de la nuit tropicale a été franchi ou frôlé sur de nombreux secteurs. On relève des minimales de 20,1°C sur les premières pentes d'Annecy-Est (Veyrier), 20,2°C à Sassenage près de Grenoble, et jusqu'à 22,5°C au cœur de Lyon, rendant le sommeil particulièrement difficile sous cette chape de plomb."
+        "nuit_tropicale": "Plusieurs stations du Centre-Est enregistrent des nuits tropicales ou très proches de l'être. On relève des minimales de 20.1°C sur les hauteurs d'Annecy-Est, 20.2°C à Sassenage, et entre 21.7°C et 22.8°C à Lyon et Grenoble, ce qui limite fortement la récupération nocturne."
     },
     "previsions_j5": {
-        "resume": "Il existe une incertitude marquée quant à la fin et à la durée de cette quatrième canicule. Si le pic de chaleur extrême (avec des températures pouvant dépasser les 40°C dans le Centre-Est) est attendu pour les premiers jours d'août, les experts du forum débattent : certains envisagent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent un épisode durable et tenace.",
-        "changement_depuis_hier": "Les prévisions ont été revues légèrement à la baisse par rapport aux modélisations d'il y a 3-4 jours. L'intensité et l'étendue géographique de la canicule ont diminué, excluant désormais la moitié Nord-Ouest du pays et réduisant la sévérité globale de l'épisode, même si le Centre-Est reste très exposé.",
-        "date_fin_canicule_estimee": "Aux alentours du 4 au 6 août 2026 (selon les scénarios prévoyant une baisse après un pic début août).",
+        "resume": "Il existe une incertitude significative quant à la fin de cette quatrième canicule. Certains intervenants évoquent un effondrement des températures après 4 à 5 jours de chaleur (soit début août), tandis que d'autres craignent que la masse d'air chaud ne reste durablement bloquée sur le Centre-Est ('never ending story').",
+        "changement_depuis_hier": "Les prévisions d'intensité ont été légèrement revues à la baisse sur certaines régions (notamment le Nord-Ouest), mais les modélisations météo récentes montrent des divergences et des incertitudes sur la durée finale de l'épisode.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026 (très incertain)",
         "fiabilite_pourcentage": 50
     },
-    "tendances_longues": null
+    "tendances_longues": {
+        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une chaleur persistante et un risque de nouvelle vague de chaleur (potentiellement une 4ème) vers le 18-19 juillet. Les modélisations, bien qu'hésitantes, évoquent le maintien de conditions chaudes, voire de blocages anticycloniques récurrents avec une possible goutte froide agissant comme pompe à chaleur sur l'Atlantique.",
+        "espoir_changement": "L'espoir d'un changement de masse d'air significatif ou d'une fin de blocage est très faible. Le rafraîchissement envisagé vers le 17-18 juillet s'annonce trop court et modeste, et les modèles comme GFS repoussent ou annulent les signaux de baisse durable des températures, maintenant une menace de surchauffe."
+    }
 }
