@@ -1,19 +1,14 @@
 {
-    "mise_a_jour": "2026-08-09 05:06",
-    "observations": {
-        "titre": "Point de situation : Chaleur lourde et ambiance étouffante sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32.8°C à Annecy et jusqu'à 36.5°C en Isère. En raison de l'humidité laissée par les rares averses orageuses, l'atmosphère est saturée d'humidité (effet 'cocotte-minute'), générant un ressenti lourd et inconfortable (humidex proche de 40 par endroits).",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Plusieurs stations du Centre-Est enregistrent des nuits tropicales ou très proches de l'être. On relève des minimales de 20.1°C sur les hauteurs d'Annecy-Est, 20.2°C à Sassenage, et entre 21.7°C et 22.8°C à Lyon et Grenoble, ce qui limite fortement la récupération nocturne."
-    },
+    "mise_a_jour": "2026-08-10 05:28",
+    "observations": null,
     "previsions_j5": {
-        "resume": "Il existe une incertitude significative quant à la fin de cette quatrième canicule. Certains intervenants évoquent un effondrement des températures après 4 à 5 jours de chaleur (soit début août), tandis que d'autres craignent que la masse d'air chaud ne reste durablement bloquée sur le Centre-Est ('never ending story').",
-        "changement_depuis_hier": "Les prévisions d'intensité ont été légèrement revues à la baisse sur certaines régions (notamment le Nord-Ouest), mais les modélisations météo récentes montrent des divergences et des incertitudes sur la durée finale de l'épisode.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026 (très incertain)",
-        "fiabilite_pourcentage": 50
+        "resume": "Une quatrième canicule intense est confirmée avec un pic prévu début août, pouvant dépasser les 40°C dans le Centre-Est. Cependant, il existe une incertitude quant à sa fin : alors que certains modèles envisagent un effondrement des températures après 4 à 5 jours, d'autres craignent que l'épisode ne soit durable.",
+        "changement_depuis_hier": "Les prévisions se sont légèrement modérées avec une baisse de l'intensité et de l'étendue de la canicule sur le Nord-Ouest, bien que les projections restent extrêmes pour le Centre-Est et le Sud-Est.",
+        "date_fin_canicule_estimee": "Entre le 4 et le 6 août 2026",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une chaleur persistante et un risque de nouvelle vague de chaleur (potentiellement une 4ème) vers le 18-19 juillet. Les modélisations, bien qu'hésitantes, évoquent le maintien de conditions chaudes, voire de blocages anticycloniques récurrents avec une possible goutte froide agissant comme pompe à chaleur sur l'Atlantique.",
-        "espoir_changement": "L'espoir d'un changement de masse d'air significatif ou d'une fin de blocage est très faible. Le rafraîchissement envisagé vers le 17-18 juillet s'annonce trop court et modeste, et les modèles comme GFS repoussent ou annulent les signaux de baisse durable des températures, maintenant une menace de surchauffe."
+        "tendance_generale": "Maintien de conditions chaudes à très chaudes. Les modélisations à plus de 7 jours restent dominées par la persistance d'une masse d'air surchauffée, avec le risque qu'une goutte froide positionnée sur l'Atlantique ou le Portugal agisse comme une pompe à chaleur durable, maintenant le pays sous l'influence de remontées brûlantes.",
+        "espoir_changement": "Très incertain et fragile. Si le modèle européen (CEP) laisse entrevoir un timide flux nordique repoussant temporairement la chaleur vers l'extrême sud, le modèle américain (GFS) persiste à bloquer toute transition fraîche en prolongeant la canicule. Un rafraîchissement significatif et durable semble donc peu probable à cette échéance."
     }
 }
