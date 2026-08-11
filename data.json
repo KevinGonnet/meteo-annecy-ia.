@@ -1,14 +1,14 @@
 {
-    "mise_a_jour": "2026-08-10 05:28",
+    "mise_a_jour": "2026-08-11 05:10",
     "observations": null,
     "previsions_j5": {
-        "resume": "Une quatrième canicule intense est confirmée avec un pic prévu début août, pouvant dépasser les 40°C dans le Centre-Est. Cependant, il existe une incertitude quant à sa fin : alors que certains modèles envisagent un effondrement des températures après 4 à 5 jours, d'autres craignent que l'épisode ne soit durable.",
-        "changement_depuis_hier": "Les prévisions se sont légèrement modérées avec une baisse de l'intensité et de l'étendue de la canicule sur le Nord-Ouest, bien que les projections restent extrêmes pour le Centre-Est et le Sud-Est.",
-        "date_fin_canicule_estimee": "Entre le 4 et le 6 août 2026",
-        "fiabilite_pourcentage": 60
+        "resume": "Les prévisions confirment l'arrivée d'une 4ème canicule intense à partir de la fin de semaine, avec des températures risquant de dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Il existe un net désaccord et une forte incertitude sur la fin de cet épisode : certains intervenants évoquent un effondrement des températures après 4 à 5 jours de pic, tandis que d'autres redoutent une situation durable ('never ending story') où la région serait la dernière à sortir de la fournaise.",
+        "changement_depuis_hier": "Les modélisations récentes ont légèrement réduit l'extension géographique de la canicule (moindre sur le Nord-Ouest) et affaibli temporairement certains scénarios extrêmes, mais l'intensité reste très élevée pour le Centre-Est. De plus, l'échec des pluies d'orages prévues ce week-end accentue la sécheresse des sols, ce qui favorisera la surchauffe.",
+        "date_fin_canicule_estimee": "Autour du 5 au 8 août 2026 (très incertain)",
+        "fiabilite_pourcentage": 55
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien de conditions chaudes à très chaudes. Les modélisations à plus de 7 jours restent dominées par la persistance d'une masse d'air surchauffée, avec le risque qu'une goutte froide positionnée sur l'Atlantique ou le Portugal agisse comme une pompe à chaleur durable, maintenant le pays sous l'influence de remontées brûlantes.",
-        "espoir_changement": "Très incertain et fragile. Si le modèle européen (CEP) laisse entrevoir un timide flux nordique repoussant temporairement la chaleur vers l'extrême sud, le modèle américain (GFS) persiste à bloquer toute transition fraîche en prolongeant la canicule. Un rafraîchissement significatif et durable semble donc peu probable à cette échéance."
+        "tendance_generale": "Persistance d'un temps chaud à extrêmement chaud avec de fortes hésitations entre les modèles. Le modèle GFS insiste sur un scénario extrême de pompe à chaleur (goutte froide isolée sur le Portugal) prolongeant ou relançant la canicule, tandis que le CEP propose un scénario plus respirable avec une poussée d'air frais nordique repoussant la chaleur vers le sud.",
+        "espoir_changement": "Très limité et fragile. Si le modèle européen (CEP) laisse espérer un rafraîchissement temporaire par le nord, le modèle américain GFS persiste à bloquer cette baisse et à modéliser une nouvelle vague de chaleur. Les prévisionnistes du forum craignent que le répit soit très court et modeste, confirmant la résistance de la masse d'air chaud."
     }
 }
