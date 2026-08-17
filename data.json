@@ -1,11 +1,19 @@
 {
-    "mise_a_jour": "2026-08-16 04:37",
-    "observations": null,
-    "previsions_j5": {
-        "resume": "Une quatrième canicule se profile pour la fin juillet et le début d'août, avec des températures prévues au-delà de 40°C dans le Centre-Est (Lyon, Grenoble). Il y a une incertitude sur sa durée exacte : certains évoquent un épisode durable d'au moins une semaine, tandis que d'autres soulignent des incertitudes et une possible baisse d'intensité par rapport aux prévisions initiales.",
-        "changement_depuis_hier": "Les modélisations ont revu l'intensité et l'extension géographique de la canicule légèrement à la baisse par rapport aux jours précédents (notamment sur la moitié Nord-Ouest), même si le dôme de chaleur reste très solide sur le Centre-Est.",
-        "date_fin_canicule_estimee": "Après la première semaine d'août (avec de fortes incertitudes sur la fin précise de l'épisode)",
-        "fiabilite_pourcentage": 60
+    "mise_a_jour": "2026-08-17 04:42",
+    "observations": {
+        "titre": "Chaleur lourde et ambiance étouffante sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales atteignent 32,8°C dans le bassin d'Annecy et s'envolent jusqu'à 35°C à 36,5°C en Isère et dans le Lyonnais. Avec l'humidité résiduelle des passages orageux, l'ambiance devient tropicale, avec un ressenti étouffant dépassant parfois les 39.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Oui, les nuits tropicales se généralisent sur la région avec des températures minimales qui ne descendent plus sous les 20°C à 22,8°C (notamment à Lyon, Grenoble, Sassenage et sur les premières pentes d'Annecy-Est à 20,1°C)."
     },
-    "tendances_longues": null
+    "previsions_j5": {
+        "resume": "Les experts du forum s'accordent sur l'arrivée d'une 4ème canicule intense fin juillet avec un pic début août (plus de 40°C prévus sur Lyon/Grenoble). Cependant, il y a de l'incertitude sur sa fin : certains modèles envisagent une baisse des températures après 4 à 5 jours, tandis que d'autres prévoient une chaleur durable et bloquée à cause de masses d'air très chaudes persistantes.",
+        "changement_depuis_hier": "Les prévisions de canicule ont été revues à la baisse pour le Nord-Ouest, mais restent intenses pour le Centre-Est. De plus, l'échec de la dégradation orageuse réduit à néant l'espoir de rafraîchissement par l'humidité des sols.",
+        "date_fin_canicule_estimee": "Vers la fin de la première semaine d'août (incertitude marquée au-delà du pic du 1er-3 août)",
+        "fiabilite_pourcentage": 55
+    },
+    "tendances_longues": {
+        "tendance_generale": "La tendance à long terme reste extrêmement lourde et chaude. Les modèles météo (notamment GFS) modélisent la persistance du blocage chaud ou le déclenchement d'une nouvelle vague de chaleur (la 4ème) provoquée par une goutte froide sur l'Atlantique agissant comme une pompe à chaleur subtropicale.",
+        "espoir_changement": "L'espoir d'un véritable changement de masse d'air ou d'une fin de blocage est très faible. Le rafraîchissement envisagé s'annonce trop court, modeste et principalement limité au Nord, tandis que la goutte froide qui devait apporter une baisse des températures peine à s'isoler efficacement sur le, risquant plutôt de réalimenter le dôme de chaleur."
+    }
 }
