@@ -1,19 +1,16 @@
 {
-    "mise_a_jour": "2026-08-17 04:42",
+    "mise_a_jour": "2026-08-18 04:36",
     "observations": {
-        "titre": "Chaleur lourde et ambiance étouffante sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales atteignent 32,8°C dans le bassin d'Annecy et s'envolent jusqu'à 35°C à 36,5°C en Isère et dans le Lyonnais. Avec l'humidité résiduelle des passages orageux, l'ambiance devient tropicale, avec un ressenti étouffant dépassant parfois les 39.",
+        "titre": "Point météo Centre-Est : Chaleur étouffante et humidité suffocante d'Annecy à Grenoble",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C en plaine grenobloise. L'humidité provoquée par les rares averses crée un effet 'cocotte-minute' étouffant, avec un ressenti (Humidex) frôlant localement les 40.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, les nuits tropicales se généralisent sur la région avec des températures minimales qui ne descendent plus sous les 20°C à 22,8°C (notamment à Lyon, Grenoble, Sassenage et sur les premières pentes d'Annecy-Est à 20,1°C)."
+        "nuit_tropicale": "Nuits extrêmement lourdes et éprouvantes. Le seuil tropical est largement franchi ou frôlé avec des températures minimales de 20,1°C sur les hauteurs d'Annecy, 22,5°C à Lyon et près de 23°C à Grenoble."
     },
     "previsions_j5": {
-        "resume": "Les experts du forum s'accordent sur l'arrivée d'une 4ème canicule intense fin juillet avec un pic début août (plus de 40°C prévus sur Lyon/Grenoble). Cependant, il y a de l'incertitude sur sa fin : certains modèles envisagent une baisse des températures après 4 à 5 jours, tandis que d'autres prévoient une chaleur durable et bloquée à cause de masses d'air très chaudes persistantes.",
-        "changement_depuis_hier": "Les prévisions de canicule ont été revues à la baisse pour le Nord-Ouest, mais restent intenses pour le Centre-Est. De plus, l'échec de la dégradation orageuse réduit à néant l'espoir de rafraîchissement par l'humidité des sols.",
-        "date_fin_canicule_estimee": "Vers la fin de la première semaine d'août (incertitude marquée au-delà du pic du 1er-3 août)",
-        "fiabilite_pourcentage": 55
+        "resume": "Une nouvelle canicule intense se profile pour la fin de la semaine, avec des températures pouvant dépasser les 40°C dans le Centre-Est autour des premiers jours d'août. Les experts s'accordent sur l'arrivée de cet épisode, mais une incertitude subsiste quant à sa durée : certains évoquent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent un blocage durable.",
+        "changement_depuis_hier": "Les prévisions ont été légèrement revues à la baisse concernant l'extension géographique de la canicule (qui devrait épargner le Nord-Ouest), mais l'intensité du pic de chaleur reste extrême pour les régions du Centre-Est et du Sud-Est.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026 (très incertain)",
+        "fiabilite_pourcentage": 50
     },
-    "tendances_longues": {
-        "tendance_generale": "La tendance à long terme reste extrêmement lourde et chaude. Les modèles météo (notamment GFS) modélisent la persistance du blocage chaud ou le déclenchement d'une nouvelle vague de chaleur (la 4ème) provoquée par une goutte froide sur l'Atlantique agissant comme une pompe à chaleur subtropicale.",
-        "espoir_changement": "L'espoir d'un véritable changement de masse d'air ou d'une fin de blocage est très faible. Le rafraîchissement envisagé s'annonce trop court, modeste et principalement limité au Nord, tandis que la goutte froide qui devait apporter une baisse des températures peine à s'isoler efficacement sur le, risquant plutôt de réalimenter le dôme de chaleur."
-    }
+    "tendances_longues": null
 }
