@@ -1,16 +1,19 @@
 {
-    "mise_a_jour": "2026-08-18 04:36",
+    "mise_a_jour": "2026-08-19 04:38",
     "observations": {
-        "titre": "Point météo Centre-Est : Chaleur étouffante et humidité suffocante d'Annecy à Grenoble",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C en plaine grenobloise. L'humidité provoquée par les rares averses crée un effet 'cocotte-minute' étouffant, avec un ressenti (Humidex) frôlant localement les 40.",
+        "titre": "Canicule humide sur le Centre-Est et le bassin d'Annecy : un ressenti étouffant après les orages",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 35°C à 36,5°C en Isère et dans l'Ain. L'humidité élevée après les faibles passages pluvieux rend l'atmosphère extrêmement lourde, avec un ressenti Humidex mesuré jusqu'à 39,5.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Nuits extrêmement lourdes et éprouvantes. Le seuil tropical est largement franchi ou frôlé avec des températures minimales de 20,1°C sur les hauteurs d'Annecy, 22,5°C à Lyon et près de 23°C à Grenoble."
+        "nuit_tropicale": "Le seuil de nuit tropicale (Tn >= 20°C) a été franchi ou frôlé dans de nombreux secteurs du Centre-Est, avec des minimales très éprouvantes de 20,1°C sur les premières pentes d'Annecy-Est (Veyrier), 20,2°C à Sassenage, 20,7°C dans les collines de l'Isère, et jusqu'à 22,8°C à Grenoble."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle canicule intense se profile pour la fin de la semaine, avec des températures pouvant dépasser les 40°C dans le Centre-Est autour des premiers jours d'août. Les experts s'accordent sur l'arrivée de cet épisode, mais une incertitude subsiste quant à sa durée : certains évoquent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent un blocage durable.",
-        "changement_depuis_hier": "Les prévisions ont été légèrement revues à la baisse concernant l'extension géographique de la canicule (qui devrait épargner le Nord-Ouest), mais l'intensité du pic de chaleur reste extrême pour les régions du Centre-Est et du Sud-Est.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026 (très incertain)",
-        "fiabilite_pourcentage": 50
+        "resume": "Une quatrième canicule se met en place à la fin du mois de juillet 2026 avec des températures extrêmes attendues, pouvant dépasser les 40°C à Lyon et Grenoble. Il subsiste une incertitude sur sa durée : certains experts évoquent un effondrement des températures après 4 à 5 jours de chaleur intense, tandis que d'autres craignent un épisode durable s'étirant sur la première semaine d'août.",
+        "changement_depuis_hier": "Les modélisations ont été revues à la baisse concernant l'étendue géographique de la canicule (moitié Nord-Ouest désormais épargnée), mais le dôme de chaleur reste solidement ancré sur le Centre-Est et le Sud-Est.",
+        "date_fin_canicule_estimee": "Autour du 5 août 2026 (avec une forte incertitude après le pic prévu début août)",
+        "fiabilite_pourcentage": 60
     },
-    "tendances_longues": null
+    "tendances_longues": {
+        "tendance_generale": "La tendance à plus de 7 jours reste extrêmement incertaine et disputée entre les modèles. GFS envisage la poursuite d'un blocage chaud (effet de pompe à chaleur via une goutte froide sur l'Atlantique) pouvant déboucher sur une nouvelle vague de chaleur extrême, tandis que CEP propose une baisse des températures par le nord. Globalement, le temps s'annonce lourd et chaud, particulièrement dans le Sud.",
+        "espoir_changement": "L'espoir d'un changement durable de masse d'air est très faible et contesté. Bien qu'un rafraîchissement temporaire soit modélisé par l'européen CEP grâce à un flux de nord, le modèle américain GFS persiste à bloquer toute baisse significative, maintenant la menace d'une chaleur extrême. Le signal de fin de blocage chaud est donc loin d'être acquis et suscite beaucoup d'inquiétude."
+    }
 }
