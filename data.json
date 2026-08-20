@@ -1,19 +1,14 @@
 {
-    "mise_a_jour": "2026-08-19 04:38",
-    "observations": {
-        "titre": "Canicule humide sur le Centre-Est et le bassin d'Annecy : un ressenti étouffant après les orages",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 35°C à 36,5°C en Isère et dans l'Ain. L'humidité élevée après les faibles passages pluvieux rend l'atmosphère extrêmement lourde, avec un ressenti Humidex mesuré jusqu'à 39,5.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil de nuit tropicale (Tn >= 20°C) a été franchi ou frôlé dans de nombreux secteurs du Centre-Est, avec des minimales très éprouvantes de 20,1°C sur les premières pentes d'Annecy-Est (Veyrier), 20,2°C à Sassenage, 20,7°C dans les collines de l'Isère, et jusqu'à 22,8°C à Grenoble."
-    },
+    "mise_a_jour": "2026-08-20 04:38",
+    "observations": null,
     "previsions_j5": {
-        "resume": "Une quatrième canicule se met en place à la fin du mois de juillet 2026 avec des températures extrêmes attendues, pouvant dépasser les 40°C à Lyon et Grenoble. Il subsiste une incertitude sur sa durée : certains experts évoquent un effondrement des températures après 4 à 5 jours de chaleur intense, tandis que d'autres craignent un épisode durable s'étirant sur la première semaine d'août.",
-        "changement_depuis_hier": "Les modélisations ont été revues à la baisse concernant l'étendue géographique de la canicule (moitié Nord-Ouest désormais épargnée), mais le dôme de chaleur reste solidement ancré sur le Centre-Est et le Sud-Est.",
-        "date_fin_canicule_estimee": "Autour du 5 août 2026 (avec une forte incertitude après le pic prévu début août)",
-        "fiabilite_pourcentage": 60
+        "resume": "Il y a un consensus clair sur l'arrivée d'une 4ème vague de chaleur intense avec des températures pouvant dépasser les 40°C dans le Centre-Est à la fin du mois de juillet. En revanche, il existe une forte incertitude quant à la fin de cette canicule : certains membres du forum évoquent un effondrement des températures après 4 à 5 jours (début août), tandis que d'autres soulignent que la masse d'air chaud s'annonce particulièrement durable et difficile à déloger.",
+        "changement_depuis_hier": "Les modélisations ont largement revu à la baisse les cumuls de pluie des orages récents (loupé général des modèles). Pour la canicule, l'extension géographique a été revue à la baisse (la moitié Nord-Ouest semble désormais épargnée), mais l'intensité reste extrême pour les régions du Centre-Est et du Sud-Est.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
+        "fiabilite_pourcentage": 50
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste extrêmement incertaine et disputée entre les modèles. GFS envisage la poursuite d'un blocage chaud (effet de pompe à chaleur via une goutte froide sur l'Atlantique) pouvant déboucher sur une nouvelle vague de chaleur extrême, tandis que CEP propose une baisse des températures par le nord. Globalement, le temps s'annonce lourd et chaud, particulièrement dans le Sud.",
-        "espoir_changement": "L'espoir d'un changement durable de masse d'air est très faible et contesté. Bien qu'un rafraîchissement temporaire soit modélisé par l'européen CEP grâce à un flux de nord, le modèle américain GFS persiste à bloquer toute baisse significative, maintenant la menace d'une chaleur extrême. Le signal de fin de blocage chaud est donc loin d'être acquis et suscite beaucoup d'inquiétude."
+        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une chaleur persistante et potentiellement extrême. Bien que le modèle GFS soit jugé isolé par certains dans son scénario extrême de pompe à chaleur (goutte froide bloquée sur le Portugal/Atlantique), le signal global ne montre pas de réel rafraîchissement durable, maintenant une masse d'air très chaude sur le pays, particulièrement sur la moitié sud.",
+        "espoir_changement": "L'espoir d'un changement de masse d'air ou d'une fin de blocage est très faible et incertain. Les tentatives de rafraîchissement s'annoncent trop courtes et modestes (notamment vers le 17-18 juillet), et la persistance de modélisations chaudes fait craindre l'enchaînement avec une nouvelle vague de chaleur plutôt qu'une véritable transition vers un flux plus frais."
     }
 }
