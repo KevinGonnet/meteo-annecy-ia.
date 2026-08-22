@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-08-21 04:39",
+    "mise_a_jour": "2026-08-22 04:34",
     "observations": {
-        "titre": "Bilan météo : Chaleur lourde et ambiance de \"cocotte-minute\" sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C près de Grenoble. L'humidité élevée sous un ciel couvert rend l'atmosphère extrêmement lourde, avec un ressenti étouffant dépassant parfois les 39 (notamment 39,5 relevé dans l'Ain).",
+        "titre": "Point météo : Chaleur lourde et ambiance étouffante sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Le bassin d'Annecy enregistre des températures maximales moins brûlantes mais très chaudes atteignant 32,8°C. Ailleurs dans le Centre-Est, la chaleur est intense avec des maximales grimpant jusqu'à 34,7°C (Grenoble), 35°C (Bastille) et même 36,5°C (Sassenage). L'humidité ambiante et le ciel couvert rendent l'atmosphère extrêmement lourde (effet 'cocotte-minute'), avec un ressenti étouffant calculé à 39,5 par endroits.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Plusieurs stations du Centre-Est ont validé une nuit tropicale avec des températures minimales étouffantes (22,8°C à Grenoble, 21,7°C à Lyon, 20,2°C à Sassenage). Le bassin d'Annecy frôle également ce seuil avec des minimales comprises entre 17,2°C et 20,1°C à Annecy-Est."
+        "nuit_tropicale": "Le seuil des nuits tropicales a été franchi dans plusieurs secteurs avec des températures minimales (Tn) remarquablement élevées : de 21,7°C à 22,5°C sur Lyon, jusqu'à 22,8°C à Grenoble, 20,2°C à Sassenage et 20,1°C sur les premières pentes d'Annecy-Est. Le reste du bassin d'Annecy a connu des Tn douces comprises entre 17,2°C et 19,7°C."
     },
     "previsions_j5": {
-        "resume": "Une quatrième canicule se confirme pour la fin juillet avec un pic d'intensité attendu au début du mois d'août, pouvant dépasser les 40°C dans le Centre-Est. Si l'épisode s'annonce intense, une incertitude plane sur sa durée précise : certains experts évoquent une baisse rapide après 4 à 5 jours tandis que d'autres restent prudents face à des modélisations encore instables.",
-        "changement_depuis_hier": "Les prévisions ont été légèrement revues à la baisse concernant l'extension géographique de la canicule (qui devrait épargner le Nord-Ouest), bien que les températures prévues pour le Centre-Est restent extrêmement élevées.",
-        "date_fin_canicule_estimee": "Début août 2026 (vers le 4 ou 5 août)",
-        "fiabilite_pourcentage": 65
+        "resume": "Une quatrième canicule s'installe fin juillet avec un pic prévu début août, caractérisé par des températures pouvant dépasser les 40°C dans le Centre-Est. Il existe une incertitude quant à la date de fin : certains experts évoquent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent un épisode durable de plus d'une semaine.",
+        "changement_depuis_hier": "Les prévisions de pluie ont échoué. Concernant la canicule, l'intensité et l'extension géographique ont été légèrement revues à la baisse (notamment sur le Nord-Ouest) par rapport aux modélisations des jours précédents, bien que le Centre-Est reste exposé à une chaleur extrême.",
+        "date_fin_canicule_estimee": "Incertaine (estimée entre le 4 et le 8 août 2026 selon les différents scénarios des modèles).",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une forte incertitude mais s'oriente vers la persistance d'une grande chaleur. Le modèle GFS envisage même un scénario extrême avec une goutte froide sur le Portugal agissant comme pompe à chaleur, ce qui annulerait le rafraîchissement attendu et pourrait déclencher une nouvelle vague de chaleur. Bien que ce scénario soit jugé isolé par rapport à CEP (qui propose un flux de nord rejetant la chaleur au sud), les modèles hésitent fortement.",
-        "espoir_changement": "L'espoir d'un véritable changement de masse d'air durable ou d'un déblocage anticyclonique s'amenuise. Le rafraîchissement initialement espéré autour des 17/18 juillet s'annonce finalement très modeste, trop court et principalement limité au nord, tandis que le risque de voir la chaleur extrême persister ou reprendre de plus belle (notamment dans le sud et le centre) reste très élevé."
+        "tendance_generale": "Maintien d'une tendance globalement très chaude avec un blocage difficile à déloger. Une goutte froide positionnée sur l'Atlantique ou le Portugal pourrait agir comme une pompe à chaleur, maintenant l'air chaud ou prolongeant les conditions caniculaires.",
+        "espoir_changement": "Faible. Le rafraîchissement envisagé à moyen terme s'annonce trop bref et modeste. À plus de 7 jours, les modèles redoutent plutôt la poursuite de la chaleur, voire le déclenchement d'une nouvelle vague de chaleur, excluant pour l'instant tout changement durable de masse d'air."
     }
 }
