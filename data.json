@@ -1,6 +1,19 @@
 {
-    "mise_a_jour": "2026-08-25 04:40",
-    "observations": null,
-    "previsions_j5": null,
-    "tendances_longues": null
+    "mise_a_jour": "2026-08-26 04:41",
+    "observations": {
+        "titre": "Bulletin météo Centre-Est : Chaleur étouffante et ambiance de cocotte-minute entre Annecy et l'Isère",
+        "temperature_actuelle_et_ressenti": "Les températures maximales s'échelonnent de 32.8°C dans le bassin d'Annecy jusqu'à 36.5°C à Sassenage (Isère). En raison d'une forte humidité après les passages orageux, l'atmosphère est extrêmement lourde avec un ressenti thermique (Humidex) qui frôle ou dépasse les 39°C dans les plaines de l'Ain et du Lyonnais.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Les nuits tropicales se généralisent avec des températures minimales étouffantes : jusqu'à 22.8°C à Grenoble et 22.5°C à Lyon. Le bassin d'Annecy est au seuil de la tropicalisation avec des minimales comprises entre 19.1°C et 20.1°C sur les premières pentes du Veyrier."
+    },
+    "previsions_j5": {
+        "resume": "Une quatrième canicule se met en place pour la fin juillet, avec des températures maximales prévues au-dessus de 40°C dans le Centre-Est (Lyon, Grenoble). L'incertitude règne quant à la fin de cet épisode : certains experts évoquent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent une chaleur durable et tenace au-delà de la première semaine d'août.",
+        "changement_depuis_hier": "L'intensité globale et l'étendue de la canicule ont été revues à la baisse par rapport aux modélisations d'il y a 3-4 jours (la moitié Nord-Ouest étant désormais épargnée), bien que le Centre-Est reste fortement exposé. De plus, les prévisions de pluie pour le week-end ont échoué.",
+        "date_fin_canicule_estimee": "Début août 2026 (autour du 3 au 5 août), sous réserve de l'évolution des modélisations.",
+        "fiabilite_pourcentage": 55
+    },
+    "tendances_longues": {
+        "tendance_generale": "La tendance à long terme reste marquée par une grande incertitude et la persistance de conditions chaudes. Le modèle GFS modélise un scénario extrême de blocage anticyclonique avec une goutte froide sur l'Atlantique agissant comme une pompe à chaleur, maintenant des températures très élevées. Bien que ce scénario extrême soit jugé isolé, les autres modèles confirment que la chaleur reste menaçante.",
+        "espoir_changement": "L'espoir d'un changement de masse d'air ou d'un rafraîchissement durable est très fragile. Si l'européen (CEP) envisage une baisse temporaire des températures par le nord-est, celle-ci s'annonce brève et modeste. La possibilité d'une nouvelle hausse des températures à l'échéance du blocage est largement crainte par les observateurs, excluant pour l'instant un véritable signal de fin définitive de la chaleur."
+    }
 }
