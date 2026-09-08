@@ -1,19 +1,16 @@
 {
-    "mise_a_jour": "2026-09-07 09:03",
+    "mise_a_jour": "2026-09-08 08:41",
     "observations": {
-        "titre": "Bilan météorologique Centre-Est : moiteur éprouvante et chaleur lourde autour d'Annecy et de l'Isère",
-        "temperature_actuelle_et_ressenti": "Le bassin d'Annecy respire à peine mieux avec une maximale de 32.8°C sous un ciel voilé, tandis que la chaleur reste suffocante ailleurs dans le Centre-Est, grimpant à 35°C à Grenoble et jusqu'à 36.5°C à Sassenage. L'extrême humidité ambiante liée aux quelques gouttes orageuses crée un effet de 'cocotte-minute' très désagréable, propulsant le ressenti (Humidex) à près de 40°C.",
+        "titre": "Point situation : Ambiance étouffante et chaleur lourde sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C en Isère. L'humidité élevée après les passages orageux crée un effet 'cocotte-minute' très désagréable, avec des ressentis de près de 40 (notamment 39,5 de ressenti pour 32°C actuels dans l'Ain).",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil des nuits tropicales a été largement atteint ou frôlé dans la région : on relève des minimales de 19.1°C à 20.1°C sur les hauteurs d'Annecy, 20.2°C à Sassenage, et des valeurs étouffantes de 21.7°C à Lyon-Bron et 22.8°C à Grenoble, empêchant toute récupération thermique nocturne."
+        "nuit_tropicale": "Oui, le seuil de nuit tropicale (Tn >= 20°C) a été franchi sur plusieurs secteurs du Centre-Est, notamment à Lyon (21,7°C à 22,5°C) et Sassenage (20,2°C). Autour d'Annecy, si la plaine est restée juste en dessous (17°C à 19,7°C), les premières pentes du Veyrier ont bien enregistré une nuit tropicale avec une Tn de 20,1°C."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle canicule, la quatrième de la saison, se met en place pour la fin juillet avec un pic attendu début août. Il existe une incertitude quant à sa fin : alors que certains prévisionnistes évoquent une baisse des températures après 4 à 5 jours, d'autres craignent un épisode plus durable.",
-        "changement_depuis_hier": "L'intensité de la canicule a été légèrement revue à la baisse sur la moitié Nord-Ouest, mais le passage de la barre des 40°C reste hautement probable sur le Centre-Est.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
+        "resume": "Il y a un consensus sur l'intensité de la nouvelle vague de chaleur (les 40°C devraient être dépassés), mais une forte incertitude persiste quant à sa fin. Certains évoquent une baisse rapide des températures après 4 à 5 jours, tandis que d'autres craignent un épisode très durable ('never ending story') où le Centre-Est s'en sortira en dernier.",
+        "changement_depuis_hier": "Les modélisations globales ont légèrement revu à la baisse l'intensité et l'étendue géographique de cette 4ème canicule (le Nord-Ouest est désormais épargné), même si le dôme de chaleur s'annonce exceptionnellement chaud sur le Centre-Est. Les espoirs de fraîcheur liés aux orages ont été douchés par un échec des modélisations de pluie.",
+        "date_fin_canicule_estimee": "Autour du 5 au 7 août 2026 (après un pic d'intensité prévu début août, mais l'échéance reste incertaine).",
         "fiabilite_pourcentage": 50
     },
-    "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance globalement très chaude et lourde à long terme. Les modèles divergent mais s'accordent sur la persistance de conditions anormalement chaudes, GFS modélisant même un scénario extrême de 'pompe à chaleur' en raison d'une goutte froide bloquée sur le Portugal, tandis que le CEP n'envisage qu'une atténuation temporaire par le nord.",
-        "espoir_changement": "Très faible. Le signal de fin de blocage anticyclonique ou de réel changement durable de masse d'air est quasi inexistant ; les prévisions à plus de 7 jours évoquent plutôt le risque d'une énième vague de chaleur ou un rafraîchissement très temporaire et trop modeste pour briser durablement la chaleur."
-    }
+    "tendances_longues": null
 }
