@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-09-10 08:43",
+    "mise_a_jour": "2026-09-11 08:42",
     "observations": {
-        "titre": "Point situation canicule : Ambiance étouffante et orageuse sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32.8°C à Annecy et jusqu'à 36.5°C en Isère. Actuellement, l'air reste extrêmement lourd avec des températures de l'ordre de 30°C à 33°C sous un ciel couvert. L'humidité élevée génère un ressenti étouffant (jusqu'à 39.5 de ressenti) décrit comme un effet 'cocotte-minute' par nos observateurs.",
+        "titre": "Chaleur étouffante et lourdeur orageuse sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C à Annecy et jusqu'à 36,5°C près de Grenoble. Avec l'humidité apportée par les récentes averses, l'ambiance actuelle est extrêmement lourde ('cocotte-minute') avec des températures actuelles de 32°C à 33°C et un ressenti (Humidex) frôlant localement les 40.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Les nuits tropicales se confirment sur la région avec des minimales ne descendant pas sous les 20°C à 22.8°C (notamment à Lyon, Grenoble et Sassenage). Le bassin d'Annecy flirte également avec ce seuil, affichant jusqu'à 20.1°C sur les premières pentes du Veyrier."
+        "nuit_tropicale": "Plusieurs stations confirment des nuits tropicales ou proches de l'être. Les Tn ont atteint 20,1°C sur les premières pentes d'Annecy (Veyrier), 20,2°C à Sassenage, et sont restées comprises entre 21°C et 22,6°C sur Lyon et la Bresse, rendant le sommeil difficile."
     },
     "previsions_j5": {
-        "resume": "Une quatrième canicule se confirme pour la fin de la semaine avec des températures maximales qui devraient dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Cependant, il subsiste une incertitude sur sa durée : alors que certains prévisionnistes craignent un épisode durable, les dernières modélisations suggèrent une baisse ou un effondrement des températures après 4 à 5 jours de fortes chaleurs.",
-        "changement_depuis_hier": "Les prévisions ont été revues à la baisse par rapport aux jours précédents : la canicule a été revue à la baisse sur le Nord-Ouest et l'intensité globale ainsi que la durée de l'épisode semblent moins extrêmes que ce que prévoyaient initialement les modèles les plus chauds.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
-        "fiabilite_pourcentage": 60
+        "resume": "Il existe une incertitude significative quant à la fin de cette quatrième canicule. Alors que les prévisions initiales redoutaient un blocage durable et extrême ('never ending story'), les dernières modélisations tempèrent l'intensité globale (en particulier sur la moitié Nord-Ouest) et évoquent une baisse des températures après 4 à 5 jours de canicule, bien que les valeurs maximales risquent toujours de dépasser les 40°C dans le Centre-Est.",
+        "changement_depuis_hier": "Les prévisions ont été revues à la baisse. La perspective d'une canicule historique et interminable s'est atténuée, les modélisations récentes montrant un essoufflement plus rapide du dôme de chaleur après le pic du début d'août.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026 (avec une forte incertitude)",
+        "fiabilite_pourcentage": 55
     },
     "tendances_longues": {
-        "tendance_generale": "Persistance d'une forte chaleur et d'une grande incertitude à plus de 7 jours. Le modèle GFS insiste sur un scénario extrême de pompe à chaleur avec une goutte froide positionnée sur le Portugal/Atlantique, maintenant un flux très chaud. À l'inverse, le modèle CEP propose une baisse des températures plus marquée grâce à des pressions nordiques, illustrant un conflit persistant entre l'air frais au nord et la fournaise au sud.",
-        "espoir_changement": "Très limité et incertain. Les tentatives de rafraîchissement semblent temporaires et fragiles (notamment autour des 17-18 juillet). Le risque de blocage anticyclonique chaud et d'un départ vers une nouvelle vague de chaleur (possible 4ème canicule) reste élevé si le scénario de la goutte froide sur l'Atlantique se confirme, repoussant ainsi un véritable changement durable de masse d'air."
+        "tendance_generale": "Maintien d'une tendance lourde et chaude à très chaude à l'échelle nationale. Les modèles numériques de prévision divergent fortement sur l'évolution à plus de 7 jours : GFS modélise une nouvelle goutte froide sur le Portugal agissant comme une puissante pompe à chaleur (risque de nouvelle canicule), tandis que le modèle européen (CEP) entrevoit une baisse temporaire des températures par le nord.",
+        "espoir_changement": "Très limité et hautement incertain. L'espoir d'un véritable changement de masse d'air ou d'une fin de blocage durable est contrarié par la persistance des scénarios chauds. Le rafraîchissement envisagé vers le 17-18 juillet s'annonce trop court et modeste, particulièrement sur la moitié sud qui reste sous la menace d'une chaleur extrême."
     }
 }
