@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-09-16 09:08",
+    "mise_a_jour": "2026-09-17 09:17",
     "observations": {
-        "titre": "Point de situation : Chaleur étouffante et ambiance tropicale sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C à Annecy et jusqu'à 36,5°C en Isère. L'humidité apportée par les averses orageuses crée un effet de 'cocotte-minute' étouffant, avec des indices de ressenti (Humidex) frôlant localement les 40 (notamment dans l'Ain avec 32°C et 48% d'humidité relative).",
+        "titre": "Bilan météo : Chaleur étouffante et ressenti tropical sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C près de Grenoble. Sous un ciel chaotique et très humide, l'ambiance 'cocotte-minute' domine avec un ressenti lourd et étouffant calculé localement jusqu'à 39,5.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil de nuit tropicale (Tn >= 20°C) est largement atteint ou approché dans la région. Si le centre d'Annecy a bénéficié d'un léger répit (17,2°C à Meythet), les hauteurs du bassin annécien sont restées très douces (20,1°C à Annecy-Est). Ailleurs, les minimales sont restées étouffantes avec 22,5°C à Lyon et jusqu'à 22,8°C à Grenoble."
+        "nuit_tropicale": "La nuit tropicale a été largement observée sur la région. Les minimales sont restées exceptionnellement élevées, avec 21,7°C à Lyon, 22,8°C à Grenoble et jusqu'à 20,1°C sur les hauteurs d'Annecy-Est, empêchant toute récupération nocturne."
     },
     "previsions_j5": {
-        "resume": "Une quatrième vague de chaleur très intense est confirmée pour la seconde moitié de la semaine, avec des températures pouvant dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Cependant, il existe une incertitude et un manque de consensus sur sa durée : certains experts envisagent une baisse rapide des températures après 4 à 5 jours, tandis que d'autres prévoient une masse d'air chaud durablement installée.",
-        "changement_depuis_hier": "Les dernières modélisations ont revu à la baisse l'intensité et l'étendue géographique de la canicule (notamment sur le Nord-Ouest), même si les prévisions de températures extrêmes restent d'actualité pour le Centre-Est.",
+        "resume": "Les prévisions confirment l'arrivée d'une nouvelle vague de chaleur très intense avec des pointes probables au-dessus de 40°C dans le Centre-Est (Lyon, Grenoble). Cependant, une incertitude demeure sur sa durée : alors que certains craignaient un épisode interminable, les dernières modélisations suggèrent une baisse des températures après 4 à 5 jours.",
+        "changement_depuis_hier": "La prévision de la canicule a été revue à la baisse en termes de durée et d'étendue géographique. Elle s'annonce désormais moins durable et ne devrait plus concerner la moitié Nord-Ouest, même si le pic d'intensité reste très élevé dans le Sud-Est.",
         "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
-        "fiabilite_pourcentage": 60
+        "fiabilite_pourcentage": 65
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste caractérisée par une forte incertitude et un conflit marqué entre les modèles numériques. D'un côté, GFS modélise une persistance de conditions extrêmement chaudes (scénario de pompe à chaleur alimenté par une goutte froide sur l'Atlantique/Portugal), tandis que d'autres modèles comme le CEP envisagent une poussée d'air plus frais par le nord, repoussant la chaleur vers le sud.",
-        "espoir_changement": "L'espoir d'un changement de masse d'air durable ou d'une fin définitive du blocage reste très fragile. Bien que le scénario extrême de GFS soit jugé isolé par rapport à son ensembliste, la possibilité d'un véritable répit s'amenuise, les modèles hésitant à faire entrer franchement de l'air frais et maintenant un risque élevé de nouvelles hausses thermiques par le sud."
+        "tendance_generale": "Maintien d'une tendance très chaude à l'échelle macro. Le modèle GFS insiste sur le positionnement d'une goutte froide sur l'Atlantique/Portugal agissant comme une pompe à chaleur et menaçant d'enchaîner sur une nouvelle vague de chaleur extrême. Bien que d'autres modèles comme le CEP envisagent un certain rafraîchissement par le nord, les hésitations restent fortes à plus de 7 jours.",
+        "espoir_changement": "Très faible et temporaire. Les espoirs d'un véritable changement de masse d'air ou d'un rafraîchissement durable s'amenuisent. Le rafraîchissement envisagé vers le 17-18 juillet semble trop modeste et court, avec un risque élevé de voir la chaleur extrême persister ou revenir rapidement, notamment sur la moitié sud."
     }
 }
