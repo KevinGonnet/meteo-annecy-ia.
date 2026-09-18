@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-09-17 09:17",
+    "mise_a_jour": "2026-09-18 08:52",
     "observations": {
-        "titre": "Bilan météo : Chaleur étouffante et ressenti tropical sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C près de Grenoble. Sous un ciel chaotique et très humide, l'ambiance 'cocotte-minute' domine avec un ressenti lourd et étouffant calculé localement jusqu'à 39,5.",
+        "titre": "Point météo : Chaleur lourde et ambiance étouffante sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C en Isère. L'humidité élevée après les passages orageux crée un effet 'cocotte-minute' désagréable, avec un ressenti Humidex mesuré jusqu'à 39,5.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "La nuit tropicale a été largement observée sur la région. Les minimales sont restées exceptionnellement élevées, avec 21,7°C à Lyon, 22,8°C à Grenoble et jusqu'à 20,1°C sur les hauteurs d'Annecy-Est, empêchant toute récupération nocturne."
+        "nuit_tropicale": "Validée sur de nombreux secteurs du Centre-Est (Lyon Bron avec 21,7°C, Grenoble avec 22,8°C, Sassenage avec 20,2°C). Le bassin d'Annecy est resté à la limite, oscillant entre 17,2°C en plaine et 20,1°C sur les premières pentes."
     },
     "previsions_j5": {
-        "resume": "Les prévisions confirment l'arrivée d'une nouvelle vague de chaleur très intense avec des pointes probables au-dessus de 40°C dans le Centre-Est (Lyon, Grenoble). Cependant, une incertitude demeure sur sa durée : alors que certains craignaient un épisode interminable, les dernières modélisations suggèrent une baisse des températures après 4 à 5 jours.",
-        "changement_depuis_hier": "La prévision de la canicule a été revue à la baisse en termes de durée et d'étendue géographique. Elle s'annonce désormais moins durable et ne devrait plus concerner la moitié Nord-Ouest, même si le pic d'intensité reste très élevé dans le Sud-Est.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
-        "fiabilite_pourcentage": 65
+        "resume": "Une quatrième canicule se confirme avec des températures extrêmes (dépassant localement les 40°C), particulièrement sur le Centre-Est. Cependant, les prévisions récentes montrent une baisse de l'intensité globale et de la durée par rapport aux jours précédents, avec un pic attendu début août suivi d'un possible effondrement des températures.",
+        "changement_depuis_hier": "Les modélisations ont revu à la baisse l'étendue géographique (le Nord-Ouest est désormais épargné) et la durée de la canicule, qui s'annonce plus courte que la vision 'interminable' des jours passés.",
+        "date_fin_canicule_estimee": "Autour du 4 au 5 août 2026",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude à l'échelle macro. Le modèle GFS insiste sur le positionnement d'une goutte froide sur l'Atlantique/Portugal agissant comme une pompe à chaleur et menaçant d'enchaîner sur une nouvelle vague de chaleur extrême. Bien que d'autres modèles comme le CEP envisagent un certain rafraîchissement par le nord, les hésitations restent fortes à plus de 7 jours.",
-        "espoir_changement": "Très faible et temporaire. Les espoirs d'un véritable changement de masse d'air ou d'un rafraîchissement durable s'amenuisent. Le rafraîchissement envisagé vers le 17-18 juillet semble trop modeste et court, avec un risque élevé de voir la chaleur extrême persister ou revenir rapidement, notamment sur la moitié sud."
+        "tendance_generale": "Maintien d'une tendance globalement très chaude à plus de 7 jours. Les modèles météo (notamment GFS) modélisent le positionnement d'une nouvelle goutte froide sur l'Atlantique agissant comme une pompe à chaleur, ce qui pourrait prolonger la canicule ou déclencher une nouvelle vague de chaleur extrême sur le pays.",
+        "espoir_changement": "L'espoir d'un changement de masse d'air durable est très faible et s'estompe. Le rafraîchissement initialement espéré s'annonce finalement plus court et modeste que prévu, le blocage anticyclonique sur le nord de l'Europe empêchant les coulées d'air frais de s'installer durablement."
     }
 }
