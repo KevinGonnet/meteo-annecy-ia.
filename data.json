@@ -1,11 +1,6 @@
 {
-    "mise_a_jour": "2026-09-24 09:05",
-    "observations": {
-        "titre": "Point de situation : Chaleur lourde et nuits tropicales étouffantes sur le Centre-Est",
-        "temperature_actuelle_et_ressenti": "Les températures maximales de l'après-midi ont atteint 32.8°C à Annecy et jusqu'à 36.5°C à Grenoble/Sassenage. L'humidité ambiante rend l'atmosphère extrêmement lourde avec un ressenti (humidex) frôlant parfois les 40°C (39.5°C mesuré sous un ciel couvert de traîne orageuse), créant un véritable effet de 'cocotte-minute'.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Les nuits tropicales (Tn >= 20°C) sont confirmées sur plusieurs secteurs du Centre-Est (21.7°C à Lyon-Bron, 22.8°C à Grenoble, 20.2°C à Sassenage). Dans le bassin d'Annecy, les minimales sont restées très douces, frôlant localement ce seuil de nuit tropicale avec 20.1°C sur les premières pentes du Veyrier."
-    },
+    "mise_a_jour": "2026-09-25 09:27",
+    "observations": null,
     "previsions_j5": null,
     "tendances_longues": null
 }
