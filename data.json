@@ -1,19 +1,6 @@
 {
-    "mise_a_jour": "2026-09-27 09:52",
-    "observations": {
-        "titre": "Ambiance tropicale et chaleur étouffante sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32.8°C dans le bassin d'Annecy et jusqu'à 36.5°C en Isère. L'humidité élevée après les averses crée un effet de 'cocotte-minute' étouffant, avec un ressenti (Humidex) frôlant localement les 40, notamment dans l'Ain (39.5).",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Plusieurs stations du Centre-Est ont validé une nuit tropicale avec des minimales au-dessus de 20°C (20.2°C à Sassenage, 21.7°C à Lyon-Bron, et jusqu'à 22.8°C à Grenoble). Le bassin d'Annecy est resté à la limite avec des Tn de 17°C à 19.7°C, bien que les premières pentes d'Annecy-Est aient enregistré une nuit tropicale à 20.1°C."
-    },
-    "previsions_j5": {
-        "resume": "Une quatrième canicule se profile pour la fin juillet et le début du mois d'août, avec des températures de nouveau très élevées pouvant dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Il existe une incertitude notable concernant sa fin : certains intervenants évoquent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent une situation durable et difficile à déloger.",
-        "changement_depuis_hier": "Les prévisions ont été revues à la baisse en termes d'intensité globale et d'étendue géographique (la canicule reculant sur la moitié Nord-Ouest) par rapport aux modélisations des jours précédents, même si le dôme de chaleur reste solidement envisagé sur le Centre-Est.",
-        "date_fin_canicule_estimee": "Début août 2026 (entre le 4 et le 6 août selon les scénarios)",
-        "fiabilite_pourcentage": 60
-    },
-    "tendances_longues": {
-        "tendance_generale": "La tendance reste dominée par une grande incertitude et la menace persistante de fortes chaleurs. Le modèle GFS modélise de façon isolée mais persistante un scénario extrême avec une goutte froide sur l'Atlantique agissant comme une pompe à chaleur (faisant craindre une 4ème vague de chaleur). Les autres modèles (comme CEP) proposent un rafraîchissement par le nord, mais celui-ci s'annonce temporaire et trop modeste, maintenant le sud sous des températures très élevées.",
-        "espoir_changement": "L'espoir d'un véritable changement de masse d'air durable est très faible. Le rafraîchissement initialement modélisé s'annonce finalement court et limité (notamment pour la moitié sud), tandis que le risque de blocage anticyclonique chaud et d'une réalimentation d'air brûlant par le sud reste le scénario redouté par les prévisionnistes."
-    }
+    "mise_a_jour": "2026-09-28 10:40",
+    "observations": null,
+    "previsions_j5": null,
+    "tendances_longues": null
 }
