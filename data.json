@@ -1,6 +1,19 @@
 {
-    "mise_a_jour": "2026-09-29 10:28",
-    "observations": null,
-    "previsions_j5": null,
-    "tendances_longues": null
+    "mise_a_jour": "2026-09-30 10:20",
+    "observations": {
+        "titre": "Point situation : Chaleur lourde et atmosphère de 'cocotte-minute' sur le Centre-Est et Annecy",
+        "temperature_actuelle_et_ressenti": "Les maximales affichent 32,8°C dans le bassin d'Annecy et s'envolent jusqu'à 35°C à 36,5°C en plaine (Isère, Rhône, Bresse). Avec l'humidité générée par les récentes averses, l'ambiance est extrêmement étouffante avec un ressenti qui frôle localement les 40.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Largement validée sur la région avec des minimales étouffantes de 21,7°C à Lyon et 22,8°C à Grenoble. Le bassin d'Annecy reste au seuil de la nuit tropicale avec 19,5°C à 20,1°C sur les premières pentes du mont Veyrier."
+    },
+    "previsions_j5": {
+        "resume": "Il existe une nette incertitude concernant la durée et la fin de cette canicule. Alors que certains scénarios initiaux craignaient un blocage extrêmement durable, les dernières modélisations révisent la durée à la baisse avec un essoufflement ou un effondrement des températures après le pic prévu au début du mois d'août.",
+        "changement_depuis_hier": "Les prévisions ont revu à la baisse l'intensité globale et la durée de la vague de chaleur (la canicule ayant 'pris un sacré coup dans l'aile'), bien que le passage localisé de la barre des 40°C reste temporairement acquis.",
+        "date_fin_canicule_estimee": "Première semaine d'août 2026 (autour du 4 ou 5 août)",
+        "fiabilite_pourcentage": 60
+    },
+    "tendances_longues": {
+        "tendance_generale": "La tendance générale à plus de 7 jours reste caractérisée par une chaleur persistante et potentiellement extrême. Les modèles, bien qu'hésitants, envisagent le maintien ou le retour de conditions caniculaires, notamment à cause d'une goutte froide sur l'Atlantique ou le Portugal qui agirait comme une pompe à chaleur, empêchant tout rafraîchissement durable.",
+        "espoir_changement": "Très limité. Le signal d'un changement de masse d'air ou d'une fin de blocage est très faible et contesté. Les timides baisses de température envisagées autour du 17-18 juillet s'annoncent trop temporaires, trop courtes et principalement limitées au nord, tandis que le sud reste sous une chaleur extrême avec une menace persistante de reprise caniculaire."
+    }
 }
