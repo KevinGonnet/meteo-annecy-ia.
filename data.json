@@ -1,19 +1,16 @@
 {
-    "mise_a_jour": "2026-09-30 10:20",
+    "mise_a_jour": "2026-10-01 10:46",
     "observations": {
-        "titre": "Point situation : Chaleur lourde et atmosphère de 'cocotte-minute' sur le Centre-Est et Annecy",
-        "temperature_actuelle_et_ressenti": "Les maximales affichent 32,8°C dans le bassin d'Annecy et s'envolent jusqu'à 35°C à 36,5°C en plaine (Isère, Rhône, Bresse). Avec l'humidité générée par les récentes averses, l'ambiance est extrêmement étouffante avec un ressenti qui frôle localement les 40.",
+        "titre": "Bulletin météo : Canicule humide et ambiance de 'cocotte-minute' sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C à Annecy et jusqu'à 36,5°C en plaine grenobloise. Avec l'humidité persistante et les orages avortés, l'atmosphère est suffocante avec des ressentis (Humidex) frôlant les 40, notamment dans l'Ain (ressenti de 39,5 pour 32°C réels).",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Largement validée sur la région avec des minimales étouffantes de 21,7°C à Lyon et 22,8°C à Grenoble. Le bassin d'Annecy reste au seuil de la nuit tropicale avec 19,5°C à 20,1°C sur les premières pentes du mont Veyrier."
+        "nuit_tropicale": "Plusieurs stations du Centre-Est ont validé une nuit tropicale avec des minimales ne descendant pas sous la barre des 20°C (21,7°C à Lyon-Bron, 22,8°C à Grenoble et 20,2°C à Sassenage). Autour d'Annecy, l'ambiance est restée lourde avec des minimales comprises entre 17,2°C en plaine et jusqu'à 20,1°C sur les premières pentes du mont Veyrier."
     },
     "previsions_j5": {
-        "resume": "Il existe une nette incertitude concernant la durée et la fin de cette canicule. Alors que certains scénarios initiaux craignaient un blocage extrêmement durable, les dernières modélisations révisent la durée à la baisse avec un essoufflement ou un effondrement des températures après le pic prévu au début du mois d'août.",
-        "changement_depuis_hier": "Les prévisions ont revu à la baisse l'intensité globale et la durée de la vague de chaleur (la canicule ayant 'pris un sacré coup dans l'aile'), bien que le passage localisé de la barre des 40°C reste temporairement acquis.",
-        "date_fin_canicule_estimee": "Première semaine d'août 2026 (autour du 4 ou 5 août)",
+        "resume": "Les membres du forum prévoient une nouvelle canicule intense avec des températures pouvant dépasser les 40°C à Lyon et Grenoble. Il subsiste toutefois une incertitude sur sa durée : les prévisions initiales redoutaient un épisode interminable, mais les dernières modélisations suggèrent une baisse après 4 à 5 jours, bien que cette baisse soit débattue.",
+        "changement_depuis_hier": "La tendance est à une réévaluation à la baisse de la durée et de l'extension géographique de la canicule. Elle semble moins durable que ce qui était modélisé les jours précédents, même si l'intensité du pic de chaleur reste extrême.",
+        "date_fin_canicule_estimee": "Début août 2026 (autour du 3 au 5 août)",
         "fiabilite_pourcentage": 60
     },
-    "tendances_longues": {
-        "tendance_generale": "La tendance générale à plus de 7 jours reste caractérisée par une chaleur persistante et potentiellement extrême. Les modèles, bien qu'hésitants, envisagent le maintien ou le retour de conditions caniculaires, notamment à cause d'une goutte froide sur l'Atlantique ou le Portugal qui agirait comme une pompe à chaleur, empêchant tout rafraîchissement durable.",
-        "espoir_changement": "Très limité. Le signal d'un changement de masse d'air ou d'une fin de blocage est très faible et contesté. Les timides baisses de température envisagées autour du 17-18 juillet s'annoncent trop temporaires, trop courtes et principalement limitées au nord, tandis que le sud reste sous une chaleur extrême avec une menace persistante de reprise caniculaire."
-    }
+    "tendances_longues": null
 }
