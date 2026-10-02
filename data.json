@@ -1,16 +1,11 @@
 {
-    "mise_a_jour": "2026-10-01 10:46",
+    "mise_a_jour": "2026-10-02 10:21",
     "observations": {
-        "titre": "Bulletin météo : Canicule humide et ambiance de 'cocotte-minute' sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C à Annecy et jusqu'à 36,5°C en plaine grenobloise. Avec l'humidité persistante et les orages avortés, l'atmosphère est suffocante avec des ressentis (Humidex) frôlant les 40, notamment dans l'Ain (ressenti de 39,5 pour 32°C réels).",
+        "titre": "Bulletin météo : Ambiance tropicale et chaleur étouffante sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales atteignent des sommets, oscillant de 32,8°C dans le bassin d'Annecy jusqu'à 36,5°C en Isère (Sassenage). L'humidité importante liée aux développements orageux crée un effet de 'cocotte-minute' insupportable, poussant le ressenti (Humidex) à près de 40 (39,5 relevé avec 48% d'humidité).",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Plusieurs stations du Centre-Est ont validé une nuit tropicale avec des minimales ne descendant pas sous la barre des 20°C (21,7°C à Lyon-Bron, 22,8°C à Grenoble et 20,2°C à Sassenage). Autour d'Annecy, l'ambiance est restée lourde avec des minimales comprises entre 17,2°C en plaine et jusqu'à 20,1°C sur les premières pentes du mont Veyrier."
+        "nuit_tropicale": "Le seuil des nuits tropicales est largement franchi ou frôlé dans la région : on relève des minimales étouffantes de 20,1°C sur les premières pentes d'Annecy-Est, 20,2°C à Sassenage, 21,7°C à Lyon-Bron, et jusqu'à 22,8°C à Grenoble, limitant drastiquement la récupération nocturne."
     },
-    "previsions_j5": {
-        "resume": "Les membres du forum prévoient une nouvelle canicule intense avec des températures pouvant dépasser les 40°C à Lyon et Grenoble. Il subsiste toutefois une incertitude sur sa durée : les prévisions initiales redoutaient un épisode interminable, mais les dernières modélisations suggèrent une baisse après 4 à 5 jours, bien que cette baisse soit débattue.",
-        "changement_depuis_hier": "La tendance est à une réévaluation à la baisse de la durée et de l'extension géographique de la canicule. Elle semble moins durable que ce qui était modélisé les jours précédents, même si l'intensité du pic de chaleur reste extrême.",
-        "date_fin_canicule_estimee": "Début août 2026 (autour du 3 au 5 août)",
-        "fiabilite_pourcentage": 60
-    },
+    "previsions_j5": null,
     "tendances_longues": null
 }
