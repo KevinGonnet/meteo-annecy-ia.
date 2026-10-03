@@ -1,11 +1,16 @@
 {
-    "mise_a_jour": "2026-10-02 10:21",
+    "mise_a_jour": "2026-10-03 09:43",
     "observations": {
-        "titre": "Bulletin météo : Ambiance tropicale et chaleur étouffante sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales atteignent des sommets, oscillant de 32,8°C dans le bassin d'Annecy jusqu'à 36,5°C en Isère (Sassenage). L'humidité importante liée aux développements orageux crée un effet de 'cocotte-minute' insupportable, poussant le ressenti (Humidex) à près de 40 (39,5 relevé avec 48% d'humidité).",
+        "titre": "Canicule et humidité sur le Centre-Est : Une atmosphère de cocotte-minute entre Annecy et l'Isère",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et grimpent jusqu'à 35°C à 36,5°C sur les plaines de l'Ain, du Lyonnais et de l'Isère. Sous un ciel chaotique et très humide après les passages orageux, le ressenti (Humidex) devient étouffant et dépasse localement les 39°C (comme à Ambérieu avec un ressenti de 39,5°C pour 32°C réels).",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil des nuits tropicales est largement franchi ou frôlé dans la région : on relève des minimales étouffantes de 20,1°C sur les premières pentes d'Annecy-Est, 20,2°C à Sassenage, 21,7°C à Lyon-Bron, et jusqu'à 22,8°C à Grenoble, limitant drastiquement la récupération nocturne."
+        "nuit_tropicale": "Le seuil de la nuit tropicale (Tn >= 20°C) est largement atteint ou frôlé dans la région. On relève des minimales étouffantes de 21,7°C à Lyon-Bron, 22,8°C à Grenoble et 20,2°C à Sassenage. Le bassin d'Annecy reste sur le fil du rasoir avec des minimales comprises entre 17°C dans les points bas et 20,1°C sur les premières pentes du Veyrier."
     },
-    "previsions_j5": null,
+    "previsions_j5": {
+        "resume": "L'arrivée d'une quatrième canicule est confirmée pour la fin juillet avec des températures extrêmes attendues, pouvant dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Toutefois, il existe une incertitude quant à sa durée : alors qu'un épisode interminable était redouté, les derniers scénarios suggèrent un essoufflement après quelques jours de pic.",
+        "changement_depuis_hier": "Les prévisions ont été revues à la baisse en termes d'extension géographique et de durée. La moitié Nord-Ouest devrait être épargnée, et l'intensité globale de la vague de chaleur semble atténuée par rapport aux modélisations très alarmistes d'il y a 3-4 jours.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026 (effondrement des températures prévu après 4 à 5 jours de fortes chaleurs débutant fin juillet)",
+        "fiabilite_pourcentage": 65
+    },
     "tendances_longues": null
 }
