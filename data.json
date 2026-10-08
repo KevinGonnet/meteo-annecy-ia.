@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-07 10:54",
+    "mise_a_jour": "2026-10-08 11:11",
     "observations": {
-        "titre": "Point de situation : Chaleur lourde, humidité étouffante et instabilité orageuse sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C dans l'Isère. Avec l'humidité persistante due aux averses, l'atmosphère est qualifiée de 'cocotte-minute' avec un ressenti Humidex très inconfortable frôlant localement les 40 (notamment 39,5 relevé dans l'Ain).",
+        "titre": "Point météo : Chaleur étouffante et ambiance de cocotte-minute sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les thermomètres affichent des valeurs maximales étouffantes, atteignant 32,8 °C dans le bassin d'Annecy et grimpant jusqu'à 35 °C à 36,5 °C en Isère et dans le Lyonnais. L'extrême humidité suite aux rares averses de la journée crée un ressenti lourd et infâme, mesuré localement à plus de 39.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil de nuit tropicale (Tn >= 20°C) a été largement franchi dans la région, notamment à Grenoble (22,8°C), Lyon (jusqu'à 22,5°C) et Sassenage (20,2°C). Le bassin d'Annecy flirte avec ce seuil, oscillant majoritairement entre 19,1°C et 19,7°C, mais atteignant localement 20,1°C sur les premières pentes exposées du mont Veyrier."
+        "nuit_tropicale": "Le sommeil est mis à rude épreuve par des minimales exceptionnellement élevées. Si le bassin d'Annecy oscille globalement entre 17 °C et 19,7 °C, les premières pentes du Veyrier ont enregistré une nuit tropicale avec 20,1 °C. Plus au sud, les minimales sont restées étouffantes avec 21,7 °C à Lyon-Bron et jusqu'à 22,8 °C à Grenoble."
     },
     "previsions_j5": {
-        "resume": "Une quatrième canicule se profile pour fin juillet/début août, avec des maximales pouvant dépasser les 40°C dans le Centre-Est. La fin de cet épisode fait l'objet d'incertitudes et de débats : certains prévoient un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent que la masse d'air chaud ne reste vissée plus longtemps.",
-        "changement_depuis_hier": "Les modélisations récentes ont légèrement revu à la baisse l'intensité et l'étendue de la canicule, notamment pour la moitié Nord-Ouest, même si le Centre-Est reste exposé à une chaleur extrême.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
-        "fiabilite_pourcentage": 55
+        "resume": "Une quatrième canicule est confirmée pour la fin de semaine avec des maximales prévues au-dessus de 40°C dans le Centre-Est. Cependant, il existe une incertitude sur sa durée : certains experts prévoient une baisse rapide après 4 à 5 jours, tandis que d'autres évoquent un épisode plus durable au-delà du début du mois d'août.",
+        "changement_depuis_hier": "L'intensité et l'étendue géographique de la canicule ont été revues à la baisse par rapport aux jours précédents, excluant désormais la moitié Nord-Ouest.",
+        "date_fin_canicule_estimee": "Début août 2026",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une grande chaleur, voire des conditions caniculaires persistantes. Les prévisions hésitent entre le modèle européen (CEP), qui entrevoit une timide baisse des températures par le nord, et le modèle américain (GFS), qui persiste à modéliser un scénario extrême de 'pompe à chaleur' en raison d'une goutte froide isolée sur le Portugal, risquant d'engendrer une nouvelle vague de chaleur intense.",
-        "espoir_changement": "L'espoir d'un véritable changement de masse d'air ou d'une fin de blocage anticyclonique reste très faible et incertain. Les tentatives de rafraîchissement sont jugées trop courtes, modestes et temporaires, le risque de voir la chaleur extrême se maintenir ou redoubler d'intensité (notamment sur la moitié sud) restant majoritairement craint par les observateurs."
+        "tendance_generale": "La tendance à plus de 7 jours reste caractérisée par une forte incertitude mais s'oriente globalement vers la persistance de conditions très chaudes. Le scénario d'une goutte froide positionnée sur l'Atlantique ou le Portugal menace d'agir comme une pompe à chaleur, risquant d'enchaîner sur une nouvelle vague de chaleur extrême (notamment selon le modèle GFS).",
+        "espoir_changement": "L'espoir d'un changement de masse d'air durable ou d'une fin de blocage est très limité. Si le modèle CEP propose une baisse temporaire des températures par le nord, celle-ci s'annonce trop courte et modeste. La persistance des hautes pressions et le risque de réalimentation chaude par le sud maintiennent le pays sous la menace de la chaleur sans véritable signal de rafraîchissement généralisé."
     }
 }
