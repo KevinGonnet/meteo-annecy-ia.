@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-09 11:10",
+    "mise_a_jour": "2026-10-10 10:27",
     "observations": {
-        "titre": "Point météo : Chaleur lourde, humidité étouffante et nuits tropicales sur le Centre-Est",
-        "temperature_actuelle_et_ressenti": "Les maximales atteignent 32,8°C dans le bassin d'Annecy et grimpent jusqu'à 36,5°C vers Grenoble et Lyon. Sous un ciel souvent couvert et très humide après les faibles passages pluvieux, l'ambiance 'cocotte-minute' domine avec un ressenti étouffant (jusqu'à 39,5 de ressenti mesuré sous 32°C).",
+        "titre": "Point météo Centre-Est et Annecy : Chaleur lourde, humidité suffocante et nuits tropicales",
+        "temperature_actuelle_et_ressenti": "Températures actuelles comprises entre 29°C et 33°C sur la région (Tx de 32,8°C dans le bassin d'Annecy, jusqu'à 36,5°C vers Grenoble/Sassenage). L'ambiance est extrêmement lourde et moite sous un ciel couvert, poussant le ressenti jusqu'à près de 40°C par endroits.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Le seuil des nuits tropicales est régulièrement franchi ou frôlé : les minimales n'ont pas baissé sous 21,7°C à Lyon-Bron, 20,2°C à Sassenage, et jusqu'à 20,1°C sur les premières pentes d'Annecy-Est (Veyrier), rendant le sommeil difficile."
+        "nuit_tropicale": "Oui, les nuits tropicales sont très répandues sur le Centre-Est avec des Tn souvent supérieures à 20°C à 23°C (Lyon, Grenoble, collines iséroises), tandis que le bassin d'Annecy est resté tout proche du seuil avec des Tn entre 17°C et 20,1°C."
     },
     "previsions_j5": {
-        "resume": "Une quatrième canicule intense, avec des températures prévues au-dessus de 40°C dans le Centre-Est (Lyon, Grenoble), est attendue à court terme. Il subsiste toutefois des incertitudes sur sa durée : certains experts évoquent un effondrement rapide des températures après 4 à 5 jours, tandis que d'autres craignent un blocage chaud plus durable.",
-        "changement_depuis_hier": "Les prévisions récentes ont revu la canicule à la baisse en termes de durée et d'étendue géographique (notamment sur le Nord-Ouest), réduisant l'ampleur d'un épisode qui s'annonçait initialement interminable.",
-        "date_fin_canicule_estimee": "Vers le 4 ou 5 août 2026",
-        "fiabilite_pourcentage": 60
+        "resume": "Une nouvelle vague de chaleur est confirmée pour la fin juillet et le début du mois d'août, avec des températures maximales pouvant dépasser les 40 °C dans le Centre-Est. Un désaccord subsiste entre les membres du forum concernant son intensité et sa durée, certains observant une baisse par rapport aux scénarios extrêmes initiaux, tandis que d'autres prévoient un blocage chaud persistant.",
+        "changement_depuis_hier": "Légère tendance à la modération des scénarios les plus extrêmes : la canicule semble moins étendue à l'échelle nationale et pourrait s'effondrer plus rapidement qu'envisagé initialement.",
+        "date_fin_canicule_estimee": "Entre le 4 et le 5 août 2026",
+        "fiabilite_pourcentage": 65
     },
     "tendances_longues": {
-        "tendance_generale": "La tendance à plus de 7 jours reste dominée par une chaleur persistante, voire extrême, avec de fortes incertitudes. Le scénario d'une goutte froide positionnée sur l'Atlantique agissant comme une pompe à chaleur subtropicale menace de maintenir des conditions très chaudes, malgré des divergences entre les modèles numériques.",
-        "espoir_changement": "L'espoir d'un changement durable de masse d'air est très limité. Si le modèle CEP entrevoit un rafraîchissement temporaire par le nord, GFS persiste dans un scénario de blocage chaud sans véritable répit, reléguant le rafraîchissement à un épisode trop court et modeste avant une possible reprise de la chaleur."
+        "tendance_generale": "Persistance d'une masse d'air très chaude à caniculaire avec une forte incertitude des modèles. GFS modélise la poursuite du blocage chaud via l'isolement récurrent de gouttes froides sur l'Atlantique/Portugal faisant office de pompe à chaleur, tandis que d'autres scénarios tentent de repousser la chaleur vers le sud.",
+        "espoir_changement": "Faible à très hésitant. Les tentatives de rafraîchissement par le nord restent trop modestes, temporaires ou contestées, maintenant le risque d'un maintien de la chaleur ou du déclenchement d'une nouvelle vague sur la durée."
     }
 }
