@@ -1,19 +1,16 @@
 {
-    "mise_a_jour": "2026-10-10 10:27",
+    "mise_a_jour": "2026-10-11 10:39",
     "observations": {
-        "titre": "Point météo Centre-Est et Annecy : Chaleur lourde, humidité suffocante et nuits tropicales",
-        "temperature_actuelle_et_ressenti": "Températures actuelles comprises entre 29°C et 33°C sur la région (Tx de 32,8°C dans le bassin d'Annecy, jusqu'à 36,5°C vers Grenoble/Sassenage). L'ambiance est extrêmement lourde et moite sous un ciel couvert, poussant le ressenti jusqu'à près de 40°C par endroits.",
+        "titre": "Point de situation : Chaleur lourde et ambiance poisseuse sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C à Annecy et jusqu'à 36,5°C près de Grenoble. Avec un taux d'humidité élevé et une couverture nuageuse, le ressenti est particulièrement étouffant (jusqu'à 39,5 de ressenti dans l'Ain) sous une atmosphère de 'cocotte-minute'.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, les nuits tropicales sont très répandues sur le Centre-Est avec des Tn souvent supérieures à 20°C à 23°C (Lyon, Grenoble, collines iséroises), tandis que le bassin d'Annecy est resté tout proche du seuil avec des Tn entre 17°C et 20,1°C."
+        "nuit_tropicale": "Oui, les nuits tropicales se multiplient sur la région (Tn de 20,1°C à 20,2°C sur les hauteurs d'Annecy et Sassenage, jusqu'à 22,5°C à Lyon et 22,8°C à Grenoble)."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle vague de chaleur est confirmée pour la fin juillet et le début du mois d'août, avec des températures maximales pouvant dépasser les 40 °C dans le Centre-Est. Un désaccord subsiste entre les membres du forum concernant son intensité et sa durée, certains observant une baisse par rapport aux scénarios extrêmes initiaux, tandis que d'autres prévoient un blocage chaud persistant.",
-        "changement_depuis_hier": "Légère tendance à la modération des scénarios les plus extrêmes : la canicule semble moins étendue à l'échelle nationale et pourrait s'effondrer plus rapidement qu'envisagé initialement.",
-        "date_fin_canicule_estimee": "Entre le 4 et le 5 août 2026",
-        "fiabilite_pourcentage": 65
+        "resume": "Une énième vague de chaleur (la 4e de la saison) s'installe progressivement avec des températures canoniques pouvant dépasser les 40 °C dans le Centre-Est (Lyon, Grenoble) au début du mois d'août.",
+        "changement_depuis_hier": "Les orages prévus ont été un échec général par rapport aux modèles. Certains participants notent une légère modération des scénarios extrêmes sur la durée et la moitié nord-ouest, bien que la masse d'air reste très chaude.",
+        "date_fin_canicule_estimee": "Incertaine (autour du 5 au 7 août)",
+        "fiabilite_pourcentage": 55
     },
-    "tendances_longues": {
-        "tendance_generale": "Persistance d'une masse d'air très chaude à caniculaire avec une forte incertitude des modèles. GFS modélise la poursuite du blocage chaud via l'isolement récurrent de gouttes froides sur l'Atlantique/Portugal faisant office de pompe à chaleur, tandis que d'autres scénarios tentent de repousser la chaleur vers le sud.",
-        "espoir_changement": "Faible à très hésitant. Les tentatives de rafraîchissement par le nord restent trop modestes, temporaires ou contestées, maintenant le risque d'un maintien de la chaleur ou du déclenchement d'une nouvelle vague sur la durée."
-    }
+    "tendances_longues": null
 }
