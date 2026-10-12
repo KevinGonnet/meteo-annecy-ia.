@@ -1,16 +1,19 @@
 {
-    "mise_a_jour": "2026-10-11 10:39",
+    "mise_a_jour": "2026-10-12 11:43",
     "observations": {
-        "titre": "Point de situation : Chaleur lourde et ambiance poisseuse sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C à Annecy et jusqu'à 36,5°C près de Grenoble. Avec un taux d'humidité élevé et une couverture nuageuse, le ressenti est particulièrement étouffant (jusqu'à 39,5 de ressenti dans l'Ain) sous une atmosphère de 'cocotte-minute'.",
+        "titre": "Point de situation météo : Chaleur tropicale et moite sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Températures maximales atteignant 32,8°C à Annecy et jusqu'à 36,5°C en Isère/Ain. L'humidité élevée rend l'atmosphère extrêmement lourde avec un index de ressenti frôlant les 40.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, les nuits tropicales se multiplient sur la région (Tn de 20,1°C à 20,2°C sur les hauteurs d'Annecy et Sassenage, jusqu'à 22,5°C à Lyon et 22,8°C à Grenoble)."
+        "nuit_tropicale": "Nuit tropicale confirmée sur une grande partie de la région avec des Tn souvent supérieures à 20°C à 22°C (Lyon, Grenoble, Bresse), et très proches des 20°C autour d'Annecy (19,5°C à 20,1°C)."
     },
     "previsions_j5": {
-        "resume": "Une énième vague de chaleur (la 4e de la saison) s'installe progressivement avec des températures canoniques pouvant dépasser les 40 °C dans le Centre-Est (Lyon, Grenoble) au début du mois d'août.",
-        "changement_depuis_hier": "Les orages prévus ont été un échec général par rapport aux modèles. Certains participants notent une légère modération des scénarios extrêmes sur la durée et la moitié nord-ouest, bien que la masse d'air reste très chaude.",
-        "date_fin_canicule_estimee": "Incertaine (autour du 5 au 7 août)",
-        "fiabilite_pourcentage": 55
+        "resume": "Une nouvelle vague de chaleur intense s'installe avec un pic prévu au début du mois d'août, où les températures pourraient dépasser les 40°C dans le Centre-Est. Un consensus existe sur le retour de températures très élevées à court terme, mais une incertitude subsiste quant à la durée précise et à la vitesse d'effondrement de la canicule par la suite.",
+        "changement_depuis_hier": "Les modélisations pluvio-orageuses se sont révélées décevantes par rapport aux prévisions initiales. Par ailleurs, l'étendue spatiale de la canicule a été légèrement revue à la baisse pour le Nord-Ouest, bien que la masse d'air reste très chaude sur le reste du territoire.",
+        "date_fin_canicule_estimee": "Début août (autour du 4-5 août, avec incertitudes)",
+        "fiabilite_pourcentage": 65
     },
-    "tendances_longues": null
+    "tendances_longues": {
+        "tendance_generale": "Maintien d'une tendance très chaude et durable. Les hautes pressions résistent et les gouttes froides sur l'Atlantique ou le Portugal risquent de servir à nouveau de pompes à chaleur, prolongeant ou renouvelant les vagues de chaleur.",
+        "espoir_changement": "Signal faible et très incertain. Les tentatives de rafraîchissement apportées par le nord ou le nord-est restent temporaires, trop modestes ou repoussées, sans véritable rupture durable du blocage à plus de 7 jours."
+    }
 }
