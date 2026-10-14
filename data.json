@@ -1,19 +1,6 @@
 {
-    "mise_a_jour": "2026-10-13 11:29",
-    "observations": {
-        "titre": "Point de situation : Chaleur lourde et ambiance suffocante sur le Centre-Est et Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent entre 32,8 °C sur Annecy et jusqu'à 36,5 °C près de Grenoble. L'humidité importante sous un ciel couvert génère une ambiance de cocotte-minute avec des ressentis proches de 40.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, plusieurs stations du secteur d'Annecy frôlent les 20 °C au plus frais (19,5 °C à 20,1 °C), tandis que les nuits tropicales sont largement confirmées dans les grandes agglomérations voisines (21 °C à 23 °C sur Lyon et Grenoble)."
-    },
-    "previsions_j5": {
-        "resume": "Consensus sur le retour d'une nouvelle vague de chaleur très intense avec des températures pouvant dépasser 40°C au début du mois d'août (notamment dans le Centre-Est), mais forte incertitude concernant sa durée et la date exacte de sa fin.",
-        "changement_depuis_hier": "Certains membres notent un léger recul de l'intensité ou de l'étendue de la canicule sur le Nord-Ouest, tandis que d'autres soulignent que la masse d'air très chaude reste ancrée sur le Centre-Est.",
-        "date_fin_canicule_estimee": "Incertaine (vers le 5 août)",
-        "fiabilite_pourcentage": 55
-    },
-    "tendances_longues": {
-        "tendance_generale": "Poursuite d'une tendance très chaude avec une forte incertitude. Le modèle GFS reste isolé en modélisant un blocage persistant et une nouvelle pompe à chaleur (goutte froide atlantique/portugaise), tandis que les modèles européens (CEP/UKMO) entrevoient un rafraîchissement temporaire et limité grâce à une poussée de flux nordique.",
-        "espoir_changement": "Très faible à mitigé. Il n'y a pas de signal clair et unanime de fin définitive du blocage à plus de 7 jours. Même si une baisse des températures est envisageable à court/moyen terme sur la moitié nord, la réserve d'air chaud reste massive au sud et la menace d'une nouvelle dégradation caniculaire persiste."
-    }
+    "mise_a_jour": "2026-10-14 09:21",
+    "observations": null,
+    "previsions_j5": null,
+    "tendances_longues": null
 }
