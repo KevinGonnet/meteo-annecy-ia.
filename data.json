@@ -1,6 +1,11 @@
 {
-    "mise_a_jour": "2026-10-14 09:21",
-    "observations": null,
+    "mise_a_jour": "2026-10-15 08:57",
+    "observations": {
+        "titre": "Point de situation Centre-Est et Annecy : Chaleur lourde et ambiance étouffante",
+        "temperature_actuelle_et_ressenti": "Les températures oscillent entre 29°C et 33°C en fin de journée (après des maxima relevés jusqu'à 36,5°C), mais en raison d'une forte humidité sous un ciel couvert, le ressenti (humidex) dépasse les 39°C par endroits.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Oui, confirmée sur la majorité du Centre-Est (Tn supérieures à 20°C à Lyon, Grenoble, Sassenage), tandis que le bassin d'Annecy est resté à la limite avec des Tn comprises entre 17,2°C et 20,1°C."
+    },
     "previsions_j5": null,
     "tendances_longues": null
 }
