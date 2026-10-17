@@ -1,6 +1,11 @@
 {
-    "mise_a_jour": "2026-10-16 08:48",
-    "observations": null,
+    "mise_a_jour": "2026-10-17 08:19",
+    "observations": {
+        "titre": "Point météo du Centre-Est : Chaleur lourde, moite et orages isolés",
+        "temperature_actuelle_et_ressenti": "Des températures maximales atteignant 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C près de Grenoble, combinées à une forte humidité pour un ressenti avoisinant les 40.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Oui, nuit tropicale validée sur de nombreuses stations du Centre-Est (Tn supérieures à 20°C à 23°C sur Lyon et l'Isère), tandis que le secteur d'Annecy a conservé des températures minimales plus respirables entre 17°C et 20°C."
+    },
     "previsions_j5": null,
     "tendances_longues": null
 }
