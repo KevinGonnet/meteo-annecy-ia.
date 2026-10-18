@@ -1,11 +1,19 @@
 {
-    "mise_a_jour": "2026-10-17 08:19",
+    "mise_a_jour": "2026-10-18 08:39",
     "observations": {
-        "titre": "Point météo du Centre-Est : Chaleur lourde, moite et orages isolés",
-        "temperature_actuelle_et_ressenti": "Des températures maximales atteignant 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C près de Grenoble, combinées à une forte humidité pour un ressenti avoisinant les 40.",
+        "titre": "Chaleur poisseuse et ambiance tropicale sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures relevées oscillent actuellement entre 26°C et 33°C (après des maximales ayant atteint 36,5°C). Avec l'humidité apportée par de rares averses et un ciel très couvert, l'air est étouffant et le ressenti franchit localement la barre des 39.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, nuit tropicale validée sur de nombreuses stations du Centre-Est (Tn supérieures à 20°C à 23°C sur Lyon et l'Isère), tandis que le secteur d'Annecy a conservé des températures minimales plus respirables entre 17°C et 20°C."
+        "nuit_tropicale": "Nuit tropicale confirmée sur une grande partie de la région (Lyon, Grenoble, Bresse, collines iséroises) avec des Tn restant souvent supérieures à 20°C jusqu'à 23°C. Le bassin d'Annecy est resté tout juste au seuil avec des Tn comprises entre 17,2°C et 20,1°C."
     },
-    "previsions_j5": null,
-    "tendances_longues": null
+    "previsions_j5": {
+        "resume": "Les intervenants s'accordent largement sur l'arrivée d'une nouvelle vague de chaleur très intense à la fin du mois de juillet, avec un pic thermique prévu durant les premiers jours d'août. Cependant, s'il y a un consensus sur le début et la sévérité de l'épisode, une nette incertitude subsiste concernant sa durée exacte et sa date de fin.",
+        "changement_depuis_hier": "Loupé important des modèles sur les précipitations et orages prévus, qui se sont révélés bien plus faibles que modélisé, confirmant un assèchement massif des sols et le retour sans transition de la chaleur extrême.",
+        "date_fin_canicule_estimee": "Indéterminée (incertitude marquée au-delà du pic des premiers jours d'août)",
+        "fiabilite_pourcentage": 40
+    },
+    "tendances_longues": {
+        "tendance_generale": "Maintien d'une dynamique globale très chaude et incertaine à plus de 7 jours. Les modèles oscillent entre la persistance de blocages/gouttes froides atlantiques jouant le rôle de pompe à chaleur (scénario GFS) et de très temporaires rafraîchissements très modérés limités au nord du pays (scénario CEP).",
+        "espoir_changement": "Très faible. Il n'y a pas de signal franc de changement de masse d'air durable ni de fin définitive du blocage chaud. Les baisses de températures envisagées restent très courtes ou localisées, avec un risque élevé de nouvelles advections chaudes."
+    }
 }
