@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-18 08:39",
+    "mise_a_jour": "2026-10-19 09:41",
     "observations": {
-        "titre": "Chaleur poisseuse et ambiance tropicale sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures relevées oscillent actuellement entre 26°C et 33°C (après des maximales ayant atteint 36,5°C). Avec l'humidité apportée par de rares averses et un ciel très couvert, l'air est étouffant et le ressenti franchit localement la barre des 39.",
+        "titre": "Point de situation météorologique : Canicule et lourdeur orageuse sur le Centre-Est et Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C vers Grenoble. L'humidité élevée et la couverture nuageuse génèrent une ambiance de cocotte-minute avec des ressentis proches de 40.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Nuit tropicale confirmée sur une grande partie de la région (Lyon, Grenoble, Bresse, collines iséroises) avec des Tn restant souvent supérieures à 20°C jusqu'à 23°C. Le bassin d'Annecy est resté tout juste au seuil avec des Tn comprises entre 17,2°C et 20,1°C."
+        "nuit_tropicale": "Oui, les températures minimales peinent à repasser sous les 20°C (20 à 23°C sur Lyon et Grenoble, autour de 19 à 20°C sur l'agglomération d'Annecy)."
     },
     "previsions_j5": {
-        "resume": "Les intervenants s'accordent largement sur l'arrivée d'une nouvelle vague de chaleur très intense à la fin du mois de juillet, avec un pic thermique prévu durant les premiers jours d'août. Cependant, s'il y a un consensus sur le début et la sévérité de l'épisode, une nette incertitude subsiste concernant sa durée exacte et sa date de fin.",
-        "changement_depuis_hier": "Loupé important des modèles sur les précipitations et orages prévus, qui se sont révélés bien plus faibles que modélisé, confirmant un assèchement massif des sols et le retour sans transition de la chaleur extrême.",
-        "date_fin_canicule_estimee": "Indéterminée (incertitude marquée au-delà du pic des premiers jours d'août)",
-        "fiabilite_pourcentage": 40
+        "resume": "Une nouvelle vague de chaleur très intense se met en place pour la fin juillet et le début d'août, avec des températures risquant de dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). Bien que l'intensité du pic soit confirmée, l'étendue globale et la durée globale font l'objet de débats.",
+        "changement_depuis_hier": "Les prévisions montrent une légère modération des scénarios les plus extrêmes : la canicule semble plus limitée géographiquement et sa durée a été réduite sur certains modèles par rapport aux sorties alarmistes des jours précédents.",
+        "date_fin_canicule_estimee": "Entre le 3 et le 5 août (incertitude marquée après le pic des premiers jours d'août)",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une dynamique globale très chaude et incertaine à plus de 7 jours. Les modèles oscillent entre la persistance de blocages/gouttes froides atlantiques jouant le rôle de pompe à chaleur (scénario GFS) et de très temporaires rafraîchissements très modérés limités au nord du pays (scénario CEP).",
-        "espoir_changement": "Très faible. Il n'y a pas de signal franc de changement de masse d'air durable ni de fin définitive du blocage chaud. Les baisses de températures envisagées restent très courtes ou localisées, avec un risque élevé de nouvelles advections chaudes."
+        "tendance_generale": "Maintien d'un temps très chaud à caniculaire, avec la persistance ou le renouvellement de gouttes froides atlantiques agissant comme des pompes à chaleur.",
+        "espoir_changement": "Très faible à nul : les rafraîchissements envisagés restent très modestes, temporaires et limités au nord, sans véritable signal de changement durable de masse d'air."
     }
 }
