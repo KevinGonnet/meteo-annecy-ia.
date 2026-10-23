@@ -1,19 +1,16 @@
 {
-    "mise_a_jour": "2026-10-22 09:13",
+    "mise_a_jour": "2026-10-23 09:10",
     "observations": {
-        "titre": "Point météo : Chaleur étouffante et ambiance poisseuse sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures s'échelonnent de 32,8 °C à Annecy jusqu'à 36,5 °C localement. Avec l'humidité apportée par les courtes averses, le ressenti atteint près de 39,5 °C dans une ambiance de cocotte-minute.",
+        "titre": "Point météo : Chaleur étouffante et lourdeur orageuse du bassin d'Annecy au Centre-Est",
+        "temperature_actuelle_et_ressenti": "Les températures s'élèvent généralement entre 30°C et 33°C actuellement, après des maximales ayant atteint 32,8°C à Annecy et jusqu'à 36,5°C en Isère. Avec un ciel voilé à couvert et une forte humidité, l'ambiance est étouffante (« effet cocotte-minute ») donnant un ressenti thermique dépassant parfois les 39.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, plusieurs stations rapportent des nuits tropicales ou limites avec des températures minimales restant au-dessus de 20 °C à 23,4 °C (notamment sur Grenoble, Lyon et les collines du Centre-Est)."
+        "nuit_tropicale": "Plusieurs nuits tropicales sont confirmées dans la région avec des minimales ne descendant pas sous les 20°C à 22°C (ex: 22,8°C à Grenoble, 21,7°C à Lyon, 20,2°C à Sassenage), ainsi qu'à la marge sur les pentes d'Annecy-Est avec 20,1°C."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle vague de chaleur (la 4e de la saison) s'installe fin juillet avec un pic très intense prévu début août, où les températures pourraient atteindre voire dépasser les 40°C dans le Centre-Est (Lyon, Grenoble) sur des sols extrêmement secs.",
-        "changement_depuis_hier": "L'épisode pluvio-orageux espéré a largement échoué. Bien que certains modèles revoient légèrement à la baisse la durée ou l'emprise géographique globale de la canicule à l'échelle nationale, la sévérité du coup de chaud reste confirmée pour la région.",
-        "date_fin_canicule_estimee": "Autour du 4 au 5 août",
-        "fiabilite_pourcentage": 70
+        "resume": "Une nouvelle vague de chaleur très intense est confirmée pour la fin juillet et le début août, avec des températures pouvant dépasser les 40°C dans le Centre-Est (Lyon, Grenoble) après l'échec des précipitations orageuses du week-end.",
+        "changement_depuis_hier": "Légère atténuation du signal sur le Nord-Ouest et hésitation sur la durée exacte, bien que la masse d'air reste modélisée comme extrêmement chaude.",
+        "date_fin_canicule_estimee": "Début août (incertaine après les premiers jours d'août)",
+        "fiabilite_pourcentage": 60
     },
-    "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude et anticyclonique à long terme, caractérisée par une hésitation des modèles autour de gouttes froides stagnantes à l'ouest servant de pompes à chaleur.",
-        "espoir_changement": "Très incertain et faible. Bien que certains modèles comme CEP entrevoient une poussée d'air plus frais par le nord chassant temporairement la chaleur sur la moitié nord, le risque de blocage chaud et de reprise caniculaire par le sud reste fortement présent."
-    }
+    "tendances_longues": null
 }
