@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-25 08:59",
+    "mise_a_jour": "2026-10-26 09:51",
     "observations": {
-        "titre": "Point de situation : Chaleur moite et ambiance étouffante sur le Centre-Est",
-        "temperature_actuelle_et_ressenti": "Dans le bassin d'Annecy, les températures ont atteint 32,8°C sous un ciel laiteux. À l'échelle du Centre-Est, les maximales s'échelonnent entre 32°C et 36,5°C. L'humidité élevée et les courtes averses créent un effet 'cocotte-minute' très lourd, avec un ressenti atteignant jusqu'à 39,5.",
+        "titre": "Bilan météo : Chaleur moite et ambiance de cocotte-minute sur le Centre-Est et Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8 °C dans le bassin d'Annecy et jusqu'à 36,5 °C dans l'Isère. Avec un air saturé d'humidité et des passages nuageux, l'ambiance est très lourde avec un ressenti dépassant fréquemment 39 °C.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Plusieurs stations franchissent le seuil de la nuit tropicale avec des Tn de 20,1°C à Annecy-Est, 20,2°C à Sassenage, 21,7°C à Lyon-Bron et jusqu'à 22,8°C à Grenoble."
+        "nuit_tropicale": "Oui, de nombreuses stations du Centre-Est ont validé une nuit tropicale avec des Tn au-dessus de 20 °C (jusqu'à 22-23 °C sur Lyon et Grenoble). Le bassin d'Annecy a été légèrement plus respirant en fond de vallée (17 °C à 19 °C), mais la nuit est restée tropicale sur les premières pentes (20,1 °C)."
     },
     "previsions_j5": {
-        "resume": "Il existe encore une certaine incertitude quant à la date exacte de fin de la canicule. Si l'arrivée d'une vague de chaleur intense (avec des températures pouvant atteindre 40 °C localement) est confirmée pour le début du mois d'août, les passionnés du forum soulignent que l'épisode pourrait durer environ 4 à 5 jours avant de s'effondrer ou de se modérer.",
-        "changement_depuis_hier": "L'intensité globale et l'étendue géographique de la canicule ont été revues à la baisse par rapport aux modélisations très alarmistes des jours précédents, réduisant la durée et l'impact sur une grande partie du pays.",
-        "date_fin_canicule_estimee": "Entre le 4 et le 5 août 2026 (sous réserve d'affinement)",
-        "fiabilite_pourcentage": 65
+        "resume": "Il existe un consensus sur le retour imminent d'une forte vague de chaleur avec un pic thermique prévu pour les tout premiers jours d'août (températures pouvant dépasser 40°C dans le Centre-Est). En revanche, une incertitude subsiste sur la date exacte de fin : si certains membres du forum évoquent un effondrement des températures après 4 à 5 jours de forte chaleur, d'autres soulignent la résistance et la durabilité potentielle de la masse d'air chaud à 850 hPa.",
+        "changement_depuis_hier": "Les modélisations récentes ont revu à la baisse l'extension géographique et la durée extrême de la canicule (qui s'annonce moins sévère sur le Nord-Ouest). De plus, les pluies/orages du week-end ont été nettement plus faibles et décevants que ce que les modèles prévoyaient initialement.",
+        "date_fin_canicule_estimee": "Début août (autour du 4 au 5 août)",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude et anticyclonique à long terme. La présence ou la récurrence de gouttes froides sur l'Atlantique ou le Portugal risque de continuer à servir de pompe à chaleur, maintenant des masses d'air très chaud sur le pays avec un blocage persistant.",
-        "espoir_changement": "Très faible et très incertain. Bien que certains modèles européens suggèrent des poussées temporaires d'air plus frais par le nord, les scénarios de rafraîchissement restent très modestes, éphémères ou isolés, sans signal solide de fin de blocage à plus de 7 jours."
+        "tendance_generale": "Maintien d'une tendance très chaude à dominante anticyclonique ou de pompes à chaleur (gouttes froides sur l'Atlantique/Portugal). Hésitation marquée entre les modèles (GFS modélisant la poursuite des vagues de chaleur, CEP/UKMO tentant d'infiltrer de l'air plus frais par le nord).",
+        "espoir_changement": "Très faible à incertain. Les tentatives de rafraîchissement semblent temporaires, modestes ou repoussées, sans signal clair de fin définitive du blocage à plus de 7 jours."
     }
 }
