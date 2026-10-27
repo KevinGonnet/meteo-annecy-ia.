@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-26 09:51",
+    "mise_a_jour": "2026-10-27 09:39",
     "observations": {
-        "titre": "Bilan météo : Chaleur moite et ambiance de cocotte-minute sur le Centre-Est et Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8 °C dans le bassin d'Annecy et jusqu'à 36,5 °C dans l'Isère. Avec un air saturé d'humidité et des passages nuageux, l'ambiance est très lourde avec un ressenti dépassant fréquemment 39 °C.",
+        "titre": "Point météo : Chaleur lourde, moite et étouffante sur Annecy et le Centre-Est",
+        "temperature_actuelle_et_ressenti": "Les températures maximales observées atteignent 32,8°C dans le bassin d'Annecy et grimpent jusqu'à 36,5°C plus au sud et à l'ouest de la région. L'humidité élevée combinée aux ciels couverts et aux averses avortées crée une ambiance de 'cocotte-minute' très désagréable, poussant le ressenti (humidex) près des 40.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, de nombreuses stations du Centre-Est ont validé une nuit tropicale avec des Tn au-dessus de 20 °C (jusqu'à 22-23 °C sur Lyon et Grenoble). Le bassin d'Annecy a été légèrement plus respirant en fond de vallée (17 °C à 19 °C), mais la nuit est restée tropicale sur les premières pentes (20,1 °C)."
+        "nuit_tropicale": "Oui, le seuil de la nuit tropicale a été franchi sur une grande partie du Centre-Est avec des minimales comprises entre 20°C et 23,4°C (notamment sur les agglomérations lyonnaise et grenobloise). Dans le bassin d'Annecy, les températures nocturnes sont restées très élevées, frôlant ou dépassant localement ce seuil (jusqu'à 20,1°C sur les pentes du Veyrier)."
     },
     "previsions_j5": {
-        "resume": "Il existe un consensus sur le retour imminent d'une forte vague de chaleur avec un pic thermique prévu pour les tout premiers jours d'août (températures pouvant dépasser 40°C dans le Centre-Est). En revanche, une incertitude subsiste sur la date exacte de fin : si certains membres du forum évoquent un effondrement des températures après 4 à 5 jours de forte chaleur, d'autres soulignent la résistance et la durabilité potentielle de la masse d'air chaud à 850 hPa.",
-        "changement_depuis_hier": "Les modélisations récentes ont revu à la baisse l'extension géographique et la durée extrême de la canicule (qui s'annonce moins sévère sur le Nord-Ouest). De plus, les pluies/orages du week-end ont été nettement plus faibles et décevants que ce que les modèles prévoyaient initialement.",
-        "date_fin_canicule_estimee": "Début août (autour du 4 au 5 août)",
-        "fiabilite_pourcentage": 60
+        "resume": "Il existe un consensus clair sur le retour d'une vague de chaleur intense (4ème canicule) avec des températures pouvant dépasser 40°C au début du mois d'août, bien qu'une incertitude persiste concernant la durée exacte de cet épisode et son étendue exacte selon les régions.",
+        "changement_depuis_hier": "Certains modèles ont légèrement revu à la baisse l'étendue spatiale et la durée de la canicule par rapport aux prévisions initiales extrêmement sévères, même si la masse d'air reste très chaude.",
+        "date_fin_canicule_estimee": "Début août (autour du 5 au 7 août)",
+        "fiabilite_pourcentage": 70
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude à dominante anticyclonique ou de pompes à chaleur (gouttes froides sur l'Atlantique/Portugal). Hésitation marquée entre les modèles (GFS modélisant la poursuite des vagues de chaleur, CEP/UKMO tentant d'infiltrer de l'air plus frais par le nord).",
-        "espoir_changement": "Très faible à incertain. Les tentatives de rafraîchissement semblent temporaires, modestes ou repoussées, sans signal clair de fin définitive du blocage à plus de 7 jours."
+        "tendance_generale": "Incertitude marquée mais nette dominance d'un risque de persistance des hautes pressions et de la chaleur. Les modèles hésitent entre le maintien de blocages (gouttes froides au large de l'Atlantique/Portugal faisant office de pompe à chaleur) et de très modérés rafraîchissements.",
+        "espoir_changement": "Faible à très incertain. Le scénario d'un vrai changement de masse d'air s'amenuise : si le modèle européen (CEP) entrevoit une poussée d'air plus frais par le nord-est pour repousser la chaleur vers le sud, GFS s'obstine sur des scénarios de chaleur extrême et les rafraîchissements envisagés restent souvent très modestes et temporaires."
     }
 }
