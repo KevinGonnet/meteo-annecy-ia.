@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-27 09:39",
+    "mise_a_jour": "2026-10-28 10:24",
     "observations": {
-        "titre": "Point météo : Chaleur lourde, moite et étouffante sur Annecy et le Centre-Est",
-        "temperature_actuelle_et_ressenti": "Les températures maximales observées atteignent 32,8°C dans le bassin d'Annecy et grimpent jusqu'à 36,5°C plus au sud et à l'ouest de la région. L'humidité élevée combinée aux ciels couverts et aux averses avortées crée une ambiance de 'cocotte-minute' très désagréable, poussant le ressenti (humidex) près des 40.",
+        "titre": "Point situation Centre-Est et Annecy : Chaleur lourde, humidité et ambiance tropicale",
+        "temperature_actuelle_et_ressenti": "Températures maximales comprises entre 32,8°C sur le bassin d'Annecy et 36,5°C vers Grenoble. Avec une forte humidité sous ciel voilé ou couvert, le ressenti est étouffant et dépasse fréquemment les 39°C.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, le seuil de la nuit tropicale a été franchi sur une grande partie du Centre-Est avec des minimales comprises entre 20°C et 23,4°C (notamment sur les agglomérations lyonnaise et grenobloise). Dans le bassin d'Annecy, les températures nocturnes sont restées très élevées, frôlant ou dépassant localement ce seuil (jusqu'à 20,1°C sur les pentes du Veyrier)."
+        "nuit_tropicale": "Oui, confirmée sur une grande partie de la région (jusqu'à 22,8°C à Grenoble, 21,7°C à Lyon) et frôlée ou dépassée sur les hauteurs d'Annecy (20,1°C à Annecy-Est)."
     },
     "previsions_j5": {
-        "resume": "Il existe un consensus clair sur le retour d'une vague de chaleur intense (4ème canicule) avec des températures pouvant dépasser 40°C au début du mois d'août, bien qu'une incertitude persiste concernant la durée exacte de cet épisode et son étendue exacte selon les régions.",
-        "changement_depuis_hier": "Certains modèles ont légèrement revu à la baisse l'étendue spatiale et la durée de la canicule par rapport aux prévisions initiales extrêmement sévères, même si la masse d'air reste très chaude.",
-        "date_fin_canicule_estimee": "Début août (autour du 5 au 7 août)",
-        "fiabilite_pourcentage": 70
+        "resume": "Il y a un consensus sur l'arrivée d'une nouvelle vague de chaleur très intense avec un pic prévu autour des premiers jours d'août (dépassant les 40°C dans le Centre-Est). Concernant la fin de la canicule, une incertitude persiste sur l'échéance exacte, bien que les modèles récents entrevoient une baisse des températures après 4 à 5 jours de forte chaleur.",
+        "changement_depuis_hier": "Les modélisations extrêmes et interminables envisagées précédemment ont été revues à la baisse : la durée et l'extension géographique de la canicule ont été réduites, avec un effondrement du phénomène désormais projeté après le pic.",
+        "date_fin_canicule_estimee": "4-5 août 2026",
+        "fiabilite_pourcentage": 65
     },
     "tendances_longues": {
-        "tendance_generale": "Incertitude marquée mais nette dominance d'un risque de persistance des hautes pressions et de la chaleur. Les modèles hésitent entre le maintien de blocages (gouttes froides au large de l'Atlantique/Portugal faisant office de pompe à chaleur) et de très modérés rafraîchissements.",
-        "espoir_changement": "Faible à très incertain. Le scénario d'un vrai changement de masse d'air s'amenuise : si le modèle européen (CEP) entrevoit une poussée d'air plus frais par le nord-est pour repousser la chaleur vers le sud, GFS s'obstine sur des scénarios de chaleur extrême et les rafraîchissements envisagés restent souvent très modestes et temporaires."
+        "tendance_generale": "Maintien d'une tendance très chaude à l'échelle macro, marquée par de fortes hésitations des modèles. GFS modélise la persistance du blocage anticyclonique et une nouvelle goutte froide atlanto-portugaise jouant le rôle de pompe à chaleur, tandis que le CEP et UKMO envisagent une poussée de flux nordique plus rafraîchissante.",
+        "espoir_changement": "Signal faible et très incertain. Bien que le scénario extrême de GFS soit jugé très isolé, le rafraîchissement modélisé par les autres modèles s'annonce court ou modeste, avec un risque persistant de maintien des hautes pressions et de la chaleur sur le pays."
     }
 }
