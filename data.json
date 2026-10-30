@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-29 10:44",
+    "mise_a_jour": "2026-10-30 10:44",
     "observations": {
-        "titre": "Point de situation météo : Touffeur tropicale et lourdeur orageuse sur le Centre-Est",
-        "temperature_actuelle_et_ressenti": "Températures oscillant généralement entre 30°C et 33°C (avec des maxima de 32,8°C dans le bassin d'Annecy et jusqu'à 36,5°C sur le sous-bois isérois). Sous un ciel laiteux et couvert, l'humidité très importante génère une sensation de 'cocotte-minute' avec un ressenti dépassant localement 39.",
+        "titre": "Bilan météo : Ambiance lourdement orageuse et chaleur étouffante sur le Centre-Est et Annecy",
+        "temperature_actuelle_et_ressenti": "Dans le bassin d'Annecy, les températures maximales sont plus modérées mais chaudes avec 32,8°C sous un ciel laiteux. Sur l'ensemble du Centre-Est, la chaleur est intense (jusqu'à 35°C à Grenoble et 36,5°C à Sassenage) combinée à une forte humidité, créant un ressenti étouffant dépassant parfois 39.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, de nombreuses stations du Centre-Est ont validé une nuit tropicale avec des températures minimales (Tn) supérieures à 20°C (jusqu'à 22°C à 23°C sur Lyon et Grenoble). Autour d'Annecy, les Tn se sont établies le plus souvent entre 17°C et 20°C."
+        "nuit_tropicale": "De nombreuses stations du Centre-Est valident des nuits tropicales avec des minimales ne descendant pas sous les 20°C (22,8°C à Grenoble, 21,7°C à Lyon, 20,2°C à Sassenage). Le bassin d'Annecy frôle également ce seuil avec 20,1°C sur les pentes de l'Est."
     },
     "previsions_j5": {
-        "resume": "Un consensus existe sur l'arrivée d'une nouvelle vague de chaleur très intense avec des températures risquant de dépasser les 40°C dans le Centre-Est, mais des incertitudes persistent quant à sa durée exacte et au moment du rafraîchissement.",
-        "changement_depuis_hier": "Les orages prévus ont été un loupé général des modèles et ont peu apporté de répit ; les projections récentes montrent une très légère modération de l'extension géographique, bien que la masse d'air reste extrêmement chaude.",
-        "date_fin_canicule_estimee": "Début août 2026 (autour du 3 au 5 août)",
-        "fiabilite_pourcentage": 65
+        "resume": "Une quatrième vague de chaleur importante est confirmée pour le Centre-Est, avec des températures maximales pouvant dépasser les 40 °C à Lyon et Grenoble vers le début du mois d'août. Les précipitations orageuses récentes ont été très décevantes et n'ont pas permis d'enrayer la sécheresse.",
+        "changement_depuis_hier": "L'intensité et la durée globale de cette canicule ont été revues à la baisse par rapport aux modélisations précédentes : l'épisode s'annonce plus court (environ 4 à 5 jours) et moins étendu au niveau national.",
+        "date_fin_canicule_estimee": "Début août 2026 (vers le 4 ou 5 août)",
+        "fiabilite_pourcentage": 70
     },
     "tendances_longues": {
-        "tendance_generale": "Poursuite d'un temps chaud à très chaud, marqué par la persistance d'un blocage anticyclonique et le risque d'un mécanisme de pompe à chaleur (goutte froide sur l'Atlantique/Portugal) entretenant ou relançant des vagues de chaleur successives.",
-        "espoir_changement": "Très faible. Les modélisations n'indiquent aucun rafraîchissement durable à plus de 7 jours ; les baisses de température envisagées sont jugées trop modestes, temporaires ou circonscrites à la moitié nord."
+        "tendance_generale": "Maintien d'une tendance très chaude et durable. Les modélisations montrent la persistance de hautes pressions et de gouttes froides sur l'Atlantique/Portugal jouant le rôle de pompes à chaleur, risquant d'enchaîner sur une nouvelle vague de chaleur intense.",
+        "espoir_changement": "Aucun signal clair de fin de blocage. Les tentatives de rafraîchissement sont jugées très modestes, temporaires ou circonscrites, et les modèles peinent à concrétiser un changement durable de masse d'air à plus de 7 jours."
     }
 }
