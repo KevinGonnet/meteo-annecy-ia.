@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-10-30 10:44",
+    "mise_a_jour": "2026-10-31 10:13",
     "observations": {
-        "titre": "Bilan météo : Ambiance lourdement orageuse et chaleur étouffante sur le Centre-Est et Annecy",
-        "temperature_actuelle_et_ressenti": "Dans le bassin d'Annecy, les températures maximales sont plus modérées mais chaudes avec 32,8°C sous un ciel laiteux. Sur l'ensemble du Centre-Est, la chaleur est intense (jusqu'à 35°C à Grenoble et 36,5°C à Sassenage) combinée à une forte humidité, créant un ressenti étouffant dépassant parfois 39.",
+        "titre": "Point de situation météo : Chaleur lourde et ambiance moite sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8 °C dans le bassin d'Annecy et jusqu'à 36,5 °C sur l'agglomération grenobloise. Malgré un ciel très couvert en fin de journée et quelques averses localisées, les températures restent élevées (29 à 33 °C actuels) et l'humidité importante crée un ressenti étouffant (« effet cocotte-minute ») avec un indice humidex frôlant les 40.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "De nombreuses stations du Centre-Est valident des nuits tropicales avec des minimales ne descendant pas sous les 20°C (22,8°C à Grenoble, 21,7°C à Lyon, 20,2°C à Sassenage). Le bassin d'Annecy frôle également ce seuil avec 20,1°C sur les pentes de l'Est."
+        "nuit_tropicale": "Les nuits tropicales (Tn > 20 °C) restent très répandues dans la région (21,7 °C à Lyon, jusqu'à 23,4 °C à Grenoble et 20,7 °C sur les collines). Le bassin d'Annecy a temporairement respiré en fin de nuit avec des Tn s'échelonnant entre 17,2 °C et 20,1 °C selon les secteurs."
     },
     "previsions_j5": {
-        "resume": "Une quatrième vague de chaleur importante est confirmée pour le Centre-Est, avec des températures maximales pouvant dépasser les 40 °C à Lyon et Grenoble vers le début du mois d'août. Les précipitations orageuses récentes ont été très décevantes et n'ont pas permis d'enrayer la sécheresse.",
-        "changement_depuis_hier": "L'intensité et la durée globale de cette canicule ont été revues à la baisse par rapport aux modélisations précédentes : l'épisode s'annonce plus court (environ 4 à 5 jours) et moins étendu au niveau national.",
-        "date_fin_canicule_estimee": "Début août 2026 (vers le 4 ou 5 août)",
-        "fiabilite_pourcentage": 70
+        "resume": "Une nouvelle vague de chaleur très intense est confirmée avec un pic prévu début août (températures pouvant dépasser 40 °C). Cependant, il existe une incertitude sur sa durée : certains observent un essoufflement du phénomène après 4 à 5 jours, tandis que d'autres redoutent un épisode plus durable.",
+        "changement_depuis_hier": "Les prévisions d'extension géographique ont été revues à la baisse pour le Nord-Ouest, mais l'intensité de la chaleur reste très élevée pour le Centre-Est et le Sud.",
+        "date_fin_canicule_estimee": "Entre le 4 et le 6 août (date incertaine)",
+        "fiabilite_pourcentage": 55
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude et durable. Les modélisations montrent la persistance de hautes pressions et de gouttes froides sur l'Atlantique/Portugal jouant le rôle de pompes à chaleur, risquant d'enchaîner sur une nouvelle vague de chaleur intense.",
-        "espoir_changement": "Aucun signal clair de fin de blocage. Les tentatives de rafraîchissement sont jugées très modestes, temporaires ou circonscrites, et les modèles peinent à concrétiser un changement durable de masse d'air à plus de 7 jours."
+        "tendance_generale": "Persistance d'un régime très chaud à très chaud, marqué par des gouttes froides atlantiques agissant comme des pompes à chaleur et prolongeant les conditions caniculaires.",
+        "espoir_changement": "Très faible. Les tentatives de rafraîchissement par le nord sont modélisées comme temporaires, très modestes ou limitées à la moitié nord, sans véritable signal de fin durable du blocage anticyclonique."
     }
 }
