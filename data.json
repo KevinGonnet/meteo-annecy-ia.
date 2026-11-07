@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-06 11:53",
+    "mise_a_jour": "2026-11-07 10:54",
     "observations": {
-        "titre": "Point de situation Centre-Est & Annecy : Chaleur moite, risque d'orages et effet 'cocotte-minute'",
-        "temperature_actuelle_et_ressenti": "Dans le bassin d'Annecy, les maximales atteignent 32,8 °C sous un ciel laiteux. Sur l'ensemble du Centre-Est, le thermomètre grimpe entre 32 °C et 36,5 °C (jusqu'à 35 °C à Grenoble et 36,5 °C à Sassenage). L'humidité ambiante accentue fortement l'inconfort : avec les averses marginales, le ressenti dépasse fréquemment 39 d'humidex dans une ambiance très lourde.",
+        "titre": "Bilan météo Centre-Est et Annecy : Chaleur lourde, moite et nuits tropicales",
+        "temperature_actuelle_et_ressenti": "Les températures atteignent 32,8°C dans le bassin d'Annecy et grimpent jusqu'à 36,5°C entre Isère et Plaine de l'Ain. L'humidité ambiante et la couverture nuageuse créent un effet 'cocotte-minute' très désagréable avec des ressentis (humidex) dépassant fréquemment 39°C.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Aux abord d'Annecy, les températures nocturnes ont frôlé le seuil tropical (Tn entre 17,2 °C à l'aéroport et 20,1 °C sur les premières pentes). En revanche, la nuit tropicale a été largement validée sur le reste de la région, notamment à Lyon (21,7 °C à 22,5 °C) et Grenoble (20,2 °C à 23,4 °C)."
+        "nuit_tropicale": "Nuits tropicales avérées sur une grande partie du Centre-Est (Tn entre 20°C et 23°C à Lyon, Grenoble et sur les reliefs). Dans la cuvette d'Annecy, le seuil a été frôlé avec des Tn comprises entre 17,2°C et 20,1°C."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle vague de chaleur très intense (la 4ème de la saison) s'installe à la fin juillet avec un pic prévu début août, où la barre des 40°C pourrait être franchie dans le Centre-Est (Lyon, Grenoble). Toutefois, l'épisode s'annonce un peu moins généralisé à l'échelle nationale que prévu initialement.",
-        "changement_depuis_hier": "Les modélisations se sont légèrement modérées concernant l'extension géographique et l'extrémisme des températures sur la moitié nord-ouest, réduisant la durée globale de la canicule à l'échelle nationale par rapport aux prévisions d'il y a 3-4 jours.",
-        "date_fin_canicule_estimee": "Entre le 4 et le 6 août 2026 (décroissance envisagée après un pic les tout premiers jours d'août, mais des incertitudes subsistent)",
-        "fiabilite_pourcentage": 60
+        "resume": "Une nouvelle vague de chaleur très intense est confirmée pour fin juillet et début août, avec des températures risquant d'atteindre ou dépasser les 40°C. Toutefois, le scénario initial d'une fournaise interminable a été revu à la baisse par les derniers modèles.",
+        "changement_depuis_hier": "Nette modération des prévisions : la durée et l'étendue spatiale de la canicule ont été réduites par rapport aux modélisations extrêmement alarmanter des jours précédents.",
+        "date_fin_canicule_estimee": "Autour du 4 au 5 août (effondrement des températures après 4 à 5 jours de fortes chaleurs)",
+        "fiabilite_pourcentage": 65
     },
     "tendances_longues": {
-        "tendance_generale": "Poursuite d'une masse d'air très chaude à extrêmement chaude sur le pays, avec un risque de blocage anticyclonique durable ou de récurrence de gouttes froides atlantiques agissant comme des pompes à chaleur (amorce d'une potentielle nouvelle vague de chaleur).",
-        "espoir_changement": "Très faible à incertain. Même si certains modèles comme CEP proposent une poussée d'air plus frais par le nord, les scénarios restent très hésitants et le risque de maintien ou de reprise de la fournaise (notamment sur le sud) domine largement l'échéance à plus de 7 jours."
+        "tendance_generale": "Maintien d'une dynamique très chaude et potentiellement caniculaire à long terme. Les modélisations restent dominées par le risque d'isolement de gouttes froides sur l'Atlantique ou le Portugal faisant office de pompe à chaleur, malgré d'importantes divergences entre modèles.",
+        "espoir_changement": "Très incertain et mitigé. Si le modèle européen (CEP) entrevoit une poussée du flux nordique apportant un rafraîchissement temporaire (surtout sur le nord du pays), le modèle américain (GFS) s'obstine à bloquer tout changement de masse d'air durable, repoussant ainsi la fin de la vague de chaleur."
     }
 }
