@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-07 10:54",
+    "mise_a_jour": "2026-11-08 11:06",
     "observations": {
-        "titre": "Bilan météo Centre-Est et Annecy : Chaleur lourde, moite et nuits tropicales",
-        "temperature_actuelle_et_ressenti": "Les températures atteignent 32,8°C dans le bassin d'Annecy et grimpent jusqu'à 36,5°C entre Isère et Plaine de l'Ain. L'humidité ambiante et la couverture nuageuse créent un effet 'cocotte-minute' très désagréable avec des ressentis (humidex) dépassant fréquemment 39°C.",
+        "titre": "Point de situation : Chaleur étouffante et lourdement orageuse sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures actuelles restent très élevées, oscillant généralement entre 27°C et 33°C malgré la couverture nuageuse. Sur Annecy, la maximale a atteint 32,8°C, tandis que des pics à 36,5°C ont été mesurés plus au sud. Avec l'humidité apportée par les tentatives d'averses, le ressenti est particulièrement lourd et pénible (ressenti jusqu'à 39,5).",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Nuits tropicales avérées sur une grande partie du Centre-Est (Tn entre 20°C et 23°C à Lyon, Grenoble et sur les reliefs). Dans la cuvette d'Annecy, le seuil a été frôlé avec des Tn comprises entre 17,2°C et 20,1°C."
+        "nuit_tropicale": "Oui, largement confirmée sur une grande partie du Centre-Est (Tn supérieures à 20°C à 22°C à Lyon, Grenoble, Sassenage). Dans le bassin d'Annecy, la nuit a été à la limite de la nuit tropicale avec des Tn entre 17,2°C en plaine/aéroport et 20,1°C sur les premières pentes."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle vague de chaleur très intense est confirmée pour fin juillet et début août, avec des températures risquant d'atteindre ou dépasser les 40°C. Toutefois, le scénario initial d'une fournaise interminable a été revu à la baisse par les derniers modèles.",
-        "changement_depuis_hier": "Nette modération des prévisions : la durée et l'étendue spatiale de la canicule ont été réduites par rapport aux modélisations extrêmement alarmanter des jours précédents.",
-        "date_fin_canicule_estimee": "Autour du 4 au 5 août (effondrement des températures après 4 à 5 jours de fortes chaleurs)",
-        "fiabilite_pourcentage": 65
+        "resume": "Une nouvelle vague de chaleur très intense est confirmée pour la fin juillet et le début du mois d'août, avec des températures risquant de dépasser 40°C dans le Centre-Est. Il existe cependant une incertitude sur la durée exacte de l'épisode et le moment précis de son essoufflement.",
+        "changement_depuis_hier": "Les modélisations les plus extrêmes ont été légèrement modérées par certains modèles quant à la durée et à l'étendue géographique, bien que les températures prévues restent très élevées.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026 (incertain)",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une dynamique très chaude et potentiellement caniculaire à long terme. Les modélisations restent dominées par le risque d'isolement de gouttes froides sur l'Atlantique ou le Portugal faisant office de pompe à chaleur, malgré d'importantes divergences entre modèles.",
-        "espoir_changement": "Très incertain et mitigé. Si le modèle européen (CEP) entrevoit une poussée du flux nordique apportant un rafraîchissement temporaire (surtout sur le nord du pays), le modèle américain (GFS) s'obstine à bloquer tout changement de masse d'air durable, repoussant ainsi la fin de la vague de chaleur."
+        "tendance_generale": "Maintien d'une dynamique globale très chaude avec risque de renouvellement des vagues de chaleur à cause de gouttes froides isolées sur l'Atlantique faisant office de pompe à chaleur.",
+        "espoir_changement": "Très limité à long terme. Les tentatives de rafraîchissement restent modestes, temporaires et principalement cantonnées au nord, sans signal clair de fin durable du blocage chaud."
     }
 }
