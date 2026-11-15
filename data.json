@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-14 11:15",
+    "mise_a_jour": "2026-11-15 11:47",
     "observations": {
-        "titre": "Point de situation : Chaleur moite et ambiance de cocotte-minute sur le Centre-Est et Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32,8°C à Annecy et jusqu'à 36,5°C dans le bassin grenoblois. Avec l'humidité ambiante et les rares passages pluvieux/nuageux, le ressenti est particulièrement lourd et étouffant, approchant régulièrement les 39 à 40 de ressentis sous forme d'effet cocotte-minute.",
+        "titre": "Point de situation météo : Chaleur lourde et moite sur le Centre-Est et Annecy",
+        "temperature_actuelle_et_ressenti": "Dans le bassin d'Annecy, la maximale a atteint 32,8 °C sous un ciel laiteux et couvert. Sur l'ensemble du Centre-Est, les températures maximales s'échelonnent entre 31 °C et 36,5 °C (notamment à Sassenage). L'humidité ambiante et le couvercle nuageux provoquent une sensation très lourde de 'cocotte-minute', avec des ressentis dépassant les 39 (par exemple 39,5 enregistré dans l'Ain pour 32 °C et 48 % d'humidité).",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, confirmée dans une grande partie de la région avec des minimales supérieures à 20°C (jusqu'à 22,8°C à Grenoble et 21,7°C à Lyon). Dans le bassin d'Annecy, la limite tropicale a été frôlée de très près avec des Tn comprises entre 19,5°C et 20,1°C selon les secteurs."
+        "nuit_tropicale": "Nuit tropicale confirmée sur une grande partie du Centre-Est avec des minimales très élevées (21,7 à 22,5 °C sur Lyon, 22,8 °C sur Grenoble, 20,7 °C en collines). Dans le bassin d'Annecy, la nuit a été très douce avec des minimales comprises entre 17,2 °C à l'aéroport et 20,1 °C sur les premières pentes du Veyrier où le seuil tropical a été franchi."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle vague de chaleur intense se confirme pour la fin juillet et le début du mois d'août avec des températures maximales pouvant dépasser les 40°C dans le Centre-Est. Cependant, des divergences subsistent entre intervenants quant à sa durée exacte et son intensité globale.",
-        "changement_depuis_hier": "Les dernières modélisations revoient légèrement à la baisse l'ampleur géographique de la canicule (notamment sur le Nord-Ouest) et sa durée par rapport aux scénarios très extrêmes envisagés quelques jours plus tôt.",
-        "date_fin_canicule_estimee": "Autour du 3 au 5 août 2026",
+        "resume": "Un consensus existe quant à l'arrivée d'une nouvelle vague de chaleur très intense (la 4ème de la saison) à partir de mercredi/jeudi, avec des températures risquant de dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). En revanche, il subsiste une incertitude sur la fin de cette canicule : certains membres évoquent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent un épisode plus durable et interminable.",
+        "changement_depuis_hier": "Les prévisions montrent une légère modération de l'extension géographique de la canicule sur le Nord-Ouest du pays, mais le signal thermique reste extrêmement élevé et confirmé pour la région Centre-Est.",
+        "date_fin_canicule_estimee": "5 août 2026",
         "fiabilite_pourcentage": 65
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une dynamique très chaude avec risque de blocage ou d'effet \"pompe à chaleur\" récurrent alimenté par des gouttes froides atlantiques.",
-        "espoir_changement": "Faible et très incertain. Bien que le modèle CEP propose des rafraîchissements temporaires par le nord, la persistance des hautes pressions et des scénarios chauds limite les perspectives de vrai changement de masse d'air à long terme."
+        "tendance_generale": "Persistance de conditions très chaudes à extrêmement chaudes à long terme. Les modélisations oscillent entre l'isolement de gouttes froides sur l'Atlantique ou le Portugal faisant office de pompe à chaleur, et des tentatives de poussées d'air un peu plus frais par le nord qui restent très modestes ou limitées à la moitié nord.",
+        "espoir_changement": "Très faible à incertain. Il n'y a pas de signal macro franc marquant la fin du blocage ou un vrai changement durable de masse d'air. Les périodes de répit ou de rafraîchissement s'annoncent éphémères et trop courtes, avec la menace récurrente d'une nouvelle vague de chaleur."
     }
 }
