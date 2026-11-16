@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-15 11:47",
+    "mise_a_jour": "2026-11-16 12:29",
     "observations": {
-        "titre": "Point de situation météo : Chaleur lourde et moite sur le Centre-Est et Annecy",
-        "temperature_actuelle_et_ressenti": "Dans le bassin d'Annecy, la maximale a atteint 32,8 °C sous un ciel laiteux et couvert. Sur l'ensemble du Centre-Est, les températures maximales s'échelonnent entre 31 °C et 36,5 °C (notamment à Sassenage). L'humidité ambiante et le couvercle nuageux provoquent une sensation très lourde de 'cocotte-minute', avec des ressentis dépassant les 39 (par exemple 39,5 enregistré dans l'Ain pour 32 °C et 48 % d'humidité).",
+        "titre": "Point météo Centre-Est et Annecy : Chaleur étouffante, moiteur et orages furtifs",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 34°C à 36,5°C dans la région. Avec l'humidité accumulée et les pluies trop faibles, l'ambiance est qualifiée de 'cocotte-minute' avec un ressenti dépassant parfois 39. Sur le bassin d'Annecy, sous un ciel laiteux et lourd, l'air reste extrêmement poisseux malgré quelques rares averses.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Nuit tropicale confirmée sur une grande partie du Centre-Est avec des minimales très élevées (21,7 à 22,5 °C sur Lyon, 22,8 °C sur Grenoble, 20,7 °C en collines). Dans le bassin d'Annecy, la nuit a été très douce avec des minimales comprises entre 17,2 °C à l'aéroport et 20,1 °C sur les premières pentes du Veyrier où le seuil tropical a été franchi."
+        "nuit_tropicale": "Généralisée sur une grande partie du Centre-Est (Lyon avec 21,7°C, Grenoble avec 22,8°C, Sassenage 20,2°C). Sur le secteur d'Annecy, les minimales sont restées très élevées (souvent comprises entre 17,2°C et 19,7°C), frôlant le seuil et le franchissant localement sur les pentes Est (20,1°C)."
     },
     "previsions_j5": {
-        "resume": "Un consensus existe quant à l'arrivée d'une nouvelle vague de chaleur très intense (la 4ème de la saison) à partir de mercredi/jeudi, avec des températures risquant de dépasser les 40°C dans le Centre-Est (Lyon, Grenoble). En revanche, il subsiste une incertitude sur la fin de cette canicule : certains membres évoquent un effondrement des températures après 4 à 5 jours, tandis que d'autres redoutent un épisode plus durable et interminable.",
-        "changement_depuis_hier": "Les prévisions montrent une légère modération de l'extension géographique de la canicule sur le Nord-Ouest du pays, mais le signal thermique reste extrêmement élevé et confirmé pour la région Centre-Est.",
-        "date_fin_canicule_estimee": "5 août 2026",
-        "fiabilite_pourcentage": 65
+        "resume": "Il n'y a pas de consensus absolu mais une incertitude grandissante : alors que certains prévisionnistes anticipaient une canicule très durable et extrême, les dernières modélisations montrent une baisse d'intensité et une réduction géographique de la vague de chaleur, bien que des pics à 40 °C restent très probables dans le Centre-Est.",
+        "changement_depuis_hier": "Les prévisions se sont modérées par rapport aux jours précédents : la canicule a 'pris un coup dans l'aile' sur la moitié nord-ouest et sa durée globale semble revue à la baisse.",
+        "date_fin_canicule_estimee": "Début août (autour du 3 au 5 août)",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "Persistance de conditions très chaudes à extrêmement chaudes à long terme. Les modélisations oscillent entre l'isolement de gouttes froides sur l'Atlantique ou le Portugal faisant office de pompe à chaleur, et des tentatives de poussées d'air un peu plus frais par le nord qui restent très modestes ou limitées à la moitié nord.",
-        "espoir_changement": "Très faible à incertain. Il n'y a pas de signal macro franc marquant la fin du blocage ou un vrai changement durable de masse d'air. Les périodes de répit ou de rafraîchissement s'annoncent éphémères et trop courtes, avec la menace récurrente d'une nouvelle vague de chaleur."
+        "tendance_generale": "Maintien d'une tendance très chaude à caniculaire à long terme, dominée par le risque de positionnement d'une goutte froide sur l'Atlantique/Portugal faisant office de pompe à chaleur.",
+        "espoir_changement": "Très faible et très incertain. Bien que des modèles comme CEP ou UKMO suggèrent des baisses temporaires ou un rafraîchissement éphémère par le nord, GFS persiste sur un scénario de blocage durable et d'extrême chaleur, retardant tout véritable changement de masse d'air."
     }
 }
