@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-16 12:29",
+    "mise_a_jour": "2026-11-17 12:51",
     "observations": {
-        "titre": "Point météo Centre-Est et Annecy : Chaleur étouffante, moiteur et orages furtifs",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 34°C à 36,5°C dans la région. Avec l'humidité accumulée et les pluies trop faibles, l'ambiance est qualifiée de 'cocotte-minute' avec un ressenti dépassant parfois 39. Sur le bassin d'Annecy, sous un ciel laiteux et lourd, l'air reste extrêmement poisseux malgré quelques rares averses.",
+        "titre": "Point de situation : Canicule moite et lourdeur extrême sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont oscillé entre 31 et 36,5 °C dans la région. Avec la couverture nuageuse et l'humidité résiduelle des faibles averses, l'ambiance est particulièrement étouffante ('effet cocotte-minute') avec des ressentis dépassant les 39,5 °C.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Généralisée sur une grande partie du Centre-Est (Lyon avec 21,7°C, Grenoble avec 22,8°C, Sassenage 20,2°C). Sur le secteur d'Annecy, les minimales sont restées très élevées (souvent comprises entre 17,2°C et 19,7°C), frôlant le seuil et le franchissant localement sur les pentes Est (20,1°C)."
+        "nuit_tropicale": "Oui, largement observée dans le Centre-Est (Tn souvent comprises entre 20 et 22,8 °C à Lyon, Grenoble et sur les hauteurs) et franchie à l'est d'Annecy avec 20,1 °C aux pentes du Veyrier."
     },
     "previsions_j5": {
-        "resume": "Il n'y a pas de consensus absolu mais une incertitude grandissante : alors que certains prévisionnistes anticipaient une canicule très durable et extrême, les dernières modélisations montrent une baisse d'intensité et une réduction géographique de la vague de chaleur, bien que des pics à 40 °C restent très probables dans le Centre-Est.",
-        "changement_depuis_hier": "Les prévisions se sont modérées par rapport aux jours précédents : la canicule a 'pris un coup dans l'aile' sur la moitié nord-ouest et sa durée globale semble revue à la baisse.",
-        "date_fin_canicule_estimee": "Début août (autour du 3 au 5 août)",
-        "fiabilite_pourcentage": 60
+        "resume": "Une 4ème canicule se confirme pour fin juillet et début août avec des températures pouvant dépasser les 40°C dans le Centre-Est. Cependant, les avis divergent sur sa durée : si certains prévoyaient une vague de chaleur interminable, les dernières sorties de modèles montrent un certain rafraîchissement ou un effondrement des températures après 4 à 5 jours.",
+        "changement_depuis_hier": "L'intensité et la durée de la canicule ont été revues à la baisse sur les derniers runs (« pris un sacré coup dans l'aile »), avec une fin d'épisode désormais modélisée plus rapidement que redouté auparavant.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
+        "fiabilite_pourcentage": 65
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude à caniculaire à long terme, dominée par le risque de positionnement d'une goutte froide sur l'Atlantique/Portugal faisant office de pompe à chaleur.",
-        "espoir_changement": "Très faible et très incertain. Bien que des modèles comme CEP ou UKMO suggèrent des baisses temporaires ou un rafraîchissement éphémère par le nord, GFS persiste sur un scénario de blocage durable et d'extrême chaleur, retardant tout véritable changement de masse d'air."
+        "tendance_generale": "Maintien de conditions très chaudes à dominante anticyclonique ou sous l'effet de gouttes froides atlantiques agissant comme des pompes à chaleur. Les modèles oscillent entre des scénarios extrêmes de poursuite/reprise de la canicule (notamment GFS) et des options plus modérées mais restant au-dessus des normes.",
+        "espoir_changement": "Très faible et très incertain. Si certains modèles (comme CEP ou UKMO) entrevoient temporairement des infiltrations d'air plus frais par le nord, les rafraîchissements s'annoncent modestes et éphémères, avec la menace persistante d'un nouveau blocage et d'une 4ème vague de chaleur."
     }
 }
