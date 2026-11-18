@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-17 12:51",
+    "mise_a_jour": "2026-11-18 12:44",
     "observations": {
-        "titre": "Point de situation : Canicule moite et lourdeur extrême sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont oscillé entre 31 et 36,5 °C dans la région. Avec la couverture nuageuse et l'humidité résiduelle des faibles averses, l'ambiance est particulièrement étouffante ('effet cocotte-minute') avec des ressentis dépassant les 39,5 °C.",
+        "titre": "Point situation : Chaleur lourde et ambiance de cocotte-minute sur Annecy et le Centre-Est",
+        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent entre 31°C et 36,5°C sur la région, avec encore 32°C à 33°C en fin de journée sous un ciel couvert. Dans le bassin d'Annecy, l'ambiance laiteuse maintient des températures moites (autour de 19,5°C le matin). Avec l'humidité ambiante et les quelques averses tropicales/mouille-poussière, l'ambiance est extrêmement lourde avec un ressenti (humidex) atteignant jusqu'à 39,5.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, largement observée dans le Centre-Est (Tn souvent comprises entre 20 et 22,8 °C à Lyon, Grenoble et sur les hauteurs) et franchie à l'est d'Annecy avec 20,1 °C aux pentes du Veyrier."
+        "nuit_tropicale": "Oui, la nuit tropicale est largement confirmée sur le Centre-Est (Tn de 20,2°C à 23,4°C observées sur Lyon, Grenoble, la Bresse et les collines). Autour d'Annecy, le seuil des 20°C a été franchi sur les hauts du Veyrier (20,1°C), tandis que le fond de bassin est resté de peu sous le seuil (17°C à 19,7°C)."
     },
     "previsions_j5": {
-        "resume": "Une 4ème canicule se confirme pour fin juillet et début août avec des températures pouvant dépasser les 40°C dans le Centre-Est. Cependant, les avis divergent sur sa durée : si certains prévoyaient une vague de chaleur interminable, les dernières sorties de modèles montrent un certain rafraîchissement ou un effondrement des températures après 4 à 5 jours.",
-        "changement_depuis_hier": "L'intensité et la durée de la canicule ont été revues à la baisse sur les derniers runs (« pris un sacré coup dans l'aile »), avec une fin d'épisode désormais modélisée plus rapidement que redouté auparavant.",
-        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
-        "fiabilite_pourcentage": 65
+        "resume": "Une nouvelle vague de chaleur intense se confirme pour la fin de semaine avec des températures pouvant dépasser les 40°C dans le Centre-Est. Il n'y a pas encore de consensus absolu sur sa fin : certains intervenants craignent une canicule très durable, tandis que les tout derniers runs suggèrent un épisode un peu moins extrême et plus court que redouté initialement.",
+        "changement_depuis_hier": "Les modélisations très sévères ont revu à la baisse l'intensité globale et l'emprise géographique de la vague de chaleur, avec un effondrement possible des températures après 4 à 5 jours.",
+        "date_fin_canicule_estimee": "Entre le 3 et le 5 août 2026 (incertaine)",
+        "fiabilite_pourcentage": 55
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien de conditions très chaudes à dominante anticyclonique ou sous l'effet de gouttes froides atlantiques agissant comme des pompes à chaleur. Les modèles oscillent entre des scénarios extrêmes de poursuite/reprise de la canicule (notamment GFS) et des options plus modérées mais restant au-dessus des normes.",
-        "espoir_changement": "Très faible et très incertain. Si certains modèles (comme CEP ou UKMO) entrevoient temporairement des infiltrations d'air plus frais par le nord, les rafraîchissements s'annoncent modestes et éphémères, avec la menace persistante d'un nouveau blocage et d'une 4ème vague de chaleur."
+        "tendance_generale": "Maintien d'une tendance très chaude avec risque de poursuite du blocage. Une goutte froide s'isolant sur l'Atlantique ou le Portugal menace de servir de pompe à chaleur, entretenant la masse d'air brûlante et retardant un rafraîchissement franc.",
+        "espoir_changement": "Très limité et incertain. Seul le modèle européen (CEP) entrevoit une poussée temporaire d'un flux nordique rafraîchissant, tandis que GFS persiste à modéliser un blocage chaud et l'enchaînement avec une nouvelle vague de chaleur."
     }
 }
