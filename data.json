@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-18 12:44",
+    "mise_a_jour": "2026-11-19 12:35",
     "observations": {
-        "titre": "Point situation : Chaleur lourde et ambiance de cocotte-minute sur Annecy et le Centre-Est",
-        "temperature_actuelle_et_ressenti": "Les températures maximales oscillent entre 31°C et 36,5°C sur la région, avec encore 32°C à 33°C en fin de journée sous un ciel couvert. Dans le bassin d'Annecy, l'ambiance laiteuse maintient des températures moites (autour de 19,5°C le matin). Avec l'humidité ambiante et les quelques averses tropicales/mouille-poussière, l'ambiance est extrêmement lourde avec un ressenti (humidex) atteignant jusqu'à 39,5.",
+        "titre": "Point de situation météo Centre-Est & Bassin d'Annecy : Chaleur suffocante et ambiance moite",
+        "temperature_actuelle_et_ressenti": "Les températures s'échelonnent généralement entre 31°C et 36,5°C (avec 32°C à 34°C relevés vers Annecy et Grenoble). En raison d'une forte humidité sous un ciel couvert et d'averses très marginales, l'ambiance est extrêmement lourde avec des ressentis (Humidex) frôlant ou dépassant les 39,5 par endroits.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, la nuit tropicale est largement confirmée sur le Centre-Est (Tn de 20,2°C à 23,4°C observées sur Lyon, Grenoble, la Bresse et les collines). Autour d'Annecy, le seuil des 20°C a été franchi sur les hauts du Veyrier (20,1°C), tandis que le fond de bassin est resté de peu sous le seuil (17°C à 19,7°C)."
+        "nuit_tropicale": "Oui, franchie ou frôlée selon les secteurs. Des Tn supérieures à 20°C ont été enregistrées sur les premières pentes de l'Est d'Annecy (20,1°C), ainsi qu'à Lyon (21,7°C à 22,5°C) et Grenoble (20,2°C à 22,8°C). Le reste du bassin annécien est resté très chaud avec des Tn comprises entre 19,1°C et 19,7°C."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle vague de chaleur intense se confirme pour la fin de semaine avec des températures pouvant dépasser les 40°C dans le Centre-Est. Il n'y a pas encore de consensus absolu sur sa fin : certains intervenants craignent une canicule très durable, tandis que les tout derniers runs suggèrent un épisode un peu moins extrême et plus court que redouté initialement.",
-        "changement_depuis_hier": "Les modélisations très sévères ont revu à la baisse l'intensité globale et l'emprise géographique de la vague de chaleur, avec un effondrement possible des températures après 4 à 5 jours.",
-        "date_fin_canicule_estimee": "Entre le 3 et le 5 août 2026 (incertaine)",
-        "fiabilite_pourcentage": 55
+        "resume": "Les prévisionnistes s'accordent sur l'arrivée d'une nouvelle vague de chaleur très intense avec un pic début août (pouvant dépasser 40°C), mais il existe une incertitude quant à sa durée exacte. Si l'épisode s'annonce durable dans le Centre-Est, certains experts notent que la trajectoire globale a été revue à la baisse par rapport aux scénarios les plus extrêmes.",
+        "changement_depuis_hier": "Les modèles ont modéré leurs prévisions par rapport aux derniers jours : la vague de chaleur semble moins étendue géographiquement et un peu moins durable qu'initialement craint, malgré des températures de masse d'air toujours très élevées.",
+        "date_fin_canicule_estimee": "Autour du 4 au 5 août (à confirmer selon l'évolution)",
+        "fiabilite_pourcentage": 60
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude avec risque de poursuite du blocage. Une goutte froide s'isolant sur l'Atlantique ou le Portugal menace de servir de pompe à chaleur, entretenant la masse d'air brûlante et retardant un rafraîchissement franc.",
-        "espoir_changement": "Très limité et incertain. Seul le modèle européen (CEP) entrevoit une poussée temporaire d'un flux nordique rafraîchissant, tandis que GFS persiste à modéliser un blocage chaud et l'enchaînement avec une nouvelle vague de chaleur."
+        "tendance_generale": "Maintien de conditions très chaudes et incertaines à long terme. La mise en place ou le maintien d'une goutte froide sur l'Atlantique/Portugal risque d'agir à nouveau comme une pompe à chaleur, entretenant la menace d'une nouvelle vague de chaleur au lieu d'un réel rafraîchissement généralisé.",
+        "espoir_changement": "Très faible et très contesté. Bien que le modèle CEP suggère par moments un temporaire décrochage plus frais par le nord, les scénarios dominants et l'obstination de GFS font craindre la poursuite du blocage chaud avec une dégradation limitée ou très courte."
     }
 }
