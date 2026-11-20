@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-19 12:35",
+    "mise_a_jour": "2026-11-20 12:34",
     "observations": {
-        "titre": "Point de situation météo Centre-Est & Bassin d'Annecy : Chaleur suffocante et ambiance moite",
-        "temperature_actuelle_et_ressenti": "Les températures s'échelonnent généralement entre 31°C et 36,5°C (avec 32°C à 34°C relevés vers Annecy et Grenoble). En raison d'une forte humidité sous un ciel couvert et d'averses très marginales, l'ambiance est extrêmement lourde avec des ressentis (Humidex) frôlant ou dépassant les 39,5 par endroits.",
+        "titre": "Point météo Centre-Est : Chaleur étouffante, ambiance moite et nuits tropicales",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32°C à 36,5°C selon les secteurs. Avec le passage de faibles averses orageuses, l'atmosphère est particulièrement lourde et moite (effet 'cocotte-minute'), générant un ressenti dépassant parfois 39°C.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, franchie ou frôlée selon les secteurs. Des Tn supérieures à 20°C ont été enregistrées sur les premières pentes de l'Est d'Annecy (20,1°C), ainsi qu'à Lyon (21,7°C à 22,5°C) et Grenoble (20,2°C à 22,8°C). Le reste du bassin annécien est resté très chaud avec des Tn comprises entre 19,1°C et 19,7°C."
+        "nuit_tropicale": "Oui, les nuits restent extrêmement chaudes avec de nombreuses Tn supérieures à 20°C sur la région (jusqu'à 22,8°C à Grenoble, 22,5°C à Lyon et 20,1°C à Annecy-Est)."
     },
     "previsions_j5": {
-        "resume": "Les prévisionnistes s'accordent sur l'arrivée d'une nouvelle vague de chaleur très intense avec un pic début août (pouvant dépasser 40°C), mais il existe une incertitude quant à sa durée exacte. Si l'épisode s'annonce durable dans le Centre-Est, certains experts notent que la trajectoire globale a été revue à la baisse par rapport aux scénarios les plus extrêmes.",
-        "changement_depuis_hier": "Les modèles ont modéré leurs prévisions par rapport aux derniers jours : la vague de chaleur semble moins étendue géographiquement et un peu moins durable qu'initialement craint, malgré des températures de masse d'air toujours très élevées.",
-        "date_fin_canicule_estimee": "Autour du 4 au 5 août (à confirmer selon l'évolution)",
-        "fiabilite_pourcentage": 60
+        "resume": "Il existe une incertitude importante quant à la fin de la canicule. Bien que la mise en place d'une nouvelle vague de chaleur très intense à court terme soit confirmée (avec des valeurs pouvant dépasser les 40°C), les membres du forum hésitent entre un épisode durable d'au moins une semaine et une dégradation plus rapide avec effondrement des températures après un pic.",
+        "changement_depuis_hier": "Les modélisations récentes ont légèrement revu à la baisse la durée et la portée géographique de la canicule par rapport aux projections extrêmement sépérales et durables envisagées les jours précédents.",
+        "date_fin_canicule_estimee": "Début août (entre le 3 et le 5 août)",
+        "fiabilite_pourcentage": 50
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien de conditions très chaudes et incertaines à long terme. La mise en place ou le maintien d'une goutte froide sur l'Atlantique/Portugal risque d'agir à nouveau comme une pompe à chaleur, entretenant la menace d'une nouvelle vague de chaleur au lieu d'un réel rafraîchissement généralisé.",
-        "espoir_changement": "Très faible et très contesté. Bien que le modèle CEP suggère par moments un temporaire décrochage plus frais par le nord, les scénarios dominants et l'obstination de GFS font craindre la poursuite du blocage chaud avec une dégradation limitée ou très courte."
+        "tendance_generale": "Maintien d'un temps très chaud à l'échéance +7 jours avec une hésitation marquée des modèles. GFS modélise la persistance voire l'aggravation de la canicule via une goutte froide sur l'Atlantique/Portugal jouant le rôle de pompe à chaleur, tandis que les autres modèles hésitent entre un rafraîchissement très temporaire par le nord et un blocage chaud persistant.",
+        "espoir_changement": "Signal très faible et incertain. Les tentatives de rafraîchissement sont jugées trop modestes ou temporaires, la dynamique de goutte froide atlantique risquant d'entretenir le blocage chaud au lieu de le briser."
     }
 }
