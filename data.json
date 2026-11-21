@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-20 12:34",
+    "mise_a_jour": "2026-11-21 12:14",
     "observations": {
-        "titre": "Point météo Centre-Est : Chaleur étouffante, ambiance moite et nuits tropicales",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 32°C à 36,5°C selon les secteurs. Avec le passage de faibles averses orageuses, l'atmosphère est particulièrement lourde et moite (effet 'cocotte-minute'), générant un ressenti dépassant parfois 39°C.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, les nuits restent extrêmement chaudes avec de nombreuses Tn supérieures à 20°C sur la région (jusqu'à 22,8°C à Grenoble, 22,5°C à Lyon et 20,1°C à Annecy-Est)."
+        "titre": "Point météo Centre-Est & Annecy : Moiteur étouffante et risque orageux sous une chaleur accumulée",
+        "temperature_actuelle_et_ressenti": "Températures actuelles encore très élevées oscillant entre 29°C et 33,3°C sous un ciel de plus en plus lourd et chargé d'humidité. Le ressenti atteint fréquemment 38 à 40 (jusqu'à 39,5 calculé dans l'Ain) en raison de la moiteur pré-orageuse. Les températures maximales ont frôlé ou dépassé les seuils de très forte chaleur (36,5°C à Sassenage, 35°C à Grenoble, plus de 32°C à 33°C sur l'agglomération d'Annecy).",
+        "indice_epuisement_sur_10": 9,
+        "nuit_tropicale": "Nuits tropicales largement validées sur une grande partie du Centre-Est (Tn de 20,2°C à 23,4°C entre Grenoble, Lyon et les collines). Le bassin annécien est resté tout juste à la limite du seuil tropical en fin de nuit, avec des Tn très étagées selon l'exposition : de 17,2°C à l'aéroport jusqu'à 20,1°C sur les premières pentes du Mont Veyrier."
     },
     "previsions_j5": {
-        "resume": "Il existe une incertitude importante quant à la fin de la canicule. Bien que la mise en place d'une nouvelle vague de chaleur très intense à court terme soit confirmée (avec des valeurs pouvant dépasser les 40°C), les membres du forum hésitent entre un épisode durable d'au moins une semaine et une dégradation plus rapide avec effondrement des températures après un pic.",
-        "changement_depuis_hier": "Les modélisations récentes ont légèrement revu à la baisse la durée et la portée géographique de la canicule par rapport aux projections extrêmement sépérales et durables envisagées les jours précédents.",
-        "date_fin_canicule_estimee": "Début août (entre le 3 et le 5 août)",
-        "fiabilite_pourcentage": 50
+        "resume": "Il y a un consensus sur le déclenchement d'une nouvelle vague de chaleur marquée (4ème canicule) atteignant son pic début août avec des températures pouvant dépasser 40°C dans le Centre-Est, mais une incertitude demeure sur sa durée exacte.",
+        "changement_depuis_hier": "Les scénarios modélisés se sont légèrement modérés : l'extension géographique et l'intensité extrême ont été revues à la baisse par rapport aux sorties très alarmistes des jours précédents.",
+        "date_fin_canicule_estimee": "Entre le 4 et le 5 août (baisse attendue après les premiers jours d'août)",
+        "fiabilite_pourcentage": 65
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'un temps très chaud à l'échéance +7 jours avec une hésitation marquée des modèles. GFS modélise la persistance voire l'aggravation de la canicule via une goutte froide sur l'Atlantique/Portugal jouant le rôle de pompe à chaleur, tandis que les autres modèles hésitent entre un rafraîchissement très temporaire par le nord et un blocage chaud persistant.",
-        "espoir_changement": "Signal très faible et incertain. Les tentatives de rafraîchissement sont jugées trop modestes ou temporaires, la dynamique de goutte froide atlantique risquant d'entretenir le blocage chaud au lieu de le briser."
+        "tendance_generale": "Persistance d'un temps très chaud avec une hésitation marquée des modèles à long terme. GFS modélise un scénario extrême de 'pompe à chaleur' à cause d'une goutte froide isolée sur le Portugal, maintenant un blocage chaud, tandis que d'autres modèles (CEP, UKMO) envisagent un rafraîchissement très temporaire et modeste par le nord/nord-est.",
+        "espoir_changement": "Faible et très incertain. Bien que des décrochages temporaires de températures soient envisagés (rafraîchissement court au nord), il n'y a pas de signal clair et durable de fin de blocage ou de changement de masse d'air à grande échelle, la chaleur extrême restant embusquée au sud."
     }
 }
