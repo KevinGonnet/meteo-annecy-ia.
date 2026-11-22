@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-21 12:14",
+    "mise_a_jour": "2026-11-22 12:20",
     "observations": {
-        "titre": "Point météo Centre-Est & Annecy : Moiteur étouffante et risque orageux sous une chaleur accumulée",
-        "temperature_actuelle_et_ressenti": "Températures actuelles encore très élevées oscillant entre 29°C et 33,3°C sous un ciel de plus en plus lourd et chargé d'humidité. Le ressenti atteint fréquemment 38 à 40 (jusqu'à 39,5 calculé dans l'Ain) en raison de la moiteur pré-orageuse. Les températures maximales ont frôlé ou dépassé les seuils de très forte chaleur (36,5°C à Sassenage, 35°C à Grenoble, plus de 32°C à 33°C sur l'agglomération d'Annecy).",
-        "indice_epuisement_sur_10": 9,
-        "nuit_tropicale": "Nuits tropicales largement validées sur une grande partie du Centre-Est (Tn de 20,2°C à 23,4°C entre Grenoble, Lyon et les collines). Le bassin annécien est resté tout juste à la limite du seuil tropical en fin de nuit, avec des Tn très étagées selon l'exposition : de 17,2°C à l'aéroport jusqu'à 20,1°C sur les premières pentes du Mont Veyrier."
+        "titre": "Situation suffocante dans le Centre-Est : humidité marquée et chaleur persistante autour d'Annecy",
+        "temperature_actuelle_et_ressenti": "Températures maximales fréquemment comprises entre 32°C et 36.5°C sous un ciel laiteux ou nuageux. L'humidité apportée par de brèves averses orageuses rend l'ambiance particulièrement lourde (effet 'cocotte-minute'), avec des indices de ressenti grimpant jusqu'à 39.5.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Frôlée dans le bassin d'Annecy (Tn de 17.2°C à Meythet à 20.1°C sur les premières pentes), mais largement généralisée sur le reste de la région (Tn entre 20°C et 23.4°C à Lyon, Grenoble et sur les collines)."
     },
     "previsions_j5": {
-        "resume": "Il y a un consensus sur le déclenchement d'une nouvelle vague de chaleur marquée (4ème canicule) atteignant son pic début août avec des températures pouvant dépasser 40°C dans le Centre-Est, mais une incertitude demeure sur sa durée exacte.",
-        "changement_depuis_hier": "Les scénarios modélisés se sont légèrement modérés : l'extension géographique et l'intensité extrême ont été revues à la baisse par rapport aux sorties très alarmistes des jours précédents.",
-        "date_fin_canicule_estimee": "Entre le 4 et le 5 août (baisse attendue après les premiers jours d'août)",
-        "fiabilite_pourcentage": 65
+        "resume": "Une nouvelle vague de chaleur (la 4e de la saison) est confirmée pour le centre-est avec des températures maximales pouvant dépasser les 40 °C à Lyon et Grenoble. Cependant, l'intensité globale et la durée ont été revues à la baisse par rapport aux projections initiales très alarmistes.",
+        "changement_depuis_hier": "L'ampleur de la canicule a été sensiblement modérée sur les derniers runs : la moitié nord-ouest est désormais épargnée et la durée de l'épisode a été réduite à 4-5 jours avant une baisse des températures.",
+        "date_fin_canicule_estimee": "4 au 5 août 2026",
+        "fiabilite_pourcentage": 70
     },
     "tendances_longues": {
-        "tendance_generale": "Persistance d'un temps très chaud avec une hésitation marquée des modèles à long terme. GFS modélise un scénario extrême de 'pompe à chaleur' à cause d'une goutte froide isolée sur le Portugal, maintenant un blocage chaud, tandis que d'autres modèles (CEP, UKMO) envisagent un rafraîchissement très temporaire et modeste par le nord/nord-est.",
-        "espoir_changement": "Faible et très incertain. Bien que des décrochages temporaires de températures soient envisagés (rafraîchissement court au nord), il n'y a pas de signal clair et durable de fin de blocage ou de changement de masse d'air à grande échelle, la chaleur extrême restant embusquée au sud."
+        "tendance_generale": "Maintien d'une dynamique très chaude et anticyclonique à long terme. Les gouttes froides peinent à s'enfoncer sur le pays et risquent de s'isoler sur l'Atlantique ou le Portugal, agissant comme une pompe à chaleur (notamment sur le scénario GFS).",
+        "espoir_changement": "Faible et très incertain. Les modèles hésitent, mais la baisse des températures envisagée (notamment sur CEP) s'annonce très modeste, temporaire et principalement cantonnée au Nord, sans réel rafraîchissement durable ni changement majeur de masse d'air à l'échelle du pays."
     }
 }
