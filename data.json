@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-22 12:20",
+    "mise_a_jour": "2026-11-23 14:08",
     "observations": {
-        "titre": "Situation suffocante dans le Centre-Est : humidité marquée et chaleur persistante autour d'Annecy",
-        "temperature_actuelle_et_ressenti": "Températures maximales fréquemment comprises entre 32°C et 36.5°C sous un ciel laiteux ou nuageux. L'humidité apportée par de brèves averses orageuses rend l'ambiance particulièrement lourde (effet 'cocotte-minute'), avec des indices de ressenti grimpant jusqu'à 39.5.",
+        "titre": "Point météo : Ambiance lourde et moite sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Sur le bassin d'Annecy, le ciel est resté laiteux avec des températures comprises entre 17°C et 20°C au réveil. Sur l'ensemble du Centre-Est (Isère, Ain, Lyon), la chaleur s'est montrée accablante avec des valeurs s'élevant entre 32°C et 33°C actuellement et des maximas locaux atteignant 36,5°C. L'humidité stagnante (« effet cocotte-minute ») pousse le ressenti jusqu'à près de 40°C par endroits.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Frôlée dans le bassin d'Annecy (Tn de 17.2°C à Meythet à 20.1°C sur les premières pentes), mais largement généralisée sur le reste de la région (Tn entre 20°C et 23.4°C à Lyon, Grenoble et sur les collines)."
+        "nuit_tropicale": "Oui, la nuit tropicale est confirmée sur de nombreuses stations du Centre-Est (Tn de 21,7°C à 22,5°C sur Lyon, 22,8°C à Grenoble, 20,2°C à Sassenage). Dans le bassin d'Annecy, le seuil des 20°C a été franchi sur les pentes de l'Est (20,1°C au Veyrier) et frôlé partout ailleurs (19,1°C à 19,7°C)."
     },
     "previsions_j5": {
-        "resume": "Une nouvelle vague de chaleur (la 4e de la saison) est confirmée pour le centre-est avec des températures maximales pouvant dépasser les 40 °C à Lyon et Grenoble. Cependant, l'intensité globale et la durée ont été revues à la baisse par rapport aux projections initiales très alarmistes.",
-        "changement_depuis_hier": "L'ampleur de la canicule a été sensiblement modérée sur les derniers runs : la moitié nord-ouest est désormais épargnée et la durée de l'épisode a été réduite à 4-5 jours avant une baisse des températures.",
-        "date_fin_canicule_estimee": "4 au 5 août 2026",
-        "fiabilite_pourcentage": 70
+        "resume": "Une 4ème canicule se confirme pour la semaine prochaine avec un pic thermique prévu au tout début du mois d'août (températures pouvant dépasser 40°C à Lyon/Grenoble). Cependant, il n'y a pas un consensus total sur sa durée exacte : certains membres constatent une revue à la baisse de la durée et de l'intensité sur les derniers runs, tandis que d'autres restent prudents face à une masse d'air très chaude bien ancrée.",
+        "changement_depuis_hier": "L'épisode orageux attendu a déçu et les modélisations les plus extrêmes pour la canicule ont été légèrement tempérées, réduisant l'emprise géographique et la durée globale de la vague de chaleur par rapport aux prévisions précédentes.",
+        "date_fin_canicule_estimee": "Autour du 4-5 août 2026 (incertitude à confirmer)",
+        "fiabilite_pourcentage": 55
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'une dynamique très chaude et anticyclonique à long terme. Les gouttes froides peinent à s'enfoncer sur le pays et risquent de s'isoler sur l'Atlantique ou le Portugal, agissant comme une pompe à chaleur (notamment sur le scénario GFS).",
-        "espoir_changement": "Faible et très incertain. Les modèles hésitent, mais la baisse des températures envisagée (notamment sur CEP) s'annonce très modeste, temporaire et principalement cantonnée au Nord, sans réel rafraîchissement durable ni changement majeur de masse d'air à l'échelle du pays."
+        "tendance_generale": "Maintien d'une tendance très chaude et potentiellement durable. Les modélisations (notamment GFS) mettent en avant le blocage de gouttes froides sur l'Atlantique ou le Portugal, agissant comme de véritables pompes à chaleur vers la France, sous l'effet de hautes pressions bloquées vers le nord de l'Europe.",
+        "espoir_changement": "Très faible à court/moyen terme. Bien que le modèle européen (CEP) suggère une possible baisse des températures par le nord, les signaux globaux montrent des rafraîchissements très temporaires ou modestes, avec un risque persistant de réitération des vagues de chaleur."
     }
 }
