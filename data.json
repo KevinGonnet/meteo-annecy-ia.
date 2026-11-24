@@ -1,19 +1,11 @@
 {
-    "mise_a_jour": "2026-11-23 14:08",
+    "mise_a_jour": "2026-11-24 14:37",
     "observations": {
-        "titre": "Point météo : Ambiance lourde et moite sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Sur le bassin d'Annecy, le ciel est resté laiteux avec des températures comprises entre 17°C et 20°C au réveil. Sur l'ensemble du Centre-Est (Isère, Ain, Lyon), la chaleur s'est montrée accablante avec des valeurs s'élevant entre 32°C et 33°C actuellement et des maximas locaux atteignant 36,5°C. L'humidité stagnante (« effet cocotte-minute ») pousse le ressenti jusqu'à près de 40°C par endroits.",
-        "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, la nuit tropicale est confirmée sur de nombreuses stations du Centre-Est (Tn de 21,7°C à 22,5°C sur Lyon, 22,8°C à Grenoble, 20,2°C à Sassenage). Dans le bassin d'Annecy, le seuil des 20°C a été franchi sur les pentes de l'Est (20,1°C au Veyrier) et frôlé partout ailleurs (19,1°C à 19,7°C)."
+        "titre": "Bilan météorologique Centre-Est & Bassin d'Annecy : Lourdeur extrême et nuits tropicales",
+        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 33°C à 36,5°C dans la région. Actuellement, l'atmosphère reste très chaude (29°C à 33°C) et saturée d'humidité après de brèves averses orageuses localisées. Le ressenti (Humidex) frôle ou dépasse les 39,5°C à 40°C sous un couvercle nuageux étouffant.",
+        "indice_epuisement_sur_10": 9,
+        "nuit_tropicale": "Largement confirmée. Le seuil de nuit tropicale (Tn > 20°C) a été dépassé dans la plupart des agglomérations et sur les hauteurs (Lyon, Grenoble, Terres-Froides, Sassenage, et jusqu'à 20,1°C sur les premières pentes de l'Est d'Annecy). Le bassin d'Annecy est resté généralement entre 19°C et 20°C en plaine (17,2°C à Meythet)."
     },
-    "previsions_j5": {
-        "resume": "Une 4ème canicule se confirme pour la semaine prochaine avec un pic thermique prévu au tout début du mois d'août (températures pouvant dépasser 40°C à Lyon/Grenoble). Cependant, il n'y a pas un consensus total sur sa durée exacte : certains membres constatent une revue à la baisse de la durée et de l'intensité sur les derniers runs, tandis que d'autres restent prudents face à une masse d'air très chaude bien ancrée.",
-        "changement_depuis_hier": "L'épisode orageux attendu a déçu et les modélisations les plus extrêmes pour la canicule ont été légèrement tempérées, réduisant l'emprise géographique et la durée globale de la vague de chaleur par rapport aux prévisions précédentes.",
-        "date_fin_canicule_estimee": "Autour du 4-5 août 2026 (incertitude à confirmer)",
-        "fiabilite_pourcentage": 55
-    },
-    "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude et potentiellement durable. Les modélisations (notamment GFS) mettent en avant le blocage de gouttes froides sur l'Atlantique ou le Portugal, agissant comme de véritables pompes à chaleur vers la France, sous l'effet de hautes pressions bloquées vers le nord de l'Europe.",
-        "espoir_changement": "Très faible à court/moyen terme. Bien que le modèle européen (CEP) suggère une possible baisse des températures par le nord, les signaux globaux montrent des rafraîchissements très temporaires ou modestes, avec un risque persistant de réitération des vagues de chaleur."
-    }
+    "previsions_j5": null,
+    "tendances_longues": null
 }
