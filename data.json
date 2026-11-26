@@ -1,19 +1,6 @@
 {
-    "mise_a_jour": "2026-11-25 13:58",
-    "observations": {
-        "titre": "Bilan météo : Ambiance très lourde et chaleur moite sur le Centre-Est et le bassin d'Annecy",
-        "temperature_actuelle_et_ressenti": "Les températures maximales ont atteint 33°C à 36,5°C dans la région. Actuellement, le thermomètre affiche encore souvent 32°C à 33,3°C sous un ciel couvert et très moite, poussant le ressenti jusqu'à près de 39,5°C avec l'humidité élevée (effet 'cocotte-minute'). Sur le bassin d'Annecy, après des températures minimales entre 17,2°C et 20,1°C, l'ambiance reste lourde sous un ciel laiteux.",
-        "indice_epuisement_sur_10": 9,
-        "nuit_tropicale": "Oui, confirmée sur une large partie du Centre-Est avec des températures minimales dépassant les 20°C (20,2°C à Sassenage, 21,7°C à Lyon, 22,8°C à Grenoble et 20,1°C sur les premières pentes d'Annecy-Est)."
-    },
-    "previsions_j5": {
-        "resume": "Il existe un consensus sur le retour imminent de très fortes chaleurs (pics > 40°C envisagés autour du début du mois d'août), mais une forte incertitude persiste concernant la durée exacte et la date de fin de la canicule. Si certains intervenants évoquent un effondrement des températures après 4 à 5 jours, d'autres soulignent que les échéances restent floues et sujettes à ajustement.",
-        "changement_depuis_hier": "Les prévisions se sont légèrement modérées en étendue par rapport aux scénarios extrêmes d'il y a quelques jours, mais le signal d'une vague de chaleur intense à partir du milieu de semaine prochaine se confirme.",
-        "date_fin_canicule_estimee": "Début août 2026 (autour du 4-5 août, à confirmer)",
-        "fiabilite_pourcentage": 55
-    },
-    "tendances_longues": {
-        "tendance_generale": "Maintien d'une tendance très chaude et potentiellement extrême à long terme. Les modèles hésitent mais plusieurs scénarios (notamment GFS) modélisent la persistance d'une goutte froide sur l'Atlantique faisant office de pompe à chaleur, menaçant le pays d'une nouvelle vague de chaleur.",
-        "espoir_changement": "Faible et très incertain. Un rafraîchissement temporaire et modeste reste envisagé par le modèle CEP sur la moitié nord via un flux nordique, mais le blocage chaud domine largement et toute baisse des températures risque d'être trop courte ou repoussée."
-    }
+    "mise_a_jour": "2026-11-26 13:37",
+    "observations": null,
+    "previsions_j5": null,
+    "tendances_longues": null
 }
