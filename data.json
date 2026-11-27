@@ -1,6 +1,19 @@
 {
-    "mise_a_jour": "2026-11-26 13:37",
-    "observations": null,
-    "previsions_j5": null,
-    "tendances_longues": null
+    "mise_a_jour": "2026-11-27 13:33",
+    "observations": {
+        "titre": "Bilan météo Centre-Est et Annecy : Chaleur lourde, humidité suffocante et nuits tropicales",
+        "temperature_actuelle_et_ressenti": "Les températures s'échelonnent généralement entre 31°C et 36,5°C l'après-midi (jusqu'à 36.5°C à Sassenage). Avec une forte humidité, le ressenti atteint localement près de 40°C (39,5 à 32°C et 48% d'HR). Dans le bassin d'Annecy, après des Tn entre 17,2°C et 20,1°C sous un ciel laiteux, l'ambiance devient très lourde sous les nuages.",
+        "indice_epuisement_sur_10": 8,
+        "nuit_tropicale": "Oui, de nombreuses stations du Centre-Est enregistrent des nuits tropicales (Tn au-dessus de 20°C à Lyon, Grenoble, en Bresse et sur les reliefs/collines). Seuls certains fonds de vallée de Haute-Savoie (ex: Annecy-Meythet à 17,2°C) ont temporairement échappé au seuil tropical."
+    },
+    "previsions_j5": {
+        "resume": "Il existe un consensus sur le retour d'une nouvelle vague de chaleur très intense (pouvant dépasser les 40 °C), mais une incertitude importante subsiste concernant sa durée exacte et la date de la baisse des températures.",
+        "changement_depuis_hier": "Les prévisions récentes ont légèrement revu à la baisse l'extension et l'intensité globale de la canicule par rapport aux modélisations extrêmement fortes des jours précédents.",
+        "date_fin_canicule_estimee": "Début août (après un pic prévu dans les premiers jours d'août)",
+        "fiabilite_pourcentage": 55
+    },
+    "tendances_longues": {
+        "tendance_generale": "Maintien d'un contexte très chaud à chaud avec la persistance ou la réitération de gouttes froides atlantiques/portugaises agissant comme des pompes à chaleur. Risque de prolongation de la vague de chaleur ou de départ d'une 4ème vague.",
+        "espoir_changement": "Très limité et incertain. Seul le modèle européen (CEP) entrevoit un rafraîchissement temporaire par le nord via un flux nordique, tandis que GFS persiste à isoler une goutte froide au Portugal, maintenant le blocage et repoussant toute véritable fin de la chaleur."
+    }
 }
