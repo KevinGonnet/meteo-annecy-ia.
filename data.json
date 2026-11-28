@@ -1,19 +1,19 @@
 {
-    "mise_a_jour": "2026-11-27 13:33",
+    "mise_a_jour": "2026-11-28 12:46",
     "observations": {
-        "titre": "Bilan météo Centre-Est et Annecy : Chaleur lourde, humidité suffocante et nuits tropicales",
-        "temperature_actuelle_et_ressenti": "Les températures s'échelonnent généralement entre 31°C et 36,5°C l'après-midi (jusqu'à 36.5°C à Sassenage). Avec une forte humidité, le ressenti atteint localement près de 40°C (39,5 à 32°C et 48% d'HR). Dans le bassin d'Annecy, après des Tn entre 17,2°C et 20,1°C sous un ciel laiteux, l'ambiance devient très lourde sous les nuages.",
+        "titre": "Point météo : Chaleur moite et ambiance de cocotte-minute sur le Centre-Est et le bassin d'Annecy",
+        "temperature_actuelle_et_ressenti": "Les températures s'élèvent encore entre 32°C et 33,3°C en fin de journée malgré un ciel couvert. En raison de l'humidité accumulée et des pluies très faibles, l'ambiance est étouffante avec des ressentis dépassant les 39,5°C par endroits.",
         "indice_epuisement_sur_10": 8,
-        "nuit_tropicale": "Oui, de nombreuses stations du Centre-Est enregistrent des nuits tropicales (Tn au-dessus de 20°C à Lyon, Grenoble, en Bresse et sur les reliefs/collines). Seuls certains fonds de vallée de Haute-Savoie (ex: Annecy-Meythet à 17,2°C) ont temporairement échappé au seuil tropical."
+        "nuit_tropicale": "Oui, les nuits tropicales sont bien installées. Dans le bassin d'Annecy, la Tn a atteint 20,1°C sur les premières pentes du Veyrier. Ailleurs dans la région, les minimales nocturnes ont culminé entre 20,2°C (Sassenage), 21,7°C (Lyon) et jusqu'à 22,8°C (Grenoble)."
     },
     "previsions_j5": {
-        "resume": "Il existe un consensus sur le retour d'une nouvelle vague de chaleur très intense (pouvant dépasser les 40 °C), mais une incertitude importante subsiste concernant sa durée exacte et la date de la baisse des températures.",
-        "changement_depuis_hier": "Les prévisions récentes ont légèrement revu à la baisse l'extension et l'intensité globale de la canicule par rapport aux modélisations extrêmement fortes des jours précédents.",
-        "date_fin_canicule_estimee": "Début août (après un pic prévu dans les premiers jours d'août)",
-        "fiabilite_pourcentage": 55
+        "resume": "Une nouvelle vague de chaleur (la 4ème de la saison) reste confirmée pour début août avec des températures pouvant dépasser les 40 °C dans le Centre-Est (Lyon, Grenoble). Toutefois, elle s'annonce moins durable et moins étendue à l'échelle nationale que ce que prévoyaient les modèles initiaux.",
+        "changement_depuis_hier": "Nette revue à la baisse de l'intensité et de la durée : la canicule a perdu du terrain sur la moitié nord-ouest et devrait désormais s'effondrer après 4 à 5 jours d'intensité forte.",
+        "date_fin_canicule_estimee": "Autour du 4 ou 5 août 2026",
+        "fiabilite_pourcentage": 70
     },
     "tendances_longues": {
-        "tendance_generale": "Maintien d'un contexte très chaud à chaud avec la persistance ou la réitération de gouttes froides atlantiques/portugaises agissant comme des pompes à chaleur. Risque de prolongation de la vague de chaleur ou de départ d'une 4ème vague.",
-        "espoir_changement": "Très limité et incertain. Seul le modèle européen (CEP) entrevoit un rafraîchissement temporaire par le nord via un flux nordique, tandis que GFS persiste à isoler une goutte froide au Portugal, maintenant le blocage et repoussant toute véritable fin de la chaleur."
+        "tendance_generale": "Maintien d'un risque élevé de forte chaleur à très long terme avec d'importantes divergences entre modèles. GFS modélise une persistance de la masse d'air brûlante (goutte froide atlantique jouant le rôle de pompe à chaleur), tandis que d'autres modèles (CEP) envisagent un rafraîchissement très temporaire par le nord, sans rupture nette de la masse d'air sur le pays.",
+        "espoir_changement": "Très faible à incertain. Les tentatives de rafraîchissement apparaissent courtes ou réduites, avec le risque persistant du retour précoce des vagues de chaleur en raison du blocage des hautes pressions et de récurrences dépressionnaires au large de la péninsule Ibérique."
     }
 }
